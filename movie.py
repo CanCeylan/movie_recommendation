@@ -25,10 +25,10 @@ class Movie:
     # self.tagline = movie.tagline
     self.rating = movie.rating
     self.type = movie.type
-    self.cast_summary = movie.cast_summary
-    self.writers_summary = movie.writers_summary
+    self.cast_summary = '|'.join(p.name for p in movie.cast_summary)
+    self.writers_summary = '|'.join(p.name for p in movie.writers_summary)
     self.creators = movie.creators
-    self.directors_summary = movie.directors_summary
+    self.directors_summary = '|'.join(p.name for p in movie.directors_summary)
     self.runtime = movie.runtime
     self.votes = movie.votes
     self.certification = movie.certification

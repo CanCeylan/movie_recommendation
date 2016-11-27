@@ -1,12 +1,24 @@
 import pandas as pd
 import os
+import math
+
+def checkPeople(people, item):
+
+  count = 0.0
+  if item == item:
+    print item
+    for p in people:
+      if p in item:
+        count += 1
+
+  return count/len(people)
 
 def Calculate(movie_id):
 
   path = os.path.join(os.getcwd(), "data", "{0}_workfile.tsv".format(movie_id))
   df = pd.read_csv(path, sep='\t')
 
-  columns = ['id', 'title', 'freq', 'rating', 'year', 'votes', 'runtime', 'type', 'certification', 'action', 'comedy', 'horror', 'thriller', 'adventure', 'mystery', 'drama', 'history', 'sci_fi', 'crime', 'romance', 'music', 'western', 'war', 'biography', 'fantasy', 'family']
+  columns = ['id', 'title', 'freq', 'rating', 'year', 'votes', 'runtime', 'type', 'certification', 'action', 'comedy', 'horror', 'thriller', 'adventure', 'mystery', 'drama', 'history', 'sci_fi', 'crime', 'romance', 'music', 'western', 'war', 'biography', 'fantasy', 'family','cast_summary', 'writers_summary', 'directors_summary']
   df = df[columns]
   df = df.sort_values(by='freq', ascending=False)
   df[['freq','rating','votes','year','runtime']] = df[['freq','rating','votes','year','runtime']].apply(pd.to_numeric, errors='coerce')
@@ -22,6 +34,13 @@ def Calculate(movie_id):
 
   categories = ['action', 'comedy', 'horror', 'thriller', 'adventure', 'mystery', 'drama', 'history', 'sci_fi', 'crime', 'romance', 'music', 'western', 'war', 'biography', 'fantasy', 'family']
   ratios = pd.DataFrame()
+
+  pp = ['cast_summary', 'writers_summary', 'directors_summary']
+  for col in df.columns:
+    if col in pp:
+      print target_movie[col].iloc[0]
+      people = target_movie[col].iloc[0].split('|')
+      df['adj_' + col] = df.apply(lambda row: checkPeople(people, row[col]), axis=1)
 
   for cat in df.columns:
     if cat in categories:
@@ -47,9 +66,9 @@ def Calculate(movie_id):
           df.ix[df[col] == target, 'adj_' + col] = 1
           df.ix[df[col] != target, 'adj_' + col] = 0
 
-  path = os.path.join(os.getcwd(), "data", "{0}_output.csv".format(movie_id))
+  path = os.path.join(os.getcwd(), "data", "{0}_outpuuuut.csv".format(movie_id))
   df.to_csv(path)
 
 
 
-# Calculate('tt2084970')
+Calculate('tt2096673')

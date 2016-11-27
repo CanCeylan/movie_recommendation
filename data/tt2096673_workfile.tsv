@@ -1,0 +1,661 @@
+rating	family	certification	fantasy	writers_summary	year	id	biography	votes	directors_summary	cast_summary	title	sci_fi	crime	romance	music	comedy	type	war	horror	adventure	freq	thriller	mystery	creators	drama	history	action	runtime	western
+8	0	R	0	Richard Linklater|Julie Delpy	2004	tt0381681	0	172190	Richard Linklater	Ethan Hawke|Julie Delpy|Vernon Dobtcheff|Louise Lemoine Torrès	Before Sunset	0	0	1	0	0	feature	0	0	0	6	0	0	[]	1	0	0	4800	0
+7.8	0	R	0	David O. Russell|Matthew Quick	2012	tt1045658	0	544783	David O. Russell	Bradley Cooper|Jennifer Lawrence|Robert De Niro|Jacki Weaver	Silver Linings Playbook	0	0	1	0	1	feature	0	0	0	5	0	0	[]	1	0	0	7320	0
+8.2	1	TV-PG	1	Hayao Miyazaki|Diana Wynne Jones	2004	tt0347149	0	221364	Hayao Miyazaki	Chieko Baishô|Takuya Kimura|Tatsuya Gashûin|Akihiro Miwa	Howl's Moving Castle	0	0	0	0	0	feature	0	0	1	13	0	0	[]	0	0	0	7140	0
+7.7	0	16	0	Sebastian Schipper|Olivia Neergaard-Holm	2015	tt4226388	0	29435	Sebastian Schipper	Laia Costa|Frederick Lau|Franz Rogowski|Burak Yigit	Victoria	0	1	1	0	0	feature	0	0	0	8	1	0	[]	1	0	0	8280	0
+6.4	1	G	0	Don Rhymer|Carlos Kotkin	2014	tt2357291	0	60119	Carlos Saldanha	Jesse Eisenberg|Anne Hathaway|Jemaine Clement|Andy Garcia	Rio 2	0	0	0	0	1	feature	0	0	1	7	0	0	[]	0	0	0	6060	0
+5.7	0	R	0	Alejandro Amenábar	2015	tt3319920	0	23086	Alejandro Amenábar	Ethan Hawke|David Thewlis|Emma Watson|Dale Dickey	Regression	0	1	0	0	0	feature	0	0	0	5	1	1	[]	1	0	0	6360	0
+6.7	0	PG-13	0	Mark Bomback|Scott Frank	2013	tt1430132	0	335210	James Mangold	Hugh Jackman|Will Yun Lee|Tao Okamoto|Rila Fukushima	The Wolverine	1	0	0	0	0	feature	0	0	1	3	1	0	[]	0	0	1	7560	0
+7.8	1	PG	1	Dan Fogelman|Jacob Grimm	2010	tt0398286	0	302189	Nathan Greno|Byron Howard	Mandy Moore|Zachary Levi|Donna Murphy|Ron Perlman	Tangled	0	0	1	0	1	feature	0	0	1	30	0	0	[]	0	0	0	6000	0
+6.5	1	PG	0	Darren Lemke|Robert D. Siegel	2013	tt1860353	0	63664	David Soren	Ryan Reynolds|Paul Giamatti|Maya Rudolph|Samuel L. Jackson	Turbo	1	0	0	0	1	feature	0	0	1	4	0	0	[]	0	0	0	5760	0
+7.4	0	PG-13	0	Christopher McQuarrie|Christopher McQuarrie	2015	tt2381249	0	243483	Christopher McQuarrie	Tom Cruise|Rebecca Ferguson|Jeremy Renner|Simon Pegg	Mission: Impossible - Rogue Nation	0	0	0	0	0	feature	0	0	1	30	1	0	[]	0	0	1	7860	0
+8.1	1	PG	0	Byron Howard|Rich Moore	2016	tt2948356	0	224947	Byron Howard|Rich Moore	Ginnifer Goodwin|Jason Bateman|Idris Elba|Jenny Slate	Zootopia	0	1	0	0	1	feature	0	0	1	61	0	1	[]	0	0	0	6480	0
+8.2	0	R	0	Terence Winter|Jordan Belfort	2013	tt0993846	1	811423	Martin Scorsese	Leonardo DiCaprio|Jonah Hill|Margot Robbie|Matthew McConaughey	The Wolf of Wall Street	0	1	0	0	1	feature	0	0	0	20	0	0	[]	1	0	0	10800	0
+7	0	R	0	Pablo Trapero|Esteban Student	2015	tt4411504	1	7212	Pablo Trapero	Guillermo Francella|Peter Lanzani|Lili Popovich|Gastón Cocchiarale	The Clan	0	1	0	0	0	feature	0	0	0	3	1	0	[]	1	0	0	6480	0
+6.2	0	R	1	Zack Snyder|Kurt Johnstad	2014	tt1253863	0	230068	Noam Murro	Sullivan Stapleton|Eva Green|Lena Headey|Hans Matheson	300: Rise of an Empire	0	0	0	0	0	feature	1	0	0	4	0	0	[]	1	1	1	6120	0
+7.9	1	PG	1	Dean DeBlois|Cressida Cowell	2014	tt1646971	0	227184	Dean DeBlois	Jay Baruchel|Cate Blanchett|Gerard Butler|Craig Ferguson	How to Train Your Dragon 2	0	0	0	0	1	feature	0	0	1	25	0	0	[]	0	0	1	6120	0
+7.1	0	PG-13	0	Peter Landesman|Jeanne Marie Laskas	2015	tt3322364	1	52332	Peter Landesman	Will Smith|Alec Baldwin|Albert Brooks|David Morse	Concussion	0	0	0	0	0	feature	0	0	0	7	0	0	[]	1	0	0	7380	0
+8.1	0	R	0	Aaron Guzikowski	2013	tt1392214	0	400329	Denis Villeneuve	Hugh Jackman|Jake Gyllenhaal|Viola Davis|Melissa Leo	Prisoners	0	1	0	0	0	feature	0	0	0	3	1	1	[]	1	0	0	9180	0
+6.7	0	PG-13	0	Andrew Niccol	2011	tt1637688	0	310331	Andrew Niccol	Justin Timberlake|Amanda Seyfried|Cillian Murphy|Olivia Wilde	In Time	1	0	0	0	0	feature	0	0	0	5	1	0	[]	0	0	1	6540	0
+6.3	0	R	0	Michael Arndt|Bill Holderman	2015	tt1178665	1	15900	Ken Kwapis	Robert Redford|Nick Nolte|Emma Thompson|Mary Steenburgen	A Walk in the Woods	0	0	0	0	1	feature	0	0	1	4	0	0	[]	1	0	0	6240	0
+8.5	1	G	0	Alan Barillaro	2016	tt5613056	0	12518	Alan Barillaro		Piper	0	0	0	0	0	short	0	0	0	4	0	0	[]	0	0	0	360	0
+7.8	1	PG	0	Joan G. Robinson|Keiko Niwa	2014	tt3398268	0	14822	Hiromasa Yonebayashi	Sara Takatsuki|Kasumi Arimura|Nanako Matsushima|Susumu Terajima	When Marnie Was There	0	0	0	0	0	feature	0	0	0	8	0	1	[]	1	0	0	6180	0
+5.8	1	PG	0	John Lasseter|Klay Hall	2013	tt1691917	0	35597	Klay Hall	Carlos Alazraqui|Dane Cook|Stacy Keach|Brad Garrett	Planes	0	0	0	0	1	feature	0	0	1	4	0	0	[]	0	0	0	5460	0
+7	0	R	0	David Ebershoff|Lucinda Coxon	2015	tt0810819	1	94304	Tom Hooper	Eddie Redmayne|Alicia Vikander|Amber Heard|Ben Whishaw	The Danish Girl	0	0	1	0	0	feature	0	0	0	19	0	0	[]	1	0	0	7140	0
+7.3	0	PG	1	Steve Conrad|Steve Conrad	2013	tt0359950	0	241390	Ben Stiller	Ben Stiller|Kristen Wiig|Jon Daly|Kathryn Hahn	The Secret Life of Walter Mitty	0	0	1	0	1	feature	0	0	1	6	0	0	[]	1	0	0	6840	0
+5.8	1	G	0	Mark Dindal|Mark Kennedy	2005	tt0371606	0	65454	Mark Dindal	Zach Braff|Joan Cusack|Garry Marshall|Don Knotts	Chicken Little	1	0	0	0	1	feature	0	0	1	3	0	0	[]	0	0	0	4860	0
+7.7	0	PG-13	0	Grant Nieporte	2008	tt0814314	0	237504	Gabriele Muccino	Will Smith|Rosario Dawson|Woody Harrelson|Michael Ealy	Seven Pounds	0	0	1	0	0	feature	0	0	0	4	0	0	[]	1	0	0	7380	0
+6.1	0	R	0	Jay Martel|Ian Roberts	2015	tt2561572	0	89405	Etan Cohen	Will Ferrell|Kevin Hart|Alison Brie|T.I.	Get Hard	0	1	0	0	1	feature	0	0	0	7	0	0	[]	0	0	0	6000	0
+7.3	0	PG-13	0	Baz Luhrmann|Craig Pearce	2013	tt1343092	0	371330	Baz Luhrmann	Leonardo DiCaprio|Carey Mulligan|Joel Edgerton|Tobey Maguire	The Great Gatsby	0	0	1	0	0	feature	0	0	0	9	0	0	[]	1	0	0	8580	0
+7.4	0	PG-13	1	Fran Walsh|Philippa Boyens	2014	tt2310332	0	365720	Peter Jackson	Ian McKellen|Martin Freeman|Richard Armitage|Cate Blanchett	The Hobbit: The Battle of the Five Armies	0	0	0	0	0	feature	0	0	1	5	0	0	[]	0	0	0	8640	0
+8.2	0	R	0	Emma Donoghue|Emma Donoghue	2015	tt3170832	0	186501	Lenny Abrahamson	Brie Larson|Jacob Tremblay|Sean Bridgers|Wendy Crewson	Room	0	0	0	0	0	feature	0	0	0	49	0	0	[]	1	0	0	7080	0
+7	1	TV-PG	1	Phil Lord|Christopher Miller	2009	tt0844471	0	156387	Phil Lord|Christopher Miller	Anna Faris|Bill Hader|Bruce Campbell|James Caan	Cloudy with a Chance of Meatballs	1	0	0	0	1	feature	0	0	0	9	0	0	[]	0	0	0	5400	0
+6.9	0	PG-13	0	Jonathan Levine|Isaac Marion	2013	tt1588173	0	188315	Jonathan Levine	Nicholas Hoult|Teresa Palmer|John Malkovich|Analeigh Tipton	Warm Bodies	0	0	1	0	1	feature	0	1	0	3	0	0	[]	0	0	0	5880	0
+6.5	0	PG-13	0	Kay Cannon|Mickey Rapkin	2015	tt2848292	0	101929	Elizabeth Banks	Anna Kendrick|Rebel Wilson|Hailee Steinfeld|Brittany Snow	Pitch Perfect 2	0	0	0	1	1	feature	0	0	0	13	0	0	[]	0	0	0	6900	0
+7.8	0	PG-13	0	Scott Neustadter|Michael H. Weber	2014	tt2582846	0	258338	Josh Boone	Shailene Woodley|Ansel Elgort|Nat Wolff|Laura Dern	The Fault in Our Stars	0	0	1	0	0	feature	0	0	0	10	0	0	[]	1	0	0	7560	0
+7.5	1	TV-PG	0	Cinco Paul|Ken Daurio	2013	tt1690953	0	293233	Pierre Coffin|Chris Renaud	Steve Carell|Kristen Wiig|Benjamin Bratt|Miranda Cosgrove	Despicable Me 2	1	0	0	0	1	feature	0	0	1	24	0	0	[]	0	0	0	5880	0
+7.7	0	R	1	Zack Snyder|Kurt Johnstad	2006	tt0416449	0	618538	Zack Snyder	Gerard Butler|Lena Headey|David Wenham|Dominic West	300	0	0	0	0	0	feature	1	0	0	3	0	0	[]	1	0	1	7020	0
+6	1	TV-PG	0	Michael J. Wilson|Rob Letterman	2004	tt0307453	0	134967	Bibo Bergeron|Vicky Jenson	Will Smith|Robert De Niro|Renée Zellweger|Angelina Jolie	Shark Tale	0	0	0	0	1	feature	0	0	1	5	0	0	[]	0	0	0	5400	0
+7.3	0	13	0	Bassel Ghandour|Naji Abu Nowar	2014	tt3170902	0	6509	Naji Abu Nowar	Jacir Eid Al-Hwietat|Hussein Salameh Al-Sweilhiyeen|Hassan Mutlag Al-Maraiyeh|Jack Fox	Theeb	0	0	0	0	0	feature	0	0	1	6	1	0	[]	1	0	0	6000	0
+7.8	1	TV-PG	1	Phil Lord|Christopher Miller	2014	tt1490017	0	252359	Phil Lord|Christopher Miller	Chris Pratt|Will Ferrell|Elizabeth Banks|Will Arnett	The Lego Movie	0	0	0	0	1	feature	0	0	1	20	0	0	[]	0	0	1	6000	0
+9.3	0	R	0	Stephen King|Frank Darabont	1994	tt0111161	0	1732972	Frank Darabont	Tim Robbins|Morgan Freeman|Bob Gunton|William Sadler	The Shawshank Redemption	0	1	0	0	0	feature	0	0	0	19	0	0	[]	1	0	0	8520	0
+7.2	1	G	1	John Lasseter|Andrew Stanton	1998	tt0120623	0	215394	John Lasseter|Andrew Stanton	Kevin Spacey|Dave Foley|Julia Louis-Dreyfus|Hayden Panettiere	A Bug's Life	0	0	0	0	1	feature	0	0	1	17	0	0	[]	0	0	0	5700	0
+6.6	0	R	1	Guillermo del Toro|Matthew Robbins	2015	tt2554274	0	89625	Guillermo del Toro	Mia Wasikowska|Jessica Chastain|Tom Hiddleston|Charlie Hunnam	Crimson Peak	0	0	1	0	0	feature	0	1	0	15	1	1	[]	1	0	0	7140	0
+9.3	0	TV-14	0	Dan Harmon|Justin Roiland	2013	tt2861424	0	89833		Justin Roiland|Chris Parnell|Spencer Grammer|Sarah Chalke	Rick and Morty	1	0	0	0	1	tv_series	0	0	1	5	0	0	[<Person: u'Dan Harmon' (u'nm1363595')>, <Person: u'Justin Roiland' (u'nm1551598')>]	0	0	0	1320	0
+8	0	PG-13	0	Jeff Nathanson|Frank Abagnale Jr.	2002	tt0264464	1	547541	Steven Spielberg	Leonardo DiCaprio|Tom Hanks|Christopher Walken|Martin Sheen	Catch Me If You Can	0	1	0	0	0	feature	0	0	0	5	0	0	[]	1	0	0	8460	0
+7	0	Not Rated	0	Lars von Trier	2013	tt1937390	0	85189	Lars von Trier	Charlotte Gainsbourg|Stellan Skarsgård|Stacy Martin|Shia LaBeouf	Nymphomaniac: Vol. I	0	0	0	0	0	feature	0	0	0	3	0	0	[]	1	0	0	7020	0
+8.4	0	R	0	Alan Ball	1999	tt0169547	0	841756	Sam Mendes	Kevin Spacey|Annette Bening|Thora Birch|Wes Bentley	American Beauty	0	0	1	0	0	feature	0	0	0	10	0	0	[]	1	0	0	7320	0
+6	0	PG-13	1	Jessica Postigo|Cassandra Clare	2013	tt1538403	0	109219	Harald Zwart	Lily Collins|Jamie Campbell Bower|Robert Sheehan|Jemima West	The Mortal Instruments: City of Bones	0	0	1	0	0	feature	0	1	0	5	0	1	[]	0	0	0	7800	0
+5.7	1	PG	0	Michael J. Wilson|Michael Berg	2016	tt3416828	0	24584	Mike Thurmeier|Galen T. Chu	Ray Romano|Denis Leary|John Leguizamo|Chris Wedge	Ice Age: Collision Course	1	0	0	0	1	feature	0	0	1	5	0	0	[]	0	0	0	5640	0
+7.8	0	Not Rated	0	Cary Joji Fukunaga|Uzodinma Iweala	2015	tt1365050	0	45265	Cary Joji Fukunaga	Abraham Attah|Emmanuel Affadzi|Ricky Adelayitor|Andrew Adote	Beasts of No Nation	0	0	0	0	0	feature	1	0	0	21	0	0	[]	1	0	0	8220	0
+5.7	0	R	0	J.G. Ballard|Amy Jump	2015	tt0462335	0	20875	Ben Wheatley	Tom Hiddleston|Jeremy Irons|Sienna Miller|Luke Evans	High-Rise	0	0	0	0	0	feature	0	0	0	4	0	0	[]	1	0	0	7140	0
+8.2	1	PG	1	Tomm Moore|Will Collins	2014	tt1865505	0	28739	Tomm Moore	David Rawle|Brendan Gleeson|Lisa Hannigan|Fionnula Flanagan	Song of the Sea	0	0	0	0	0	feature	0	0	1	11	0	0	[]	0	0	0	5580	0
+8.2	0	PG-13	0	Akiva Goldsman|Sylvia Nasar	2001	tt0268978	1	628936	Ron Howard	Russell Crowe|Ed Harris|Jennifer Connelly|Christopher Plummer	A Beautiful Mind	0	0	0	0	0	feature	0	0	0	9	0	0	[]	1	0	0	8100	0
+8.1	0	PG-13	0	Graham Moore|Andrew Hodges	2014	tt2084970	1	494608	Morten Tyldum	Benedict Cumberbatch|Keira Knightley|Matthew Goode|Allen Leech	The Imitation Game	0	0	0	0	0	feature	1	0	0	19	1	0	[]	1	0	0	6840	0
+7.6	1	PG	0	Andrew Stanton|Andrew Stanton	2016	tt2277860	0	100921	Andrew Stanton|Angus MacLane	Ellen DeGeneres|Albert Brooks|Ed O'Neill|Kaitlin Olson	Finding Dory	0	0	0	0	1	feature	0	0	1	37	0	0	[]	0	0	0	5820	0
+7.2	1	PG	1	Paul King|Hamish McColl	2014	tt1109624	0	51050	Paul King	Hugh Bonneville|Sally Hawkins|Julie Walters|Jim Broadbent	Paddington	0	0	0	0	1	feature	0	0	0	4	0	0	[]	0	0	0	5700	0
+7	0	R	0	Joon-ho Bong|Kelly Masterson	2013	tt1706620	0	188052	Joon-ho Bong	Chris Evans|Jamie Bell|Tilda Swinton|Ed Harris	Snowpiercer	1	0	0	0	0	feature	0	0	0	4	1	0	[]	1	0	1	7560	0
+7.1	1	PG-13	0	Mike White	2003	tt0332379	0	214741	Richard Linklater	Jack Black|Mike White|Joan Cusack|Adam Pascal	School of Rock	0	0	0	1	1	feature	0	0	0	3	0	0	[]	0	0	0	6480	0
+7.8	0	PG-13	0	Andrew Niccol	1997	tt0119177	0	225008	Andrew Niccol	Ethan Hawke|Uma Thurman|Jude Law|Gore Vidal	Gattaca	1	0	0	0	0	feature	0	0	0	3	1	0	[]	1	0	0	6360	0
+8.1	1	PG	1	Marc Haimes|Chris Butler	2016	tt4302938	0	30283	Travis Knight	Charlize Theron|Art Parkinson|Matthew McConaughey|Ralph Fiennes	Kubo and the Two Strings	0	0	0	0	0	feature	0	0	1	8	0	0	[]	0	0	0	6060	0
+7.8	0	PG-13	0	Alfonso Cuarón|Jonás Cuarón	2013	tt1454468	0	596109	Alfonso Cuarón	Sandra Bullock|George Clooney|Ed Harris|Orto Ignatiussen	Gravity	1	0	0	0	0	feature	0	0	1	13	1	0	[]	1	0	0	5460	0
+8.3	0	R	0	Tobias Lindholm|Thomas Vinterberg	2012	tt2106476	0	177956	Thomas Vinterberg	Mads Mikkelsen|Thomas Bo Larsen|Annika Wedderkopp|Lasse Fogelstrøm	The Hunt	0	0	0	0	0	feature	0	0	0	5	0	0	[]	1	0	0	6900	0
+8	0	PG-13	0	Drew Goddard|Andy Weir	2015	tt3659388	0	513805	Ridley Scott	Matt Damon|Jessica Chastain|Kristen Wiig|Kate Mara	The Martian	1	0	0	0	0	feature	0	0	1	67	0	0	[]	1	0	0	8640	0
+7.1	1	G	0	Cliff Ruby|Elana Lesser	1995	tt0112453	0	30795	Simon Wells	Kevin Bacon|Bob Hoskins|Bridget Fonda|Jim Cummings	Balto	0	0	0	0	0	feature	0	0	1	3	0	0	[]	1	1	0	4680	0
+8.1	0	R	0	Quentin Tarantino|Quentin Tarantino	2003	tt0266697	0	753761	Quentin Tarantino	Uma Thurman|David Carradine|Daryl Hannah|Michael Madsen	Kill Bill: Vol. 1	0	0	0	0	0	feature	0	0	0	6	1	0	[]	0	0	1	6660	0
+8.4	0	PG-13	0	Asghar Farhadi	2011	tt1832382	0	156527	Asghar Farhadi	Peyman Moaadi|Leila Hatami|Sareh Bayat|Shahab Hosseini	A Separation	0	0	0	0	0	feature	0	0	0	3	0	1	[]	1	0	0	7380	0
+6.9	0	R	0	José Saramago|Javier Gullón	2013	tt2316411	0	100340	Denis Villeneuve	Jake Gyllenhaal|Mélanie Laurent|Sarah Gadon|Isabella Rossellini	Enemy	0	0	0	0	0	feature	0	0	0	3	1	1	[]	0	0	0	5460	0
+7.4	0	R	0	John Carney	2013	tt1980929	0	104499	John Carney	Keira Knightley|Mark Ruffalo|Adam Levine|Hailee Steinfeld	Begin Again	0	0	0	1	0	feature	0	0	0	4	0	0	[]	1	0	0	6240	0
+7.3	1	PG	1	Jorge R. Gutiérrez|Douglas Langdale	2014	tt2262227	0	47486	Jorge R. Gutiérrez	Diego Luna|Zoe Saldana|Channing Tatum|Ron Perlman	The Book of Life	0	0	1	0	1	feature	0	0	1	9	0	0	[]	0	0	0	5700	0
+7.9	0	PG-13	1	James Cameron	2009	tt0499549	0	903360	James Cameron	Sam Worthington|Zoe Saldana|Sigourney Weaver|Michelle Rodriguez	Avatar	1	0	0	0	0	feature	0	0	1	7	0	0	[]	0	0	1	9720	0
+6.4	0	PG-13	0	Jason Pagan|Andrew Deutschman	2015	tt2436386	0	59833	Dean Israelite	Amy Landecker|Sofia Black-D'Elia|Virginia Gardner|Jonny Weston	Project Almanac	1	0	0	0	0	feature	0	0	0	4	1	0	[]	0	0	0	6360	0
+8.1	0	PG-13	1	Steve Kloves|J.K. Rowling	2011	tt1201607	0	559369	David Yates	Daniel Radcliffe|Emma Watson|Rupert Grint|Michael Gambon	Harry Potter and the Deathly Hallows: Part 2	0	0	0	0	0	feature	0	0	1	11	0	1	[]	1	0	0	7800	0
+7.5	0	R	0	Chad Hayes|Carey Hayes	2013	tt1457767	0	313947	James Wan	Patrick Wilson|Vera Farmiga|Ron Livingston|Lili Taylor	The Conjuring	0	0	0	0	0	feature	0	1	0	3	1	1	[]	0	0	0	6720	0
+7.8	0	R	0	Tom Tykwer	1998	tt0130827	0	163515	Tom Tykwer	Franka Potente|Moritz Bleibtreu|Herbert Knaup|Nina Petri	Run Lola Run	0	1	0	0	0	feature	0	0	0	3	1	0	[]	1	0	0	4800	0
+7.2	0	R	0	Martin McDonagh	2012	tt1931533	0	189813	Martin McDonagh	Colin Farrell|Woody Harrelson|Sam Rockwell|Christopher Walken	Seven Psychopaths	0	1	0	0	1	feature	0	0	0	3	0	0	[]	0	0	0	6600	0
+7.9	1	PG-13	1	J.K. Rowling	2016	tt3183660	0	73428	David Yates	Eddie Redmayne|Katherine Waterston|Alison Sudol|Dan Fogler	Fantastic Beasts and Where to Find Them	0	0	0	0	0	feature	0	0	1	12	0	0	[]	0	0	0	7980	0
+7.7	0	PG-13	0	Ryan Coogler|Aaron Covington	2015	tt3076658	0	159766	Ryan Coogler	Michael B. Jordan|Sylvester Stallone|Tessa Thompson|Phylicia Rashad	Creed	0	0	0	0	0	feature	0	0	0	38	0	0	[]	1	0	0	7980	0
+8.6	0	TV-PG	0	Julius J. Epstein|Philip G. Epstein	1942	tt0034583	0	396146	Michael Curtiz	Humphrey Bogart|Ingrid Bergman|Paul Henreid|Claude Rains	Casablanca	0	0	1	0	0	feature	1	0	0	3	0	0	[]	1	0	0	6120	0
+8.2	0	PG-13	1	Lawrence Kasdan|J.J. Abrams	2015	tt2488496	0	600714	J.J. Abrams	Daisy Ridley|John Boyega|Oscar Isaac|Domhnall Gleeson	Star Wars: The Force Awakens	1	0	0	0	0	feature	0	0	1	67	0	0	[]	0	0	1	8160	0
+6.8	1	PG-13	0	Laurice Elehwany	1991	tt0102492	0	56859	Howard Zieff	Anna Chlumsky|Macaulay Culkin|Dan Aykroyd|Jamie Lee Curtis	My Girl	0	0	1	0	1	feature	0	0	0	3	0	0	[]	1	0	0	6120	0
+7.3	1	PG	1	Chris Sanders|Kirk De Micco	2013	tt0481499	0	153986	Kirk De Micco|Chris Sanders	Nicolas Cage|Ryan Reynolds|Emma Stone|Catherine Keener	The Croods	0	0	0	0	1	feature	0	0	1	16	0	0	[]	0	1	0	5880	0
+8.8	0	TV-MA	0	Chuck Palahniuk|Jim Uhls	1999	tt0137523	0	1383572	David Fincher	Brad Pitt|Edward Norton|Meat Loaf|Zach Grenier	Fight Club	0	0	0	0	0	feature	0	0	0	11	0	0	[]	1	0	0	8340	0
+6.3	0	R	0	Seth MacFarlane|Alec Sulkin	2015	tt2637276	0	124907	Seth MacFarlane	Mark Wahlberg|Seth MacFarlane|Amanda Seyfried|Jessica Barth	Ted 2	0	0	0	0	1	feature	0	0	0	7	0	0	[]	0	0	0	7500	0
+7.5	0	PG-13	0	Michele Mulroney|Kieran Mulroney	2011	tt1515091	0	345324	Guy Ritchie	Robert Downey Jr.|Jude Law|Jared Harris|Rachel McAdams	Sherlock Holmes: A Game of Shadows	0	1	0	0	0	feature	0	0	1	3	1	1	[]	0	0	1	7740	0
+6.5	0	PG-13	1	David Ayer	2016	tt1386697	0	271336	David Ayer	Will Smith|Jared Leto|Margot Robbie|Viola Davis	Suicide Squad	1	0	0	0	0	feature	0	0	1	16	0	0	[]	0	0	1	7380	0
+7.1	1	PG	1	Peter Baynham|Robert Smigel	2012	tt0837562	0	169237	Genndy Tartakovsky	Adam Sandler|Kevin James|Andy Samberg|Selena Gomez	Hotel Transylvania	0	0	0	0	1	feature	0	1	0	22	0	0	[]	0	0	0	5460	0
+7.8	0	PG	0	Robert Zemeckis|Bob Gale	1989	tt0096874	0	349874	Robert Zemeckis	Michael J. Fox|Christopher Lloyd|Lea Thompson|Thomas F. Wilson	Back to the Future Part II	1	0	0	0	1	feature	0	0	1	5	0	0	[]	0	0	0	6480	0
+6.7	0	R	0	Erin Cressida Wilson|Paula Hawkins	2016	tt3631112	0	30820	Tate Taylor	Emily Blunt|Haley Bennett|Rebecca Ferguson|Justin Theroux	The Girl on the Train	0	0	0	0	0	feature	0	0	0	4	1	1	[]	1	0	0	6720	0
+7.5	1	G	1	Robert D. San Souci|Rita Hsiao	1998	tt0120762	0	176835	Tony Bancroft|Barry Cook	Ming-Na Wen|Eddie Murphy|BD Wong|Lea Salonga	Mulan	0	0	0	0	0	feature	1	0	1	14	0	0	[]	0	0	0	5280	0
+8	0	PG	1	Yann Martel|David Magee	2012	tt0454876	0	451451	Ang Lee	Suraj Sharma|Irrfan Khan|Adil Hussain|Tabu	Life of Pi	0	0	0	0	0	feature	0	0	1	11	0	0	[]	1	0	0	7620	0
+7.1	1	G	0	Larry Clemmons|Vance Gerry	1970	tt0065421	0	66484	Wolfgang Reitherman	Phil Harris|Eva Gabor|Sterling Holloway|Scatman Crothers	The AristoCats	0	0	0	1	1	feature	0	0	1	3	0	0	[]	0	0	0	4680	0
+8	0	PG-13	0	Christopher Markus|Stephen McFeely	2016	tt3498820	0	349151	Anthony Russo|Joe Russo	Chris Evans|Robert Downey Jr.|Scarlett Johansson|Sebastian Stan	Captain America: Civil War	1	0	0	0	0	feature	0	0	1	25	0	0	[]	0	0	1	8820	0
+8.1	0	PG	0	Andrew Niccol	1998	tt0120382	0	686904	Peter Weir	Jim Carrey|Ed Harris|Laura Linney|Noah Emmerich	The Truman Show	1	0	0	0	1	feature	0	0	0	3	0	0	[]	1	0	0	6180	0
+7.8	0	R	0	Hossein Amini|James Sallis	2011	tt0780504	0	441971	Nicolas Winding Refn	Ryan Gosling|Carey Mulligan|Bryan Cranston|Albert Brooks	Drive	0	1	0	0	0	feature	0	0	0	3	0	0	[]	1	0	0	6000	0
+7.6	1	TV-PG	0	Michael J. Wilson|Michael Berg	2002	tt0268380	0	335166	Chris Wedge|Carlos Saldanha	Denis Leary|John Leguizamo|Ray Romano|Goran Visnjic	Ice Age	0	0	0	0	1	feature	0	0	1	17	0	0	[]	0	1	0	4860	0
+7.9	1	G	1	John Lasseter|Pete Docter	1999	tt0120363	0	394573	John Lasseter|Ash Brannon	Tom Hanks|Tim Allen|Joan Cusack|Kelsey Grammer	Toy Story 2	0	0	0	0	1	feature	0	0	1	35	0	0	[]	0	0	0	5520	0
+6.4	0	PG-13	0	Joel Coen|Ethan Coen	2016	tt0475290	0	72160	Ethan Coen|Joel Coen	Josh Brolin|George Clooney|Alden Ehrenreich|Ralph Fiennes	Hail, Caesar!	0	0	0	0	1	feature	0	0	0	3	0	1	[]	0	0	0	6360	0
+6.7	0	PG-13	1	Terrence Malick	2011	tt0478304	0	139080	Terrence Malick	Brad Pitt|Sean Penn|Jessica Chastain|Hunter McCracken	The Tree of Life	0	0	0	0	0	feature	0	0	0	3	0	0	[]	1	0	0	8340	0
+6.6	0	R	0	Doug Ellin|Doug Ellin	2015	tt1674771	0	61599	Doug Ellin	Adrian Grenier|Kevin Connolly|Jerry Ferrara|Kevin Dillon	Entourage	0	0	0	0	1	feature	0	0	0	4	0	0	[]	0	0	0	6240	0
+6.7	1	PG	0	Michael Colton|John Aboud	2014	tt1911658	0	61918	Eric Darnell|Simon J. Smith	Tom McGrath|Chris Miller|Christopher Knights|Conrad Vernon	Penguins of Madagascar	1	0	0	0	1	feature	0	0	1	4	0	0	[]	0	0	0	5520	0
+7.2	0	R	0	Alejandro Amenábar|Mateo Gil	2009	tt1186830	0	53791	Alejandro Amenábar	Rachel Weisz|Max Minghella|Oscar Isaac|Ashraf Barhom	Agora	0	0	1	0	0	feature	0	0	1	4	0	0	[]	1	1	0	7620	0
+7.4	0	PG	0	Robert Zemeckis|Bob Gale	1990	tt0099088	0	291999	Robert Zemeckis	Michael J. Fox|Christopher Lloyd|Mary Steenburgen|Thomas F. Wilson	Back to the Future Part III	1	0	0	0	1	feature	0	0	1	3	0	0	[]	0	0	1	7080	1
+6.9	1	G	0	Tab Murphy|Victor Hugo	1996	tt0116583	0	105729	Gary Trousdale|Kirk Wise	Demi Moore|Jason Alexander|Tom Hulce|Mary Kay Bergman	The Hunchback of Notre Dame	0	0	1	0	0	feature	0	0	0	7	0	0	[]	1	0	0	5460	0
+7.9	0	R	1	Jaco Van Dormael	2009	tt0485947	0	156006	Jaco Van Dormael	Jared Leto|Sarah Polley|Diane Kruger|Linh Dan Pham	Mr. Nobody	1	0	1	0	0	feature	0	0	0	8	0	0	[]	1	0	0	8460	0
+6.1	0	R	0	Max Landis	2015	tt3316948	0	59359	Nima Nourizadeh	Jesse Eisenberg|Kristen Stewart|Connie Britton|John Leguizamo	American Ultra	1	0	0	0	1	feature	0	0	0	9	1	0	[]	0	0	1	5760	0
+7.3	1	G	1	Aoi Hiiragi|Reiko Yoshida	2002	tt0347618	0	31887	Hiroyuki Morita	Chizuru Ikewaki|Yoshihiko Hakamada|Aki Maeda|Takayuki Yamada	The Cat Returns	0	0	1	0	1	feature	0	0	1	3	0	0	[]	0	0	0	4500	0
+7.4	1	TV-PG	1	Tim Burton|Carlos Grangel	2005	tt0121164	0	194159	Tim Burton|Mike Johnson	Johnny Depp|Helena Bonham Carter|Emily Watson|Tracey Ullman	Corpse Bride	0	0	1	0	0	feature	0	0	0	10	0	0	[]	1	0	0	4620	0
+6	0	PG	1	James Lapine|Stephen Sondheim	2014	tt2180411	0	104314	Rob Marshall	Anna Kendrick|Meryl Streep|Chris Pine|Emily Blunt	Into the Woods	0	0	0	0	1	feature	0	0	1	5	0	0	[]	1	0	0	7500	0
+5.4	0	PG-13	0	Lilly Wachowski|Lana Wachowski	2015	tt1617661	0	143670	Lana Wachowski|Lilly Wachowski	Channing Tatum|Mila Kunis|Eddie Redmayne|Sean Bean	Jupiter Ascending	1	0	0	0	0	feature	0	0	1	7	0	0	[]	0	0	1	7620	0
+6.4	0	Not Rated	0	Cheng Ah|T'ien-wen Chu	2015	tt3508840	0	10445	Hsiao-Hsien Hou	Chen Chang|Qi Shu|Yun Zhou|Satoshi Tsumabuki	The Assassin	0	0	0	0	0	feature	0	0	0	3	0	0	[]	1	1	1	6300	0
+7.6	0	PG-13	1	George Lucas	2005	tt0121766	0	531249	George Lucas	Hayden Christensen|Natalie Portman|Ewan McGregor|Samuel L. Jackson	Star Wars: Episode III - Revenge of the Sith	1	0	0	0	0	feature	0	0	1	6	0	0	[]	0	0	1	8400	0
+6.7	0	PG	1	George Lucas|Jonathan Hales	2002	tt0121765	0	474671	George Lucas	Hayden Christensen|Natalie Portman|Ewan McGregor|Christopher Lee	Star Wars: Episode II - Attack of the Clones	1	0	0	0	0	feature	0	0	1	3	0	0	[]	0	0	1	8520	0
+7.1	0	R	0	Yorgos Lanthimos|Efthymis Filippou	2015	tt3464902	0	93505	Yorgos Lanthimos	Colin Farrell|Rachel Weisz|Jessica Barden|Olivia Colman	The Lobster	1	0	1	0	1	feature	0	0	0	24	0	0	[]	1	0	0	7140	0
+6.3	1	G	0	John Lasseter|Brad Lewis	2011	tt1216475	0	103663	John Lasseter|Brad Lewis	Owen Wilson|Larry the Cable Guy|Michael Caine|Emily Mortimer	Cars 2	0	0	0	0	1	feature	0	0	1	13	0	0	[]	0	0	0	6360	0
+6.9	1	PG	0	Dan Fogelman|Chris Williams	2008	tt0397892	0	149731	Byron Howard|Chris Williams	John Travolta|Miley Cyrus|Susie Essman|Mark Walton	Bolt	0	0	0	0	1	feature	0	0	1	7	0	0	[]	1	0	0	5760	0
+7.2	0	PG-13	0	Simon Pegg|Doug Jung	2016	tt2660888	0	122694	Justin Lin	Chris Pine|Zachary Quinto|Karl Urban|Zoe Saldana	Star Trek Beyond	1	0	0	0	0	feature	0	0	1	7	1	0	[]	0	0	1	7320	0
+7.3	0	PG-13	1	Ted Elliott|Terry Rossio	2006	tt0383574	0	532437	Gore Verbinski	Johnny Depp|Orlando Bloom|Keira Knightley|Jack Davenport	Pirates of the Caribbean: Dead Man's Chest	0	0	0	0	0	feature	0	0	1	3	0	0	[]	0	0	1	9060	0
+8.3	0	R	0	Paul Schrader	1976	tt0075314	0	521210	Martin Scorsese	Robert De Niro|Jodie Foster|Cybill Shepherd|Albert Brooks	Taxi Driver	0	1	0	0	0	feature	0	0	0	4	0	0	[]	1	0	0	6780	0
+8.4	1	G	0	Andrew Stanton|Pete Docter	2008	tt0910970	0	739537	Andrew Stanton	Ben Burtt|Elissa Knight|Jeff Garlin|Fred Willard	WALL·E	1	0	0	0	0	feature	0	0	1	50	0	0	[]	0	0	0	5880	0
+7.2	1	G	0	John Lasseter|Joe Ranft	2006	tt0317219	0	270726	John Lasseter|Joe Ranft	Owen Wilson|Bonnie Hunt|Paul Newman|Larry the Cable Guy	Cars	0	0	0	0	1	feature	0	0	1	17	0	0	[]	0	0	0	7020	0
+7.5	0	R	0	Lynne Ramsay|Rory Stewart Kinnear	2011	tt1242460	0	98969	Lynne Ramsay	Tilda Swinton|John C. Reilly|Ezra Miller|Jasper Newell	We Need to Talk About Kevin	0	1	0	0	0	feature	0	0	0	3	1	1	[]	1	0	0	6720	0
+6.9	1	PG	0	Jay Ward|Craig Wright	2014	tt0864835	0	49199	Rob Minkoff	Ty Burrell|Max Charles|Stephen Colbert|Leslie Mann	Mr. Peabody & Sherman	1	0	0	0	1	feature	0	0	1	3	0	0	[]	0	0	0	5520	0
+6.8	0	Not Rated	0	Jennifer Kent	2014	tt2321549	0	121981	Jennifer Kent	Essie Davis|Noah Wiseman|Daniel Henshall|Hayley McElhinney	The Babadook	0	0	0	0	0	feature	0	1	0	5	0	0	[]	1	0	0	5580	0
+7	1	G	1	Chris Buck|Jennifer Lee	2015	tt4007502	0	8387	Chris Buck|Jennifer Lee	Kristen Bell|Idina Menzel|Jonathan Groff|Josh Gad	Frozen Fever	0	0	0	0	1	short	0	0	1	4	0	0	[]	0	0	0	480	0
+7.1	0	PG-13	1	Charles Leavitt|Duncan Jones	2016	tt0803096	0	159870	Duncan Jones	Travis Fimmel|Paula Patton|Ben Foster|Dominic Cooper	Warcraft	0	0	0	0	0	feature	0	0	1	6	0	0	[]	0	0	1	7380	0
+7.2	0	PG-13	0	James Graham	2014	tt3149038	0	19867	Morgan Matthews	Asa Butterfield|Rafe Spall|Sally Hawkins|Eddie Marsan	A Brilliant Young Mind	0	0	0	0	0	feature	0	0	0	3	0	0	[]	1	0	0	6660	0
+6.2	0	PG-13	0	Andrés Muschietti|Barbara Muschietti	2013	tt2023587	0	138132	Andrés Muschietti	Jessica Chastain|Nikolaj Coster-Waldau|Megan Charpentier|Isabelle Nélisse	Mama	0	0	0	0	0	feature	0	1	0	4	1	0	[]	0	0	0	6000	0
+8.1	0	PG-13	0	Paul Haggis|F.X. Toole	2004	tt0405159	0	493762	Clint Eastwood	Hilary Swank|Clint Eastwood|Morgan Freeman|Jay Baruchel	Million Dollar Baby	0	0	0	0	0	feature	0	0	0	4	0	0	[]	1	0	0	7920	0
+7.5	1	G	0	Steve Box|Nick Park	2005	tt0312004	0	100012	Steve Box|Nick Park	Peter Sallis|Helena Bonham Carter|Ralph Fiennes|Peter Kay	The Curse of the Were-Rabbit	1	0	0	0	1	feature	0	0	0	8	0	1	[]	0	0	0	5100	0
+6.8	1	TV-PG	0	Len Blum|Lorne Cameron	2006	tt0327084	0	129588	Tim Johnson|Karey Kirkpatrick	Bruce Willis|Garry Shandling|Steve Carell|Wanda Sykes	Over the Hedge	0	0	0	0	1	feature	0	0	1	4	0	0	[]	0	0	0	4980	0
+5.7	0	R	0	Terrence Malick	2015	tt2101383	0	14807	Terrence Malick	Christian Bale|Cate Blanchett|Natalie Portman|Brian Dennehy	Knight of Cups	0	0	1	0	0	feature	0	0	0	5	0	0	[]	1	0	0	7080	0
+6	1	PG	0	Roberts Gannaway|Jeffrey M. Howard	2014	tt2980706	0	12850	Roberts Gannaway	Dane Cook|Ed Harris|Julie Bowen|Curtis Armstrong	Planes: Fire & Rescue	0	0	0	0	1	feature	0	0	1	6	0	0	[]	0	0	0	4980	0
+8.3	0	PG	1	Graham Chapman|John Cleese	1975	tt0071853	0	390663	Terry Gilliam|Terry Jones	Graham Chapman|John Cleese|Eric Idle|Terry Gilliam	Monty Python and the Holy Grail	0	0	0	0	1	feature	0	0	1	4	0	0	[]	0	0	0	5460	0
+7.8	0	R	0	Alejandro G. Iñárritu|Nicolás Giacobone	2014	tt2562232	0	410880	Alejandro G. Iñárritu	Michael Keaton|Zach Galifianakis|Edward Norton|Andrea Riseborough	Birdman or (The Unexpected Virtue of Ignorance)	0	0	1	0	1	feature	0	0	0	14	0	0	[]	1	0	0	7140	0
+4.9	0	R	0	Eli Roth|Nicolás López	2015	tt3605418	0	47932	Eli Roth	Keanu Reeves|Lorenza Izzo|Ana de Armas|Aaron Burns	Knock Knock	0	0	0	0	0	feature	0	1	0	3	1	0	[]	1	0	0	5940	0
+5.3	0	PG-13	0	Nicolas Wright|James A. Woods	2016	tt1628841	0	100513	Roland Emmerich	Liam Hemsworth|Jeff Goldblum|Bill Pullman|Maika Monroe	Independence Day: Resurgence	1	0	0	0	0	feature	0	0	1	10	0	0	[]	0	0	1	7200	0
+8.3	0	PG-13	0		2014	tt3521134	1	7090	Joshua Oppenheimer	Adi Rukun|M.Y. Basrun|Amir Hasan|Inong	The Look of Silence	0	0	0	0	0	documentary	0	0	0	4	0	0	[]	0	1	0	6180	0
+8.2	1	G	1	Hayao Miyazaki	1988	tt0096283	0	179219	Hayao Miyazaki	Hitoshi Takagi|Noriko Hidaka|Chika Sakamoto|Shigesato Itoi	My Neighbor Totoro	0	0	0	0	0	feature	0	0	0	14	0	0	[]	0	0	0	5160	0
+8.3	0	G	0	Betty Comden|Adolph Green	1952	tt0045152	0	153966	Stanley Donen|Gene Kelly	Gene Kelly|Donald O'Connor|Debbie Reynolds|Jean Hagen	Singin' in the Rain	0	0	1	0	1	feature	0	0	0	3	0	0	[]	0	0	0	6180	0
+7.7	1	PG-13	1	Steve Kloves|J.K. Rowling	2005	tt0330373	0	396722	Mike Newell	Daniel Radcliffe|Emma Watson|Rupert Grint|Eric Sykes	Harry Potter and the Goblet of Fire	0	0	0	0	0	feature	0	0	1	4	0	1	[]	0	0	0	9420	0
+7.5	0	PG-13	0	Richard LaGravenese|Freedom Writers	2007	tt0463998	1	53794	Richard LaGravenese	Hilary Swank|Imelda Staunton|Patrick Dempsey|Scott Glenn	Freedom Writers	0	1	0	0	0	feature	0	0	0	3	0	0	[]	1	0	0	7380	0
+6.3	0	R	0	Carrie Lee Wilson|Emi Mochizuki	2015	tt1727776	0	28656	Christopher Landon	Tye Sheridan|Logan Miller|Joey Morgan|Sarah Dumont	Scouts Guide to the Zombie Apocalypse	0	0	0	0	1	feature	0	1	0	4	0	0	[]	0	0	1	5580	0
+8	0	R	0	Matt Ross	2016	tt3553976	0	39551	Matt Ross	Viggo Mortensen|George MacKay|Samantha Isler|Annalise Basso	Captain Fantastic	0	0	1	0	1	feature	0	0	0	8	0	0	[]	1	0	0	7080	0
+7.8	0	TV-PG	1	Dan Aykroyd|Harold Ramis	1984	tt0087332	0	279093	Ivan Reitman	Bill Murray|Dan Aykroyd|Sigourney Weaver|Harold Ramis	Ghostbusters	0	0	0	0	1	feature	0	0	1	3	0	0	[]	0	0	1	6300	0
+7.8	1	PG	0	Roald Dahl|Wes Anderson	2009	tt0432283	0	142854	Wes Anderson	George Clooney|Meryl Streep|Bill Murray|Jason Schwartzman	Fantastic Mr. Fox	0	1	0	0	1	feature	0	0	1	10	0	0	[]	0	0	0	5220	0
+7.8	0	PG-13	0	Neal Purvis|Robert Wade	2012	tt1074638	0	531670	Sam Mendes	Daniel Craig|Javier Bardem|Naomie Harris|Judi Dench	Skyfall	0	0	0	0	0	feature	0	0	1	6	1	0	[]	0	0	1	8580	0
+7.1	1	PG	1	Bill Kelly	2007	tt0461770	0	145173	Kevin Lima	Amy Adams|Susan Sarandon|James Marsden|Patrick Dempsey	Enchanted	0	0	1	0	1	feature	0	0	0	3	0	0	[]	0	0	0	6420	0
+7	1	G	0	John Fusco	2002	tt0166813	0	45606	Kelly Asbury|Lorna Cook	Matt Damon|James Cromwell|Daniel Studi|Chopper Bernet	Spirit: Stallion of the Cimarron	0	0	0	0	0	feature	0	0	1	5	0	0	[]	0	0	0	4980	1
+6.9	0	R	0	Marielle Heller|Phoebe Gloeckner	2015	tt3172532	0	19032	Marielle Heller	Bel Powley|Alexander Skarsgård|Kristen Wiig|Christopher Meloni	The Diary of a Teenage Girl	0	0	1	0	0	feature	0	0	0	8	0	0	[]	1	0	0	6120	0
+7.1	0	R	1	Daniel Scheinert|Dan Kwan	2016	tt4034354	0	36483	Dan Kwan|Daniel Scheinert	Paul Dano|Daniel Radcliffe|Mary Elizabeth Winstead|Antonia Ribero	Swiss Army Man	0	0	0	0	1	feature	0	0	1	5	0	0	[]	1	0	0	5820	0
+8.1	0	R	0	Richard Linklater|Kim Krizan	1995	tt0112471	0	189386	Richard Linklater	Ethan Hawke|Julie Delpy|Andrea Eckert|Hanno Pöschl	Before Sunrise	0	0	1	0	0	feature	0	0	0	6	0	0	[]	1	0	0	6300	0
+6.4	0	PG-13	0	Adam Cozad|Craig Brewer	2016	tt0918940	0	87015	David Yates	Alexander Skarsgård|Rory J. Saper|Christian Stevens|Christoph Waltz	The Legend of Tarzan	0	0	1	0	0	feature	0	0	1	3	0	0	[]	1	0	1	6600	0
+7.4	0	R	0	Shane Black|Anthony Bagarozzi	2016	tt3799694	0	122809	Shane Black	Russell Crowe|Ryan Gosling|Angourie Rice|Matt Bomer	The Nice Guys	0	1	0	0	1	feature	0	0	0	5	1	1	[]	0	0	1	6960	0
+8	0	R	0	Giovanni Arpino|Bo Goldman	1992	tt0105323	0	198581	Martin Brest	Al Pacino|Chris O'Donnell|James Rebhorn|Gabrielle Anwar	Scent of a Woman	0	0	0	0	0	feature	0	0	0	4	0	0	[]	1	0	0	9360	0
+7.7	1	G	1	Hayao Miyazaki	2008	tt0876563	0	87820	Hayao Miyazaki	Cate Blanchett|Matt Damon|Liam Neeson|Tomoko Yamaguchi	Ponyo	0	0	0	0	0	feature	0	0	1	4	0	0	[]	0	0	0	6060	0
+7.2	1	G	1	Ron Clements|John Musker	1997	tt0119282	0	146912	Ron Clements|John Musker	Tate Donovan|Susan Egan|James Woods|Josh Keaton	Hercules	0	0	1	0	1	feature	0	0	1	9	0	0	[]	0	0	0	5580	0
+8.3	0	R	0	David Webb Peoples	1992	tt0105695	0	284353	Clint Eastwood	Clint Eastwood|Gene Hackman|Morgan Freeman|Richard Harris	Unforgiven	0	0	0	0	0	feature	0	0	0	3	0	0	[]	1	0	0	7860	1
+7.6	1	G	1	Mary Norton|Hayao Miyazaki	2010	tt1568921	0	55087	Hiromasa Yonebayashi	Bridgit Mendler|Amy Poehler|Will Arnett|Moises Arias	The Secret World of Arrietty	0	0	0	0	0	feature	0	0	1	5	0	0	[]	0	0	0	5640	0
+8.2	0	R	0	Sean Penn|Jon Krakauer	2007	tt0758758	1	438422	Sean Penn	Emile Hirsch|Vince Vaughn|Catherine Keener|Marcia Gay Harden	Into the Wild	0	0	0	0	0	feature	0	0	1	6	0	0	[]	1	0	0	8880	0
+7.4	0	R	0	Dean Craig	2007	tt0795368	0	91025	Frank Oz	Matthew Macfadyen|Peter Dinklage|Ewen Bremner|Keeley Hawes	Death at a Funeral	0	0	0	0	1	feature	0	0	0	3	0	0	[]	0	0	0	5220	0
+8	0	R	0	Spike Jonze	2013	tt1798709	0	367842	Spike Jonze	Joaquin Phoenix|Amy Adams|Scarlett Johansson|Rooney Mara	Her	1	0	1	0	0	feature	0	0	0	10	0	0	[]	1	0	0	7560	0
+8	0	PG	0	Peter Benchley|Carl Gottlieb	1975	tt0073195	0	423081	Steven Spielberg	Roy Scheider|Robert Shaw|Richard Dreyfuss|Lorraine Gary	Jaws	0	0	0	0	0	feature	0	0	1	4	1	0	[]	1	0	0	7440	0
+5.9	1	PG	0	George Miller|Gary Eck	2011	tt1402488	0	33066	George Miller|Gary Eck	Elijah Wood|Robin Williams|Pink|Carlos Alazraqui	Happy Feet 2	0	0	0	0	1	feature	0	0	0	3	0	0	[]	0	0	0	6000	0
+8.1	0	PG	1	Hayao Miyazaki|Hayao Miyazaki	1984	tt0087544	0	99490	Hayao Miyazaki	Sumi Shimamoto|Mahito Tsujimura|Hisako Kyôda|Gorô Naya	Nausicaä of the Valley of the Wind	1	0	0	0	0	feature	0	0	1	4	0	0	[]	0	0	0	5700	0
+4.9	0	TV-14	0	Adam Sandler|Tim Herlihy	2015	tt2479478	0	28776	Frank Coraci	Adam Sandler|Terry Crews|Jorge Garcia|Taylor Lautner	The Ridiculous 6	0	0	0	0	1	feature	0	0	0	3	0	0	[]	0	0	0	7140	1
+7.6	0	R	0	Taylor Sheridan	2015	tt3397884	0	216982	Denis Villeneuve	Emily Blunt|Josh Brolin|Benicio Del Toro|Jon Bernthal	Sicario	0	1	0	0	0	feature	0	0	0	46	1	1	[]	1	0	1	7260	0
+6.5	1	PG	0	George Miller|John Collee	2006	tt0366548	0	135467	George Miller|Warren Coleman	Elijah Wood|Brittany Murphy|Hugh Jackman|Robin Williams	Happy Feet	0	0	1	1	1	feature	0	0	0	8	0	0	[]	0	0	0	6480	0
+7	0	R	0	Brian Helgeland|John Pearson	2015	tt3569230	1	96516	Brian Helgeland	Tom Hardy|Emily Browning|Taron Egerton|Paul Anderson	Legend	0	1	0	0	0	feature	0	0	0	8	1	0	[]	1	1	0	7920	0
+7.2	0	R	0	Phyllis Nagy|Patricia Highsmith	2015	tt2402927	0	68201	Todd Haynes	Cate Blanchett|Rooney Mara|Sarah Paulson|Kyle Chandler	Carol	0	0	1	0	0	feature	0	0	0	24	0	0	[]	1	0	0	7080	0
+6.9	1	PG	0	Jim Kouf|Cormac Wibberley	2004	tt0368891	0	258568	Jon Turteltaub	Nicolas Cage|Diane Kruger|Justin Bartha|Sean Bean	National Treasure	0	0	0	0	0	feature	0	0	1	3	1	1	[]	0	0	1	7860	0
+7.9	1	G	1	Eiko Kadono|Hayao Miyazaki	1989	tt0097814	0	78430	Hayao Miyazaki	Kirsten Dunst|Minami Takayama|Rei Sakuma|Kappei Yamaguchi	Kiki's Delivery Service	0	0	0	0	0	feature	0	0	1	4	0	0	[]	1	0	0	6180	0
+8	0	R	0	Mark Heyman|Andres Heinz	2010	tt0947798	0	561990	Darren Aronofsky	Natalie Portman|Mila Kunis|Vincent Cassel|Winona Ryder	Black Swan	0	0	0	0	0	feature	0	0	0	13	1	0	[]	1	0	0	6480	0
+9	0	PG-13	0	Jonathan Nolan|Christopher Nolan	2008	tt0468569	0	1717744	Christopher Nolan	Christian Bale|Heath Ledger|Aaron Eckhart|Michael Caine	The Dark Knight	0	1	0	0	0	feature	0	0	0	17	1	0	[]	1	0	1	9120	0
+8.4	0	R	0	Garon Tsuchiya|Nobuaki Minegishi	2003	tt0364569	0	366908	Chan-wook Park	Min-sik Choi|Ji-tae Yu|Hye-jeong Kang|Dae-han Ji	Oldboy	0	0	0	0	0	feature	0	0	0	5	1	1	[]	1	0	0	7200	0
+8.5	1	G	0	Irene Mecchi|Jonathan Roberts	1994	tt0110357	0	664283	Roger Allers|Rob Minkoff	Matthew Broderick|Jeremy Irons|James Earl Jones|Whoopi Goldberg	The Lion King	0	0	0	0	0	feature	0	0	1	31	0	0	[]	1	0	0	5340	0
+7.1	1	G	1	Ron Clements|John Musker	2009	tt0780521	0	91245	Ron Clements|John Musker	Anika Noni Rose|Keith David|Oprah Winfrey|Bruno Campos	The Princess and the Frog	0	0	1	0	1	feature	0	0	1	3	0	0	[]	0	0	0	5820	0
+7.6	0	R	0	David Hare|Bernhard Schlink	2008	tt0976051	0	193106	Stephen Daldry	Kate Winslet|Ralph Fiennes|Bruno Ganz|David Kross	The Reader	0	0	1	0	0	feature	0	0	0	3	0	0	[]	1	0	0	7440	0
+6.7	0	PG-13	0	Gavin Hood|Orson Scott Card	2013	tt1731141	0	188446	Gavin Hood	Harrison Ford|Asa Butterfield|Hailee Steinfeld|Abigail Breslin	Ender's Game	1	0	0	0	0	feature	0	0	0	3	0	0	[]	0	0	1	6840	0
+8	1	PG	1	Tim Burton|Michael McDowell	1993	tt0107688	0	228320	Henry Selick	Danny Elfman|Chris Sarandon|Catherine O'Hara|William Hickey	The Nightmare Before Christmas	0	0	0	0	0	feature	0	0	0	9	0	0	[]	0	0	0	4560	0
+5	0	PG-13	0	David Lindsay-Abaire|Steven Spielberg	2015	tt1029360	0	43780	Gil Kenan	Sam Rockwell|Rosemarie DeWitt|Kennedi Clements|Saxon Sharbino	Poltergeist	0	0	0	0	0	feature	0	1	0	5	1	0	[]	0	0	0	5580	0
+6.1	0	R	0	Jonathan Goldstein|John Francis Daley	2015	tt1524930	0	70239	John Francis Daley|Jonathan Goldstein	Ed Helms|Christina Applegate|Skyler Gisondo|Steele Stebbins	Vacation	0	0	0	0	1	feature	0	0	1	9	0	0	[]	0	0	0	5940	0
+8.1	1	G	0	Stephen P. Lindsey|Kaneto Shindô	2009	tt1028532	0	163265	Lasse Hallström	Richard Gere|Joan Allen|Cary-Hiroyuki Tagawa|Sarah Roemer	Hachi: A Dog's Tale	0	0	0	0	0	feature	0	0	0	5	0	0	[]	1	0	0	5580	0
+8.1	0	PG-13	0	Joss Whedon|Zak Penn	2012	tt0848228	0	1017816	Joss Whedon	Robert Downey Jr.|Chris Evans|Scarlett Johansson|Jeremy Renner	The Avengers	1	0	0	0	0	feature	0	0	0	9	0	0	[]	0	0	1	8580	0
+8.1	0	PG-13	0	James Gunn|Nicole Perlman	2014	tt2015381	0	709456	James Gunn	Chris Pratt|Vin Diesel|Bradley Cooper|Zoe Saldana	Guardians of the Galaxy	1	0	0	0	0	feature	0	0	1	22	0	0	[]	0	0	1	7260	0
+6.7	1	PG	1	Charles Perrault|Tom Wheeler	2011	tt0448694	0	116356	Chris Miller	Antonio Banderas|Salma Hayek|Zach Galifianakis|Billy Bob Thornton	Puss in Boots	0	0	0	0	1	feature	0	0	1	5	0	0	[]	0	0	1	5400	0
+8.6	0	R	0	Thomas Harris|Ted Tally	1991	tt0102926	0	912934	Jonathan Demme	Jodie Foster|Anthony Hopkins|Lawrence A. Bonney|Kasi Lemmons	The Silence of the Lambs	0	1	0	0	0	feature	0	0	0	10	1	0	[]	1	0	0	7080	0
+7.5	0	PG-13	0	Richard Glatzer|Wash Westmoreland	2014	tt3316960	0	90415	Richard Glatzer|Wash Westmoreland	Julianne Moore|Alec Baldwin|Kristen Stewart|Kate Bosworth	Still Alice	0	0	0	0	0	feature	0	0	0	7	0	0	[]	1	0	0	6060	0
+8.6	1	PG	1	Hayao Miyazaki	2001	tt0245429	0	432842	Hayao Miyazaki	Daveigh Chase|Suzanne Pleshette|Miyu Irino|Rumi Hiiragi	Spirited Away	0	0	0	0	0	feature	0	0	1	24	0	0	[]	0	0	0	7500	0
+6.9	0	PG	0	Mitch Cullin|Jeffrey Hatcher	2015	tt3168230	0	45279	Bill Condon	Ian McKellen|Laura Linney|Hiroyuki Sanada|Hattie Morahan	Mr. Holmes	0	0	0	0	0	feature	0	0	0	5	0	1	[]	1	0	0	6240	0
+8.4	0	Unrated	0	Hubert Selby Jr.|Hubert Selby Jr.	2000	tt0180093	0	587336	Darren Aronofsky	Ellen Burstyn|Jared Leto|Jennifer Connelly|Marlon Wayans	Requiem for a Dream	0	0	0	0	0	feature	0	0	0	3	0	0	[]	1	0	0	6120	0
+7.6	0	M	0	Makoto Shinkai	2013	tt2591814	0	10215	Makoto Shinkai	Miyu Irino|Kana Hanazawa|Fumi Hirano|Gou Maeda	The Garden of Words	0	0	1	0	0	feature	0	0	0	3	0	0	[]	1	0	0	2760	0
+6.8	0	R	0	Scott Derrickson|C. Robert Cargill	2012	tt1922777	0	160805	Scott Derrickson	Ethan Hawke|Juliet Rylance|James Ransone|Fred Dalton Thompson	Sinister	0	0	0	0	0	feature	0	1	0	4	0	1	[]	0	0	0	6600	0
+9.2	0	R	0	Mario Puzo|Francis Ford Coppola	1972	tt0068646	0	1184137	Francis Ford Coppola	Marlon Brando|Al Pacino|James Caan|Diane Keaton	The Godfather	0	1	0	0	0	feature	0	0	0	7	0	0	[]	1	0	0	10500	0
+6.7	0	Not Rated	0	Phil Hay|Matt Manfredi	2015	tt2400463	0	29923	Karyn Kusama	Logan Marshall-Green|Emayatzy Corinealdi|Michiel Huisman|Tammy Blanchard	The Invitation	0	0	0	0	0	feature	0	0	0	6	1	1	[]	1	0	0	6000	0
+7.5	0	PG	0	Jacques Tati|Sylvain Chomet	2010	tt0775489	0	28875	Sylvain Chomet	Jean-Claude Donda|Eilidh Rankin|Duncan MacNeil|Raymond Mearns	The Illusionist	0	0	0	0	0	feature	0	0	0	4	0	0	[]	1	0	0	4800	0
+7.4	0	PG-13	0	Justin Zackham	2007	tt0825232	0	188225	Rob Reiner	Jack Nicholson|Morgan Freeman|Sean Hayes|Beverly Todd	The Bucket List	0	0	0	0	1	feature	0	0	1	3	0	0	[]	1	0	0	5820	0
+7.4	0	PG-13	0	Dan Fogelman	2011	tt1570728	0	381832	Glenn Ficarra|John Requa	Steve Carell|Ryan Gosling|Julianne Moore|Emma Stone	Crazy, Stupid, Love.	0	0	1	0	1	feature	0	0	0	3	0	0	[]	1	0	0	7080	0
+5.7	0	PG-13	0	Noah Oppenheim|Adam Cooper	2016	tt3410834	0	57425	Robert Schwentke	Shailene Woodley|Theo James|Jeff Daniels|Naomi Watts	Allegiant	1	0	0	0	0	feature	0	0	1	5	1	1	[]	0	0	1	7200	0
+6.7	1	PG	1	Tom J. Astle|Matt Ember	2015	tt2224026	0	73244	Tim Johnson	Jim Parsons|Rihanna|Steve Martin|Jennifer Lopez	Home	1	0	0	0	1	feature	0	0	1	16	0	0	[]	0	0	0	5640	0
+7.8	0	PG-13	0	John Boyne|Mark Herman	2008	tt0914798	0	136826	Mark Herman	Asa Butterfield|David Thewlis|Rupert Friend|Zac Mattoon O'Brien	The Boy in the Striped Pajamas	0	0	0	0	0	feature	1	0	0	4	0	0	[]	1	1	0	5640	0
+7.1	0	TV-PG	0	Pamela Pettler|Shane Acker	2009	tt0472033	0	112790	Shane Acker	Elijah Wood|Jennifer Connelly|Crispin Glover|Christopher Plummer	9	1	0	0	0	0	feature	0	0	1	8	1	1	[]	1	0	1	4740	0
+5.7	0	R	0	Reid Carolin	2015	tt2268016	0	40195	Gregory Jacobs	Channing Tatum|Joe Manganiello|Matt Bomer|Adam Rodriguez	Magic Mike XXL	0	0	0	1	1	feature	0	0	0	5	0	0	[]	1	0	0	6900	0
+7.8	0	R	0	Steven Zaillian|Stieg Larsson	2011	tt1568346	0	337048	David Fincher	Daniel Craig|Rooney Mara|Christopher Plummer|Stellan Skarsgård	The Girl with the Dragon Tattoo	0	1	0	0	0	feature	0	0	0	3	1	1	[]	1	0	0	9480	0
+7.8	0	R	0	Ian McEwan|Christopher Hampton	2007	tt0783233	0	196433	Joe Wright	Keira Knightley|James McAvoy|Brenda Blethyn|Saoirse Ronan	Atonement	0	0	1	0	0	feature	1	0	0	3	0	1	[]	1	1	0	7380	0
+7.6	0	PG	0	Juhi Chaturvedi	2015	tt3767372	0	17277	Shoojit Sircar	Amitabh Bachchan|Deepika Padukone|Irrfan Khan|Moushumi Chatterjee	Piku	0	0	0	0	1	feature	0	0	0	3	0	0	[]	1	0	0	7380	0
+7.7	0	R	0	Will Reiser	2011	tt1306980	0	274524	Jonathan Levine	Joseph Gordon-Levitt|Seth Rogen|Anna Kendrick|Bryce Dallas Howard	50/50	0	0	1	0	1	feature	0	0	0	4	0	0	[]	1	0	0	6000	0
+6.6	0	R	0	Neill Blomkamp	2013	tt1535108	0	345583	Neill Blomkamp	Matt Damon|Jodie Foster|Sharlto Copley|Alice Braga	Elysium	1	0	0	0	0	feature	0	0	0	3	1	0	[]	1	0	1	6540	0
+6.5	1	PG	1	Dr. Seuss|Cinco Paul	2012	tt1482459	0	79435	Chris Renaud|Kyle Balda	Zac Efron|Taylor Swift|Danny DeVito|Ed Helms	The Lorax	0	0	0	0	1	feature	0	0	1	5	0	0	[]	0	0	0	5160	0
+6.2	1	PG	0	Steve Bencich|Ron J. Friedman	2006	tt0400717	0	66693	Roger Allers|Jill Culton	Ashton Kutcher|Martin Lawrence|Debra Messing|Gary Sinise	Open Season	0	0	0	0	1	feature	0	0	1	4	0	0	[]	0	0	0	4980	0
+6.5	0	R	0	Leslye Headland	2015	tt3165612	0	24687	Leslye Headland	Jason Sudeikis|Alison Brie|Jordan Carlos|Margarita Levieva	Sleeping with Other People	0	0	1	0	1	feature	0	0	0	4	0	0	[]	1	0	0	6060	0
+7.3	0	PG	0	John Landis|Jonathan Lynn	1985	tt0088930	0	58789	Jonathan Lynn	Eileen Brennan|Tim Curry|Madeline Kahn|Christopher Lloyd	Clue	0	1	0	0	1	feature	0	0	0	4	1	1	[]	0	0	0	5640	0
+6.9	0	R	0	John Maclean	2015	tt3205376	0	29391	John Maclean	Kodi Smit-McPhee|Michael Fassbender|Ben Mendelsohn|Aorere Paki	Slow West	0	0	0	0	0	feature	0	0	0	6	0	0	[]	0	0	0	5040	1
+6.4	0	PG-13	0	Eric Heisserer|David F. Sandberg	2016	tt4786282	0	48412	David F. Sandberg	Teresa Palmer|Gabriel Bateman|Maria Bello|Billy Burke	Lights Out	0	0	0	0	0	feature	0	1	0	3	0	0	[]	0	0	0	4860	0
+6.5	0	PG-13	0	Laeta Kalogridis|Patrick Lussier	2015	tt1340138	0	195379	Alan Taylor	Arnold Schwarzenegger|Jason Clarke|Emilia Clarke|Jai Courtney	Terminator Genisys	1	0	0	0	0	feature	0	0	1	11	0	0	[]	0	0	1	7560	0
+7.9	1	TV-PG	1	William Steig|Ted Elliott	2001	tt0126029	0	476912	Andrew Adamson|Vicky Jenson	Mike Myers|Eddie Murphy|Cameron Diaz|John Lithgow	Shrek	0	0	0	0	1	feature	0	0	1	24	0	0	[]	0	0	0	5400	0
+8.3	0	R	0	Bernd Eichinger|Joachim Fest	2004	tt0363163	1	254214	Oliver Hirschbiegel	Bruno Ganz|Alexandra Maria Lara|Ulrich Matthes|Juliane Köhler	Downfall	0	0	0	0	0	feature	1	0	0	6	0	0	[]	1	1	0	9360	0
+7.7	0	R	0	J. Mackye Gruber|Eric Bress	2004	tt0289879	0	365168	Eric Bress|J. Mackye Gruber	Ashton Kutcher|Amy Smart|Melora Walters|Elden Henson	The Butterfly Effect	1	0	0	0	0	feature	0	0	0	3	1	0	[]	0	0	0	6780	0
+8	0	PG-13	0	Stephen Chbosky|Stephen Chbosky	2012	tt1659337	0	360944	Stephen Chbosky	Logan Lerman|Emma Watson|Ezra Miller|Paul Rudd	The Perks of Being a Wallflower	0	0	1	0	0	feature	0	0	0	13	0	0	[]	1	0	0	6120	0
+7.6	1	PG	0	Alê Abreu	2013	tt3183630	0	3946	Alê Abreu	Vinicius Garcia|Marco Aurélio Campos|Lu Horta|Felipe Zilse	Boy and the World	0	0	0	0	0	feature	0	0	1	7	0	0	[]	0	0	0	4800	0
+7.6	0	R	0	Wes Anderson|Owen Wilson	2001	tt0265666	0	213598	Wes Anderson	Gene Hackman|Gwyneth Paltrow|Anjelica Huston|Ben Stiller	The Royal Tenenbaums	0	0	0	0	1	feature	0	0	0	3	0	0	[]	1	0	0	6600	0
+7.6	1	Approved	1	Jacob Grimm|Wilhelm Grimm	1937	tt0029583	0	136810	William Cottrell|David Hand	Adriana Caselotti|Harry Stockwell|Lucille La Verne|Roy Atwell	Snow White and the Seven Dwarfs	0	0	1	0	0	feature	0	1	0	6	0	0	[]	0	0	0	4980	0
+7.3	0	PG-13	0	Woody Allen	2013	tt2334873	0	154016	Woody Allen	Cate Blanchett|Alec Baldwin|Peter Sarsgaard|Sally Hawkins	Blue Jasmine	0	0	0	0	0	feature	0	0	0	5	0	0	[]	1	0	0	5880	0
+7.2	0	PG-13	0	Simon Kinberg|Bryan Singer	2016	tt3385516	0	219419	Bryan Singer	James McAvoy|Michael Fassbender|Jennifer Lawrence|Nicholas Hoult	X-Men: Apocalypse	1	0	0	0	0	feature	0	0	1	15	0	0	[]	0	0	1	8640	0
+8	0	R	0	Martin McDonagh	2008	tt0780536	0	313330	Martin McDonagh	Colin Farrell|Brendan Gleeson|Ciarán Hinds|Elizabeth Berrington	In Bruges	0	1	0	0	1	feature	0	0	0	3	0	0	[]	1	0	0	6420	0
+7.1	1	G	0	Bryan Schulz|Craig Schulz	2015	tt2452042	0	30834	Steve Martino	Noah Schnapp|Bill Melendez|Hadley Belle Miller|Francesca Capaldi	The Peanuts Movie	0	0	0	0	1	feature	0	0	1	14	0	0	[]	0	0	0	5280	0
+7.3	0	R	0	Eric Warren Singer|David O. Russell	2013	tt1800241	0	365113	David O. Russell	Christian Bale|Amy Adams|Bradley Cooper|Jennifer Lawrence	American Hustle	0	1	0	0	0	feature	0	0	0	5	0	0	[]	1	1	0	8280	0
+8.3	1	PG	0	Pete Docter|Bob Peterson	2009	tt1049413	0	686019	Pete Docter|Bob Peterson	Edward Asner|Jordan Nagai|John Ratzenberger|Christopher Plummer	Up	0	0	0	0	1	feature	0	0	1	58	0	0	[]	0	0	0	5760	0
+7.9	0	PG-13	1	Fran Walsh|Philippa Boyens	2012	tt0903624	0	648780	Peter Jackson	Martin Freeman|Ian McKellen|Richard Armitage|Andy Serkis	The Hobbit: An Unexpected Journey	0	0	0	0	0	feature	0	0	1	8	0	0	[]	0	0	0	10140	0
+8.1	0	Not Rated	0	Alex Gibney|Lawrence Wright	2015	tt4257858	0	25824	Alex Gibney	Paul Haggis|Jason Beghe|Spanky Taylor|David Miscavige	Going Clear: Scientology and the Prison of Belief	0	0	0	0	0	documentary	0	0	0	5	0	0	[]	0	0	0	7140	0
+4.5	1	TV-PG	1	Jon Vitti|Jonathan Aibel	2009	tt1231580	0	32370	Betty Thomas	Jason Lee|Zachary Levi|David Cross|Justin Long	Alvin and the Chipmunks: The Squeakquel	0	0	0	1	1	feature	0	0	0	4	0	0	[]	0	0	0	5280	0
+None	1	None	1	John Lasseter|Andrew Stanton	2019	tt1979376	0	None	John Lasseter|Josh Cooley	Tom Hanks|Joan Cusack|Tim Allen|Patricia Arquette	Toy Story 4	0	0	0	0	1	feature	0	0	1	4	0	0	[]	0	0	0	None	0
+7.1	0	R	0	Jeremy Saulnier	2015	tt4062536	0	43908	Jeremy Saulnier	Anton Yelchin|Imogen Poots|Alia Shawkat|Patrick Stewart	Green Room	0	1	0	0	0	feature	0	1	0	5	1	0	[]	0	0	0	5700	0
+6.4	0	PG-13	0	T.S. Nowlin|James Dashner	2015	tt4046784	0	147595	Wes Ball	Dylan O'Brien|Kaya Scodelario|Thomas Brodie-Sangster|Giancarlo Esposito	Maze Runner: The Scorch Trials	1	0	0	0	0	feature	0	0	0	19	1	0	[]	0	0	1	7920	0
+6.1	0	R	0	Abby Kohn|Marc Silverstein	2016	tt1292566	0	48462	Christian Ditter	Dakota Johnson|Rebel Wilson|Leslie Mann|Alison Brie	How to Be Single	0	0	1	0	1	feature	0	0	0	3	0	0	[]	0	0	0	6600	0
+6.8	0	PG-13	0	Woody Allen	2016	tt4513674	0	29875	Woody Allen	Jesse Eisenberg|Kristen Stewart|Steve Carell|Blake Lively	Café Society	0	0	1	0	1	feature	0	0	0	3	0	0	[]	1	0	0	5760	0
+6	0	R	0	Paula Pell	2015	tt1850457	0	44967	Jason Moore	Amy Poehler|Tina Fey|Maya Rudolph|Ike Barinholtz	Sisters	0	0	0	0	1	feature	0	0	0	9	0	0	[]	0	0	0	7080	0
+7.2	1	TV-PG	1	Brenda Chapman|Mark Andrews	2012	tt1217209	0	280856	Mark Andrews|Brenda Chapman	Kelly Macdonald|Billy Connolly|Emma Thompson|Julie Walters	Brave	0	0	0	0	1	feature	0	0	1	37	0	0	[]	0	1	0	5580	0
+7.6	0	PG-13	0	Markus Zusak|Michael Petroni	2013	tt0816442	0	101585	Brian Percival	Sophie Nélisse|Geoffrey Rush|Emily Watson|Ben Schnetzer	The Book Thief	0	0	0	0	0	feature	1	0	0	6	0	0	[]	1	0	0	7860	0
+8.1	0	R	0	Stephen King|Raynold Gideon	1986	tt0092005	0	279073	Rob Reiner	Wil Wheaton|River Phoenix|Corey Feldman|Jerry O'Connell	Stand by Me	0	0	0	0	0	feature	0	0	1	3	0	0	[]	1	0	0	5340	0
+7.1	1	PG	0	Robert Louis Stevenson|Ron Clements	2002	tt0133240	0	73507	Ron Clements|John Musker	Joseph Gordon-Levitt|Emma Thompson|Martin Short|Roscoe Lee Browne	Treasure Planet	1	0	0	0	0	feature	0	0	1	5	0	0	[]	0	0	0	5700	0
+7.5	0	PG-13	0	Diablo Cody	2007	tt0467406	0	421077	Jason Reitman	Ellen Page|Michael Cera|Jennifer Garner|Jason Bateman	Juno	0	0	0	0	1	feature	0	0	0	6	0	0	[]	1	0	0	5760	0
+7.6	0	PG-13	0	Steve Coogan|Jeff Pope	2013	tt2431286	1	77686	Stephen Frears	Judi Dench|Steve Coogan|Sophie Kennedy Clark|Mare Winningham	Philomena	0	0	0	0	0	feature	0	0	0	3	0	0	[]	1	0	0	5880	0
+7.3	0	R	0	Jon Favreau	2014	tt2883512	0	144594	Jon Favreau	Jon Favreau|Robert Downey Jr.|Scarlett Johansson|Dustin Hoffman	Chef	0	0	0	0	1	feature	0	0	0	5	0	0	[]	1	0	0	6840	0
+5.8	0	R	0	Andrew Jay Cohen|Brendan O'Brien	2016	tt4438848	0	58424	Nicholas Stoller	Seth Rogen|Rose Byrne|Zac Efron|Chloë Grace Moretz	Neighbors 2: Sorority Rising	0	0	0	0	1	feature	0	0	0	3	0	0	[]	0	0	0	5520	0
+7.8	0	PG-13	0	Todd Komarnicki|Chesley Sullenberger	2016	tt3263904	1	40994	Clint Eastwood	Tom Hanks|Aaron Eckhart|Laura Linney|Valerie Mahaffey	Sully	0	0	0	0	0	feature	0	0	0	4	0	0	[]	1	0	0	5760	0
+7.7	0	PG-13	0	Deniz Gamze Ergüven|Alice Winocour	2015	tt3966404	0	19610	Deniz Gamze Ergüven	Günes Sensoy|Doga Zeynep Doguslu|Tugba Sunguroglu|Elit Iscan	Mustang	0	0	0	0	0	feature	0	0	0	8	0	0	[]	1	0	0	5820	0
+7.7	0	PG-13	0	Aaron Sorkin|Ben Mezrich	2010	tt1285016	1	490321	David Fincher	Jesse Eisenberg|Andrew Garfield|Justin Timberlake|Rooney Mara	The Social Network	0	0	0	0	0	feature	0	0	0	5	0	0	[]	1	0	0	7200	0
+7.6	1	G	1	John Musker|Ron Clements	1989	tt0097757	0	174687	Ron Clements|John Musker	Jodi Benson|Rene Auberjonois|Christopher Daniel Barnes|Pat Carroll	The Little Mermaid	0	0	1	0	0	feature	0	0	0	10	0	0	[]	0	0	0	4980	0
+7.3	0	R	0	Donald Margulies|David Lipsky	2015	tt3416744	1	18746	James Ponsoldt	Jason Segel|Jesse Eisenberg|Anna Chlumsky|Mamie Gummer	The End of the Tour	0	0	0	0	0	feature	0	0	0	9	0	0	[]	1	0	0	6360	0
+7.6	0	R	1	Taika Waititi|Jemaine Clement	2014	tt3416742	0	74273	Jemaine Clement|Taika Waititi	Jemaine Clement|Taika Waititi|Cori Gonzalez-Macuer|Jonny Brugh	What We Do in the Shadows	0	0	0	0	1	feature	0	1	0	8	0	0	[]	0	0	0	5160	0
+7.8	0	PG-13	0	Sylvain Chomet	2003	tt0286244	0	43126	Sylvain Chomet	Michèle Caucheteux|Jean-Claude Donda|Michel Robin|Monica Viegas	The Triplets of Belleville	0	0	0	0	1	feature	0	0	0	3	0	0	[]	1	0	0	4800	0
+6.5	0	PG-13	0	Josh A. Cagan|Kody Keplinger	2015	tt1666801	0	54029	Ari Sandel	Mae Whitman|Bella Thorne|Robbie Amell|Allison Janney	The DUFF	0	0	0	0	1	feature	0	0	0	11	0	0	[]	0	0	0	6060	0
+7.6	0	R	0	David Ayer	2014	tt2713180	0	314164	David Ayer	Brad Pitt|Shia LaBeouf|Logan Lerman|Michael Peña	Fury	0	0	0	0	0	feature	1	0	0	4	0	0	[]	1	0	1	8040	0
+6.6	0	R	0	Woody Allen	2015	tt3715320	0	35448	Woody Allen	Joaquin Phoenix|Emma Stone|Parker Posey|Joe Stapleton	Irrational Man	0	0	0	0	1	feature	0	0	0	10	0	0	[]	1	0	0	5700	0
+5.1	1	PG	1	Ross Bagdasarian|Janice Karman	2015	tt2974918	0	10233	Walt Becker	Jason Lee|Justin Long|Matthew Gray Gubler|Jesse McCartney	Alvin and the Chipmunks: The Road Chip	0	0	0	1	1	feature	0	0	1	5	0	0	[]	0	0	0	5520	0
+7	0	TV-MA	1	Seth MacFarlane|Alec Sulkin	2012	tt1637725	0	479754	Seth MacFarlane	Mark Wahlberg|Mila Kunis|Seth MacFarlane|Joel McHale	Ted	0	0	0	0	1	feature	0	0	0	5	0	0	[]	0	0	0	6720	0
+7.9	0	PG-13	0	Mark Fergus|Hawk Ostby	2008	tt0371746	0	710811	Jon Favreau	Robert Downey Jr.|Gwyneth Paltrow|Terrence Howard|Jeff Bridges	Iron Man	1	0	0	0	0	feature	0	0	1	7	0	0	[]	0	0	1	7560	0
+8.4	0	MA15+	0	Den Tolmor	2015	tt4908644	0	7529	Evgeny Afineevsky	Bishop Agapit|Catherine Ashton|Serhii Averchenko|Kristina Berdinskikh	Winter on Fire: Ukraine's Fight for Freedom	0	0	0	0	0	documentary	0	0	0	4	0	0	[]	0	0	0	6120	0
+8.1	0	R	0	Rhett Reese|Paul Wernick	2016	tt1431045	0	543164	Tim Miller	Ryan Reynolds|Morena Baccarin|T.J. Miller|Ed Skrein	Deadpool	1	0	1	0	1	feature	0	0	1	39	0	0	[]	0	0	1	6480	0
+8.5	0	R	0	Florian Henckel von Donnersmarck	2006	tt0405094	0	266319	Florian Henckel von Donnersmarck	Ulrich Mühe|Martina Gedeck|Sebastian Koch|Ulrich Tukur	The Lives of Others	0	0	0	0	0	feature	0	0	0	3	1	0	[]	1	0	0	8220	0
+6.7	0	R	0	Robert Eggers	2015	tt4263482	0	81857	Robert Eggers	Anya Taylor-Joy|Ralph Ineson|Kate Dickie|Julian Richings	The Witch	0	0	0	0	0	feature	0	1	0	10	0	1	[]	0	0	0	5520	0
+7.4	0	TV-MA	0	Rob Burnett|Jonathan Evison	2016	tt2452386	0	24299	Rob Burnett	Craig Roberts|Paul Rudd|Selena Gomez|Alex Huff	The Fundamentals of Caring	0	0	0	0	1	feature	0	0	0	4	0	0	[]	1	0	0	5820	0
+7.5	0	R	0	László Nemes|Clara Royer	2015	tt3808342	0	25012	László Nemes	Géza Röhrig|Levente Molnár|Urs Rechn|Todd Charmont	Son of Saul	0	0	0	0	0	feature	1	0	0	7	1	0	[]	1	0	0	6420	0
+8.8	0	PG	1	Leigh Brackett|Lawrence Kasdan	1980	tt0080684	0	859683	Irvin Kershner	Mark Hamill|Harrison Ford|Carrie Fisher|Billy Dee Williams	Star Wars: Episode V - The Empire Strikes Back	1	0	0	0	0	feature	0	0	1	6	0	0	[]	0	0	1	7440	0
+6.7	1	G	0	Carl Binder|Susannah Grant	1995	tt0114148	0	122981	Mike Gabriel|Eric Goldberg	Mel Gibson|Linda Hunt|Christian Bale|Irene Bedard	Pocahontas	0	0	1	0	0	feature	0	0	1	7	0	0	[]	1	1	0	5040	0
+8.6	0	R	0	Andrew Kevin Walker	1995	tt0114369	0	1052149	David Fincher	Morgan Freeman|Brad Pitt|Kevin Spacey|Andrew Kevin Walker	Se7en	0	1	0	0	0	feature	0	0	0	12	1	1	[]	1	0	0	7620	0
+6.9	0	R	0	David Robert Mitchell	2014	tt3235888	0	121933	David Robert Mitchell	Maika Monroe|Keir Gilchrist|Olivia Luccardi|Lili Sepe	It Follows	0	0	0	0	0	feature	0	1	0	4	0	1	[]	0	0	0	6000	0
+7.7	0	PG-13	0	John Lee Hancock|Michael Lewis	2009	tt0878804	1	228227	John Lee Hancock	Quinton Aaron|Sandra Bullock|Tim McGraw|Jae Head	The Blind Side	0	0	0	0	0	feature	0	0	0	3	0	0	[]	1	0	0	7740	0
+8.3	1	TV-G	1	John Lasseter|Pete Docter	1995	tt0114709	0	641611	John Lasseter	Tom Hanks|Tim Allen|Don Rickles|Jim Varney	Toy Story	0	0	0	0	1	feature	0	0	1	43	0	0	[]	0	0	0	4860	0
+7.5	1	PG	1	Steve Kloves|J.K. Rowling	2009	tt0417741	0	332260	David Yates	Daniel Radcliffe|Emma Watson|Rupert Grint|Michael Gambon	Harry Potter and the Half-Blood Prince	0	0	0	0	0	feature	0	0	1	5	0	1	[]	0	0	0	9180	0
+8.2	0	Not Rated	0		2012	tt2375605	1	25088	Joshua Oppenheimer|Anonymous	Anwar Congo|Herman Koto|Syamsul Arifin|Ibrahim Sinik	The Act of Killing	0	1	0	0	0	documentary	0	0	0	3	0	0	[]	0	1	0	6900	0
+6.7	0	R	0	Veronika Franz|Severin Fiala	2014	tt3086442	0	23348	Severin Fiala|Veronika Franz	Lukas Schwarz|Elias Schwarz|Susanne Wuest|Hans Escher	Goodnight Mommy	0	0	0	0	0	feature	0	0	0	4	1	1	[]	0	0	0	5940	0
+6.8	0	PG-13	0	Aline Brosh McKenna|Lauren Weisberger	2006	tt0458352	0	291973	David Frankel	Anne Hathaway|Meryl Streep|Adrian Grenier|Emily Blunt	The Devil Wears Prada	0	0	0	0	1	feature	0	0	0	4	0	0	[]	1	0	0	6540	0
+8.1	0	R	0	Gillian Flynn|Gillian Flynn	2014	tt2267998	0	593787	David Fincher	Ben Affleck|Rosamund Pike|Neil Patrick Harris|Tyler Perry	Gone Girl	0	1	0	0	0	feature	0	0	0	17	1	1	[]	1	0	0	8940	0
+9.1	0	TV-MA	0	Jonathan Nolan|Lisa Joy	2016	tt0475784	0	59838	Jonathan Nolan	Evan Rachel Wood|Thandie Newton|Jeffrey Wright|James Marsden	Westworld	1	0	0	0	0	tv_series	0	0	0	3	0	1	[<Person: u'Lisa Joy' (u'nm2847370')>]	1	0	0	3600	1
+7.8	0	R	1	Richard Curtis	2013	tt2194499	0	209828	Richard Curtis	Domhnall Gleeson|Rachel McAdams|Bill Nighy|Lydia Wilson	About Time	1	0	1	0	1	feature	0	0	0	7	0	0	[]	1	0	0	7380	0
+7.6	0	Not Rated	0		2015	tt4284010	1	6938	Liz Garbus	James Baldwin|Stokely Carmichael|Walter Cronkite|Stanley Crouch	What Happened, Miss Simone?	0	0	0	1	0	documentary	0	0	0	4	0	0	[]	0	0	0	6060	0
+7.7	0	PG-13	0	Anthony McCarten|Jane Hawking	2014	tt2980516	1	277554	James Marsh	Eddie Redmayne|Felicity Jones|Tom Prior|Sophie Perry	The Theory of Everything	0	0	1	0	0	feature	0	0	0	12	0	0	[]	1	0	0	7380	0
+8.3	0	R	1	Charlie Kaufman|Michel Gondry	2004	tt0338013	0	684981	Michel Gondry	Jim Carrey|Kate Winslet|Tom Wilkinson|Gerry Robert Byrne	Eternal Sunshine of the Spotless Mind	1	0	1	0	0	feature	0	0	0	8	0	0	[]	1	0	0	6480	0
+7.4	0	R	0	Michael Spierig|Peter Spierig	2014	tt2397535	0	173989	Michael Spierig|Peter Spierig	Ethan Hawke|Sarah Snook|Noah Taylor|Madeleine West	Predestination	1	0	0	0	0	feature	0	0	0	4	1	1	[]	1	0	0	5820	0
+7.9	1	PG	0	Jordan Roberts|Robert L. Baird	2014	tt2245084	0	290209	Don Hall|Chris Williams	Ryan Potter|Scott Adsit|Jamie Chung|T.J. Miller	Big Hero 6	1	0	0	0	1	feature	0	0	1	42	0	0	[]	1	0	1	6120	0
+6	0	PG-13	0	Robert C. O'Brien|Nissar Modi	2015	tt1598642	0	18823	Craig Zobel	Chiwetel Ejiofor|Chris Pine|Margot Robbie	Z for Zachariah	1	0	0	0	0	feature	0	0	0	3	1	0	[]	1	0	0	5880	0
+8.8	0	PG-13	0	Christopher Nolan	2010	tt1375666	0	1508597	Christopher Nolan	Leonardo DiCaprio|Joseph Gordon-Levitt|Ellen Page|Ken Watanabe	Inception	1	0	0	0	0	feature	0	0	1	26	1	0	[]	0	0	1	8880	0
+7	0	R	0	Bob Fisher|Steve Faber	2013	tt1723121	0	323595	Rawson Marshall Thurber	Jason Sudeikis|Jennifer Aniston|Emma Roberts|Ed Helms	We're the Millers	0	1	0	0	1	feature	0	0	0	4	0	0	[]	0	0	0	6600	0
+6.1	0	PG-13	1	Evan Spiliotopoulos|Craig Mazin	2016	tt2381991	0	53780	Cedric Nicolas-Troyan	Chris Hemsworth|Jessica Chastain|Charlize Theron|Emily Blunt	The Huntsman: Winter's War	0	0	0	0	0	feature	0	0	1	4	0	0	[]	1	0	1	7200	0
+7.2	1	TV-PG	1	William Steig|Andrew Adamson	2004	tt0298148	0	321565	Andrew Adamson|Kelly Asbury	Mike Myers|Eddie Murphy|Cameron Diaz|Julie Andrews	Shrek 2	0	0	1	0	1	feature	0	0	1	18	0	0	[]	0	0	0	5580	0
+8.5	0	R	0	Christopher Nolan|Jonathan Nolan	2000	tt0209144	0	866853	Christopher Nolan	Guy Pearce|Carrie-Anne Moss|Joe Pantoliano|Mark Boone Junior	Memento	0	0	0	0	0	feature	0	0	0	6	1	1	[]	0	0	0	6780	0
+6.3	1	PG	0	Jon Vitti|Mikko Pöllä	2016	tt1985949	0	43442	Clay Kaytis|Fergal Reilly	Jason Sudeikis|Josh Gad|Danny McBride|Maya Rudolph	The Angry Birds Movie	0	0	0	0	1	feature	0	0	1	8	0	0	[]	0	0	1	5820	0
+7.8	0	PG-13	0	Hayao Miyazaki|Hayao Miyazaki	2013	tt2013293	1	45606	Hayao Miyazaki	Hideaki Anno|Hidetoshi Nishijima|Miori Takimoto|Masahiko Nishimura	The Wind Rises	0	0	1	0	0	feature	1	0	0	6	0	0	[]	1	1	0	7560	0
+7.8	0	Not Rated	0	Yasutaka Tsutsui|Satoko Okudera	2006	tt0808506	0	37940	Mamoru Hosoda	Riisa Naka|Takuya Ishida|Mitsutaka Itakura|Ayami Kakiuchi	The Girl Who Leapt Through Time	1	0	1	0	1	feature	0	0	1	5	0	1	[]	1	0	0	5880	0
+6	0	R	0	James DeMonaco	2016	tt4094724	0	41921	James DeMonaco	Frank Grillo|Elizabeth Mitchell|Mykelti Williamson|Joseph Julian Soria	The Purge: Election Year	1	0	0	0	0	feature	0	1	0	3	1	0	[]	0	0	1	6540	0
+5.4	1	PG	1	J. David Stem|David N. Weiss	2013	tt2017020	0	27934	Raja Gosnell	Neil Patrick Harris|Jayma Mays|Katy Perry|Hank Azaria	The Smurfs 2	0	0	0	0	1	feature	0	0	1	4	0	0	[]	0	0	0	6300	0
+6.6	0	PG-13	0	David O. Russell|Annie Mumolo	2015	tt2446980	1	85138	David O. Russell	Jennifer Lawrence|Robert De Niro|Bradley Cooper|Edgar Ramírez	Joy	0	0	0	0	0	feature	0	0	0	19	0	0	[]	1	0	0	7440	0
+8.7	0	TV-14	0	Vince Gilligan|Peter Gould	2015	tt3032476	0	162877		Bob Odenkirk|Jonathan Banks|Rhea Seehorn|Michael McKean	Better Call Saul	0	1	0	0	0	tv_series	0	0	0	3	0	0	[<Person: u'Vince Gilligan' (u'nm0319213')>, <Person: u'Peter Gould' (u'nm0332467')>]	1	0	0	2760	0
+7.1	0	R	0	Sean Baker|Chris Bergoch	2015	tt3824458	0	13806	Sean Baker	Kitana Kiki Rodriguez|Mya Taylor|Karren Karagulian|Mickey O'Hagan	Tangerine	0	1	0	0	1	feature	0	0	0	4	0	0	[]	1	0	0	5280	0
+6.7	1	PG	1	Robert Smigel|Adam Sandler	2015	tt2510894	0	62558	Genndy Tartakovsky	Adam Sandler|Andy Samberg|Selena Gomez|Kevin James	Hotel Transylvania 2	0	0	0	0	1	feature	0	1	0	12	0	0	[]	0	0	0	5340	0
+7	0	PG-13	0	Karl Gajdusek|Michael Arndt	2013	tt1483013	0	395655	Joseph Kosinski	Tom Cruise|Morgan Freeman|Andrea Riseborough|Olga Kurylenko	Oblivion	1	0	0	0	0	feature	0	0	1	3	0	1	[]	0	0	1	7440	0
+7.5	0	R	0	Charlie Kaufman	2008	tt0383028	0	58094	Charlie Kaufman	Philip Seymour Hoffman|Samantha Morton|Michelle Williams|Catherine Keener	Synecdoche, New York	0	0	0	0	1	feature	0	0	0	3	0	0	[]	1	0	0	7440	0
+7.2	1	PG	0	John Logan|John Logan	2011	tt1192628	0	187201	Gore Verbinski	Johnny Depp|Isla Fisher|Timothy Olyphant|Abigail Breslin	Rango	0	0	0	0	1	feature	0	0	1	7	0	0	[]	0	0	0	6420	1
+8.5	0	R	0	William Monahan|Alan Mak	2006	tt0407887	0	896232	Martin Scorsese	Leonardo DiCaprio|Matt Damon|Jack Nicholson|Mark Wahlberg	The Departed	0	1	0	0	0	feature	0	0	0	8	1	0	[]	1	0	0	9060	0
+7.3	0	R	0	Charlie Kaufman|Charlie Kaufman	2015	tt2401878	0	37185	Duke Johnson|Charlie Kaufman	David Thewlis|Jennifer Jason Leigh|Tom Noonan	Anomalisa	0	0	1	0	1	feature	0	0	0	22	0	0	[]	1	0	0	5400	0
+8.2	0	M	0	Rajkumar Hirani|Abhijat Joshi	2014	tt2338151	0	90989	Rajkumar Hirani	Aamir Khan|Anushka Sharma|Sanjay Dutt|Boman Irani	PK	1	0	1	0	1	feature	0	0	0	4	0	0	[]	1	0	0	9180	0
+8.7	0	PG-13	1	J.R.R. Tolkien|Fran Walsh	2002	tt0167261	0	1127382	Peter Jackson	Elijah Wood|Ian McKellen|Viggo Mortensen|Orlando Bloom	The Lord of the Rings: The Two Towers	0	0	0	0	0	feature	0	0	1	9	0	0	[]	1	0	0	10740	0
+8.9	0	PG-13	1	J.R.R. Tolkien|Fran Walsh	2003	tt0167260	0	1244667	Peter Jackson	Elijah Wood|Viggo Mortensen|Ian McKellen|Orlando Bloom	The Lord of the Rings: The Return of the King	0	0	0	0	0	feature	0	0	1	17	0	0	[]	1	0	0	12060	0
+6.5	0	None	0	Anna Rose Holmer|Anna Rose Holmer	2015	tt4238858	0	1060	Anna Rose Holmer	Royalty Hightower|Alexis Neblett|Da'Sean Minor|Lauren Gibson	The Fits	0	0	0	0	0	feature	0	0	0	3	0	0	[]	1	0	0	4320	0
+7.7	0	R	0	Richard Curtis	2003	tt0314331	0	324338	Richard Curtis	Hugh Grant|Martine McCutcheon|Liam Neeson|Laura Linney	Love Actually	0	0	1	0	1	feature	0	0	0	3	0	0	[]	1	0	0	8100	0
+4.3	0	PG-13	0	Jeremy Slater|Simon Kinberg	2015	tt1502712	0	115570	Josh Trank	Miles Teller|Kate Mara|Michael B. Jordan|Jamie Bell	Fantastic Four	1	0	0	0	0	feature	0	0	1	10	0	0	[]	0	0	1	6000	0
+7.4	1	G	1	Lewis Carroll|Winston Hibler	1951	tt0043274	0	98301	Clyde Geronimi|Wilfred Jackson	Kathryn Beaumont|Ed Wynn|Richard Haydn|Sterling Holloway	Alice in Wonderland	0	0	0	0	0	feature	0	0	1	5	0	0	[]	0	0	0	4500	0
+7.2	0	R	0	Aaron Sorkin|Walter Isaacson	2015	tt2080374	1	104144	Danny Boyle	Michael Fassbender|Kate Winslet|Seth Rogen|Jeff Daniels	Steve Jobs	0	0	0	0	0	feature	0	0	0	26	0	0	[]	1	1	0	7320	0
+8.4	0	PG	0	T.E. Lawrence|Robert Bolt	1962	tt0056172	1	197601	David Lean	Peter O'Toole|Alec Guinness|Anthony Quinn|Jack Hawkins	Lawrence of Arabia	0	0	0	0	0	feature	1	0	1	3	0	0	[]	1	1	0	13620	0
+8.4	0	R	0	Quentin Tarantino	2012	tt1853728	0	984890	Quentin Tarantino	Jamie Foxx|Christoph Waltz|Leonardo DiCaprio|Kerry Washington	Django Unchained	0	0	0	0	0	feature	0	0	0	15	0	0	[]	1	0	0	9900	1
+8.4	0	PG	1	Lawrence Kasdan|George Lucas	1983	tt0086190	0	700959	Richard Marquand	Mark Hamill|Harrison Ford|Carrie Fisher|Billy Dee Williams	Star Wars: Episode VI - Return of the Jedi	1	0	0	0	0	feature	0	0	1	6	0	0	[]	0	0	1	7860	0
+7.4	0	R	0	Kurt Sutter	2015	tt1798684	0	156038	Antoine Fuqua	Jake Gyllenhaal|Rachel McAdams|Oona Laurence|Forest Whitaker	Southpaw	0	0	0	0	0	feature	0	0	0	19	0	0	[]	1	0	0	7440	0
+6.5	1	PG	1	Melissa Mathison|Roald Dahl	2016	tt3691740	0	28088	Steven Spielberg	Mark Rylance|Ruby Barnhill|Penelope Wilton|Jemaine Clement	The BFG	0	0	0	0	0	feature	0	0	1	4	0	0	[]	0	0	0	7020	0
+8	0	R	0	Craig Borten|Melisa Wallack	2013	tt0790636	1	335953	Jean-Marc Vallée	Matthew McConaughey|Jennifer Garner|Jared Leto|Steve Zahn	Dallas Buyers Club	0	0	0	0	0	feature	0	0	0	8	0	0	[]	1	0	0	7020	0
+8.6	0	Unrated	0	Luc Besson	1994	tt0110413	0	745806	Luc Besson	Jean Reno|Gary Oldman|Natalie Portman|Danny Aiello	Léon: The Professional	0	1	0	0	0	feature	0	0	0	3	1	0	[]	1	0	0	6600	0
+6.9	1	TV-PG	0	Eric Darnell|Noah Baumbach	2012	tt1277953	0	121962	Eric Darnell|Tom McGrath	Ben Stiller|Jada Pinkett Smith|Chris Rock|David Schwimmer	Madagascar 3: Europe's Most Wanted	0	0	0	0	1	feature	0	0	1	11	0	0	[]	0	0	0	5580	0
+8.5	0	R	1	Stephen King|Frank Darabont	1999	tt0120689	0	808469	Frank Darabont	Tom Hanks|Michael Clarke Duncan|David Morse|Bonnie Hunt	The Green Mile	0	1	0	0	0	feature	0	0	0	7	0	1	[]	1	0	0	11340	0
+7.4	0	R	0		2015	tt4126304	0	12410	Matthew Heineman	Tim Nailer Foley|José Manuel 'El Doctor' Mireles|Paco Valencia|Chaneque	Cartel Land	0	0	0	0	0	documentary	0	0	0	4	0	0	[]	0	0	0	6000	0
+6.7	0	PG-13	0	Heath Corson|Bob Kane	2015	tt3878542	0	11459	Ethan Spaulding	Sean Astin|Rosario Dawson|Nathan Fillion|Christopher Gorham	Justice League: Throne of Atlantis	1	0	0	0	0	video	0	0	1	4	0	0	[]	0	0	1	4320	0
+6.4	0	R	1	Kyle Hunter|Ariel Shaffir	2016	tt1700841	0	76086	Greg Tiernan|Conrad Vernon	Seth Rogen|Kristen Wiig|Jonah Hill|Alistair Abell	Sausage Party	0	0	0	0	1	feature	0	0	1	9	0	0	[]	0	0	0	5340	0
+8.4	0	R	0	Stephen King|Stanley Kubrick	1980	tt0081505	0	627631	Stanley Kubrick	Jack Nicholson|Shelley Duvall|Danny Lloyd|Scatman Crothers	The Shining	0	0	0	0	0	feature	0	1	0	3	0	0	[]	1	0	0	8520	0
+8	0	R	0	Simon Beaufoy|Vikas Swarup	2008	tt1010048	0	653812	Danny Boyle|Loveleen Tandan	Dev Patel|Freida Pinto|Saurabh Shukla|Anil Kapoor	Slumdog Millionaire	0	0	0	0	0	feature	0	0	0	4	0	0	[]	1	0	0	7200	0
+8.6	1	Approved	1	Frances Goodrich|Albert Hackett	1946	tt0038650	0	282558	Frank Capra	James Stewart|Donna Reed|Lionel Barrymore|Thomas Mitchell	It's a Wonderful Life	0	0	0	0	0	feature	0	0	0	4	0	0	[]	1	0	0	7800	0
+7.7	0	PG-13	0	James Cameron	1997	tt0120338	0	810570	James Cameron	Leonardo DiCaprio|Kate Winslet|Billy Zane|Kathy Bates	Titanic	0	0	1	0	0	feature	0	0	0	14	0	0	[]	1	0	0	11640	0
+5.4	0	PG-13	0	Cameron Crowe	2015	tt1243974	0	41756	Cameron Crowe	Bradley Cooper|Rachel McAdams|Emma Stone|Alec Baldwin	Aloha	0	0	1	0	1	feature	0	0	0	5	0	0	[]	1	0	0	6300	0
+7.1	0	PG-13	0	Edmond Wong|Lai-yin Leung	2015	tt2888046	1	25163	Wilson Yip	Donnie Yen|Lynn Hung|Jin Zhang|Mike Tyson	Ip Man 3	0	0	0	0	0	feature	0	0	0	3	0	0	[]	1	1	1	6300	0
+4.8	0	PG-13	0	Justin Theroux|Ben Stiller	2016	tt1608290	0	41171	Ben Stiller	Ben Stiller|Owen Wilson|Penélope Cruz|Will Ferrell	Zoolander 2	0	0	0	0	1	feature	0	0	0	5	0	0	[]	0	0	0	6120	0
+6.8	0	PG-13	0	Abby Kohn|Marc Silverstein	2012	tt1606389	0	149904	Michael Sucsy	Rachel McAdams|Channing Tatum|Sam Neill|Jessica Lange	The Vow	0	0	1	0	0	feature	0	0	0	3	0	0	[]	1	0	0	6240	0
+8.2	0	R	0	Michael Mann	1995	tt0113277	0	440853	Michael Mann	Al Pacino|Robert De Niro|Val Kilmer|Jon Voight	Heat	0	1	0	0	0	feature	0	0	0	3	1	0	[]	1	0	1	10200	0
+7.5	0	PG-13	1	Zak Penn|David Hayter	2003	tt0290334	0	414255	Bryan Singer	Patrick Stewart|Hugh Jackman|Halle Berry|Ian McKellen	X-Men 2	1	0	0	0	0	feature	0	0	1	3	1	0	[]	0	0	1	8040	0
+7	1	PG	0	Peter Ackerman|Michael Berg	2009	tt1080016	0	171023	Carlos Saldanha|Mike Thurmeier	Ray Romano|John Leguizamo|Denis Leary|Eunice Cho	Ice Age: Dawn of the Dinosaurs	0	0	0	0	1	feature	0	0	1	10	0	0	[]	0	1	1	5640	0
+7.2	1	PG	1	Jonathan Aibel|Glenn Berger	2016	tt2267968	0	76412	Alessandro Carloni|Jennifer Yuh Nelson	Jack Black|Bryan Cranston|Dustin Hoffman|Angelina Jolie	Kung Fu Panda 3	0	0	0	0	1	feature	0	0	1	13	0	0	[]	0	0	1	5700	0
+8.6	0	R	0	Olivier Nakache|Eric Toledano	2011	tt1675434	1	523041	Olivier Nakache|Eric Toledano	François Cluzet|Omar Sy|Anne Le Ny|Audrey Fleurot	The Intouchables	0	0	0	0	1	feature	0	0	0	11	0	0	[]	1	0	0	6720	0
+8.1	0	PG-13	0	Tate Taylor|Kathryn Stockett	2011	tt1454029	0	326828	Tate Taylor	Emma Stone|Viola Davis|Octavia Spencer|Bryce Dallas Howard	The Help	0	0	0	0	0	feature	0	0	0	3	0	0	[]	1	0	0	8760	0
+8	0	Unrated	0	François Truffaut	1960	tt0053472	0	53398	Jean-Luc Godard	Jean-Paul Belmondo|Jean Seberg|Daniel Boulanger|Henri-Jacques Huet	Breathless	0	1	0	0	0	feature	0	0	0	3	0	0	[]	1	0	0	5400	0
+6.3	0	R	0	Rupert Goold|David Kajganich	2015	tt2273657	0	39204	Rupert Goold	James Franco|Jonah Hill|Felicity Jones|Maria Dizzia	True Story	0	1	0	0	0	feature	0	0	0	5	1	1	[]	1	0	0	5940	0
+6.5	0	PG-13	0	David Pastor|Àlex Pastor	2015	tt2140379	0	61715	Tarsem Singh	Ryan Reynolds|Natalie Martinez|Matthew Goode|Ben Kingsley	Self/less	1	0	0	0	0	feature	0	0	0	3	1	1	[]	0	0	1	7020	0
+6.8	0	PG-13	0	John Logan|Neal Purvis	2015	tt2379713	0	290191	Sam Mendes	Daniel Craig|Christoph Waltz|Léa Seydoux|Ralph Fiennes	Spectre	0	0	0	0	0	feature	0	0	1	33	1	0	[]	0	0	1	8880	0
+7.5	0	PG-13	0	Kelly Marcel|Sue Smith	2013	tt2140373	1	120445	John Lee Hancock	Emma Thompson|Tom Hanks|Annie Rose Buckley|Colin Farrell	Saving Mr. Banks	0	0	0	1	1	feature	0	0	0	7	0	0	[]	1	1	0	7500	0
+7.3	0	R	0	Rick Famuyiwa	2015	tt3850214	0	60689	Rick Famuyiwa	Shameik Moore|Tony Revolori|Kiersey Clemons|Kimberly Elise	Dope	0	1	0	0	1	feature	0	0	0	12	0	0	[]	1	0	0	6180	0
+6.5	1	G	0	Flip Kobler|Cindy Marcus	1998	tt0120131	0	43446	Darrell Rooney|Rob LaDuca	Matthew Broderick|Neve Campbell|Andy Dick|Robert Guillaume	The Lion King 2: Simba's Pride	0	0	1	0	0	video	0	0	1	4	0	0	[]	1	0	0	4860	0
+6.9	1	TV-PG	1	Ken Daurio|Dr. Seuss	2008	tt0451079	0	108121	Jimmy Hayward|Steve Martino	Jim Carrey|Steve Carell|Carol Burnett|Will Arnett	Horton Hears a Who!	0	0	0	0	1	feature	0	0	1	4	0	0	[]	0	0	0	5160	0
+7.4	0	PG-13	0	James L. Brooks|Matt Groening	2007	tt0462538	0	262926	David Silverman	Dan Castellaneta|Julie Kavner|Nancy Cartwright|Yeardley Smith	The Simpsons Movie	0	0	0	0	1	feature	0	0	1	5	0	0	[]	0	0	0	5220	0
+6.3	0	PG-13	1	Matt Sazama|Burk Sharpless	2014	tt0829150	0	142578	Gary Shore	Luke Evans|Dominic Cooper|Sarah Gadon|Art Parkinson	Dracula Untold	0	0	0	0	0	feature	1	1	0	3	0	0	[]	1	0	1	5520	0
+6.5	1	PG	0	Maya Forbes|Wallace Wolodarsky	2009	tt0892782	0	117215	Rob Letterman|Conrad Vernon	Reese Witherspoon|Rainn Wilson|Stephen Colbert|Seth Rogen	Monsters vs. Aliens	1	0	0	0	1	feature	0	0	1	5	0	0	[]	0	0	1	5640	0
+6.7	0	R	0	Todd Louiso|Jacob Koskoff	2015	tt2884018	0	37539	Justin Kurzel	Michael Fassbender|Marion Cotillard|Jack Madigan|Frank Madigan	Macbeth	0	0	0	0	0	feature	1	0	0	12	0	0	[]	1	0	0	6780	0
+7.1	1	TV-PG	0	Jason Segel|Nicholas Stoller	2011	tt1204342	0	76001	James Bobin	Amy Adams|Jason Segel|Chris Cooper|Rashida Jones	The Muppets	0	0	0	0	1	feature	0	0	1	3	0	0	[]	0	0	0	6180	0
+6.3	0	R	0	Nicolas Winding Refn|Nicolas Winding Refn	2016	tt1974419	0	32956	Nicolas Winding Refn	Elle Fanning|Christina Hendricks|Keanu Reeves|Karl Glusman	The Neon Demon	0	0	0	0	0	feature	0	1	0	3	1	0	[]	0	0	0	7080	0
+7.6	0	R	0	Mark Boal	2008	tt0887912	0	338690	Kathryn Bigelow	Jeremy Renner|Anthony Mackie|Brian Geraghty|Guy Pearce	The Hurt Locker	0	0	0	0	0	feature	1	0	0	5	1	0	[]	1	1	0	7860	0
+7.2	0	PG-13	1	J. Mills Goodloe|Salvador Paskowitz	2015	tt1655441	0	101188	Lee Toland Krieger	Blake Lively|Michiel Huisman|Harrison Ford|Kathy Baker	The Age of Adaline	0	0	1	0	0	feature	0	0	0	18	0	0	[]	1	0	0	6720	0
+8.5	0	Unrated	0	Akiyuki Nosaka|Isao Takahata	1988	tt0095327	0	144088	Isao Takahata	Tsutomu Tatsumi|Ayano Shiraishi|Akemi Yamaguchi|Yoshiko Shinohara	Grave of the Fireflies	0	0	0	0	0	feature	1	0	0	7	0	0	[]	1	0	0	5340	0
+7.9	1	PG	0	Melissa Mathison	1982	tt0083866	0	288485	Steven Spielberg	Henry Thomas|Drew Barrymore|Peter Coyote|Dee Wallace	E.T. the Extra-Terrestrial	1	0	0	0	0	feature	0	0	0	4	0	0	[]	0	0	0	7200	0
+7.1	0	R	0	Helen Fielding|Dan Mazer	2016	tt1473832	0	21793	Sharon Maguire	Renée Zellweger|Gemma Jones|Jim Broadbent|Sally Phillips	Bridget Jones's Baby	0	0	1	0	1	feature	0	0	0	4	0	0	[]	0	0	0	7380	0
+7	0	R	0	Bryan Sipe	2015	tt1172049	0	44498	Jean-Marc Vallée	Jake Gyllenhaal|Naomi Watts|Chris Cooper|Judah Lewis	Demolition	0	0	0	0	0	feature	0	0	0	7	0	0	[]	1	0	0	6060	0
+7.7	0	PG-13	0	William Broyles Jr.	2000	tt0162222	0	403780	Robert Zemeckis	Tom Hanks|Helen Hunt|Paul Sanchez|Lari White	Cast Away	0	0	1	0	0	feature	0	0	1	4	0	0	[]	1	0	0	8580	0
+6.1	1	PG	1	William Steig|Andrew Adamson	2007	tt0413267	0	216277	Chris Miller|Raman Hui	Mike Myers|Cameron Diaz|Eddie Murphy|Antonio Banderas	Shrek the Third	0	0	0	0	1	feature	0	0	1	11	0	0	[]	0	0	0	5580	0
+7.6	0	PG-13	0	Sergio G. Sánchez|María Belón	2012	tt1649419	0	148345	J.A. Bayona	Naomi Watts|Ewan McGregor|Tom Holland|Oaklee Pendergast	The Impossible	0	0	0	0	0	feature	0	0	0	8	1	0	[]	1	1	0	6840	0
+6.3	1	PG	1	Darren Lemke|Scott Alexander	2015	tt1051904	0	52783	Rob Letterman	Jack Black|Dylan Minnette|Odeya Rush|Ryan Lee	Goosebumps	0	0	0	0	1	feature	0	1	1	7	0	0	[]	0	0	0	6180	0
+7.3	0	R	0	Derek Cianfrance|Ben Coccio	2012	tt1817273	0	191314	Derek Cianfrance	Ryan Gosling|Bradley Cooper|Eva Mendes|Craig Van Hook	The Place Beyond the Pines	0	1	0	0	0	feature	0	0	0	4	1	0	[]	1	0	0	8400	0
+6.6	0	R	0	Steven Knight|Michael Kalesniko	2015	tt2503944	0	67914	John Wells	Bradley Cooper|Sienna Miller|Daniel Brühl|Riccardo Scamarcio	Burnt	0	0	0	0	1	feature	0	0	0	7	0	0	[]	1	0	0	6060	0
+7.7	0	R	0	Alex Garland	2015	tt0470752	0	308288	Alex Garland	Alicia Vikander|Domhnall Gleeson|Oscar Isaac|Sonoya Mizuno	Ex Machina	1	0	0	0	0	feature	0	0	0	55	1	1	[]	1	0	0	6480	0
+7.2	0	PG-13	0	Karen McCullah|Kirsten Smith	1999	tt0147800	0	228058	Gil Junger	Heath Ledger|Julia Stiles|Joseph Gordon-Levitt|Larisa Oleynik	10 Things I Hate About You	0	0	1	0	1	feature	0	0	0	3	0	0	[]	1	0	0	5820	0
+7.3	0	PG-13	0	Alexi Kaye Campbell|E. Randol Schoenberg	2015	tt2404425	1	35813	Simon Curtis	Helen Mirren|Ryan Reynolds|Daniel Brühl|Katie Holmes	Woman in Gold	0	0	0	0	0	feature	0	0	0	3	0	0	[]	1	1	0	6540	0
+7.2	0	PG-13	0	Drew Pearce|Shane Black	2013	tt1300854	0	569281	Shane Black	Robert Downey Jr.|Guy Pearce|Gwyneth Paltrow|Don Cheadle	Iron Man 3	1	0	0	0	0	feature	0	0	1	4	0	0	[]	0	0	1	7800	0
+6.2	0	R	0	Patrick Brice	2015	tt3844362	0	10987	Patrick Brice	Adam Scott|Taylor Schilling|Jason Schwartzman|Judith Godrèche	The Overnight	0	0	0	0	1	feature	0	0	0	4	0	1	[]	0	0	0	4740	0
+8	0	Not Rated	0	Ciro Guerra|Jacques Toulemonde Vidal	2015	tt4285496	0	9966	Ciro Guerra	Nilbio Torres|Jan Bijvoet|Antonio Bolivar|Brionne Davis	Embrace of the Serpent	0	0	0	0	0	feature	0	0	1	7	0	0	[]	1	0	0	7500	0
+7.4	0	PG-13	0	Oren Moverman|Michael A. Lerner	2014	tt0903657	1	25081	Bill Pohlad	John Cusack|Paul Dano|Elizabeth Banks|Paul Giamatti	Love & Mercy	0	0	0	1	0	feature	0	0	0	3	0	0	[]	1	0	0	7260	0
+7.6	1	PG	0	Jonathan Aibel|Glenn Berger	2008	tt0441773	0	314951	Mark Osborne|John Stevenson	Jack Black|Ian McShane|Angelina Jolie|Dustin Hoffman	Kung Fu Panda	0	0	0	0	1	feature	0	0	1	21	0	0	[]	0	0	1	5520	0
+7.6	0	PG-13	0	Michael Robert Johnson|Anthony Peckham	2009	tt0988045	0	485991	Guy Ritchie	Robert Downey Jr.|Jude Law|Rachel McAdams|Mark Strong	Sherlock Holmes	0	1	0	0	0	feature	0	0	1	5	1	1	[]	0	0	1	7680	0
+6.8	1	PG-13	0	Etan Cohen|Lowell Cunningham	2012	tt1409024	0	271660	Barry Sonnenfeld	Will Smith|Tommy Lee Jones|Josh Brolin|Jemaine Clement	Men in Black 3	1	0	0	0	1	feature	0	0	1	3	0	0	[]	0	0	1	6360	0
+7.8	1	G	1	Joe Grant|Dick Huemer	1940	tt0032455	0	72566		Leopold Stokowski|Deems Taylor|Corey Burton|Walt Disney	Fantasia	0	0	0	1	1	feature	0	0	0	3	0	0	[]	0	0	0	7440	0
+8	0	TV-MA	0	Neill Blomkamp|Terri Tatchell	2009	tt1136608	0	541094	Neill Blomkamp	Sharlto Copley|David James|Jason Cope|Nathalie Boltt	District 9	1	0	0	0	0	feature	0	0	0	3	1	0	[]	0	0	1	6720	0
+8.1	0	PG-13	1	Ted Elliott|Terry Rossio	2003	tt0325980	0	827948	Gore Verbinski	Johnny Depp|Geoffrey Rush|Orlando Bloom|Keira Knightley	Pirates of the Caribbean: The Curse of the Black Pearl	0	0	0	0	0	feature	0	0	1	7	0	0	[]	0	0	1	8580	0
+7.3	1	G	1	Charles Perrault|Bill Peet	1950	tt0042332	0	107936	Clyde Geronimi|Wilfred Jackson	Ilene Woods|James MacDonald|Eleanor Audley|Verna Felton	Cinderella	0	0	1	0	0	feature	0	0	0	5	0	0	[]	0	0	0	4440	0
+6.4	1	PG	1	Mitchell Kapner|David Lindsay-Abaire	2013	tt1623205	0	177792	Sam Raimi	James Franco|Michelle Williams|Rachel Weisz|Mila Kunis	Oz the Great and Powerful	0	0	0	0	0	feature	0	0	1	3	0	0	[]	0	0	0	7800	0
+7.2	0	16	1	Thomas Gunzig|Jaco Van Dormael	2015	tt3792960	0	15317	Jaco Van Dormael	Pili Groyne|Benoît Poelvoorde|Catherine Deneuve|François Damiens	The Brand New Testament	0	0	0	0	1	feature	0	0	0	4	0	0	[]	0	0	0	6720	0
+7.1	0	PG-13	0	Nicholas Sparks|Craig Bolotin	2015	tt2726560	0	53578	George Tillman Jr.	Scott Eastwood|Britt Robertson|Alan Alda|Jack Huston	The Longest Ride	0	0	1	0	0	feature	0	0	0	6	0	0	[]	1	0	0	7680	0
+7.5	0	R	0	John McNamara|Bruce Cook	2015	tt3203606	1	49820	Jay Roach	Bryan Cranston|Diane Lane|Helen Mirren|Louis C.K.	Trumbo	0	0	0	0	0	feature	0	0	0	14	0	0	[]	1	0	0	7440	0
+4.4	0	PG	0	Kevin James|Nick Bakay	2015	tt3450650	0	24396	Andy Fickman	Kevin James|Raini Rodriguez|Eduardo Verástegui|Daniella Alonso	Paul Blart: Mall Cop 2	0	1	0	0	1	feature	0	0	0	3	0	0	[]	0	0	1	5640	0
+4.1	0	R	0	Kelly Marcel|E.L. James	2015	tt2322441	0	225703	Sam Taylor-Johnson	Dakota Johnson|Jamie Dornan|Jennifer Ehle|Eloise Mumford	Fifty Shades of Grey	0	0	1	0	0	feature	0	0	0	14	1	0	[]	1	0	0	7500	0
+7.5	0	PG-13	0	Jojo Moyes|Jojo Moyes	2016	tt2674426	0	87322	Thea Sharrock	Emilia Clarke|Sam Claflin|Janet McTeer|Charles Dance	Me Before You	0	0	1	0	0	feature	0	0	0	13	0	0	[]	1	0	0	6600	0
+5.5	0	PG-13	1	Matt Sazama|Burk Sharpless	2016	tt2404233	0	62165	Alex Proyas	Brenton Thwaites|Nikolaj Coster-Waldau|Gerard Butler|Chadwick Boseman	Gods of Egypt	0	0	0	0	0	feature	0	0	1	3	0	0	[]	0	0	1	7560	0
+7.1	0	PG-13	1	Christopher Yost|Christopher Markus	2013	tt1981115	0	424851	Alan Taylor	Chris Hemsworth|Natalie Portman|Tom Hiddleston|Stellan Skarsgård	Thor: The Dark World	1	0	0	0	0	feature	0	0	1	6	0	0	[]	0	0	1	6720	0
+8.5	0	PG-13	0	Jonathan Nolan|Christopher Nolan	2006	tt0482571	0	868459	Christopher Nolan	Christian Bale|Hugh Jackman|Scarlett Johansson|Michael Caine	The Prestige	1	0	0	0	0	feature	0	0	0	11	1	1	[]	1	0	0	7800	0
+6.4	1	PG	1	William Steig|Josh Klausner	2010	tt0892791	0	141583	Mike Mitchell	Mike Myers|Cameron Diaz|Eddie Murphy|Antonio Banderas	Shrek Forever After	0	0	0	0	1	feature	0	0	1	8	0	0	[]	0	0	0	5580	0
+6.5	1	TV-PG	1	Erica Rivinoja|John Francis Daley	2013	tt1985966	0	66214	Cody Cameron|Kris Pearn	Bill Hader|Anna Faris|Will Forte|Neil Patrick Harris	Cloudy with a Chance of Meatballs 2	1	0	0	0	1	feature	0	0	1	3	0	0	[]	0	0	0	5700	0
+7.1	0	R	0	Tobias Lindholm	2015	tt3830162	0	5081	Tobias Lindholm	Pilou Asbæk|Tuva Novotny|Alex Høgh Andersen|Dar Salim	A War	0	1	0	0	0	feature	1	0	0	5	0	0	[]	1	0	0	6900	0
+8.3	0	PG-13	0	Bob Kane|David S. Goyer	2005	tt0372784	0	1005802	Christopher Nolan	Christian Bale|Michael Caine|Ken Watanabe|Liam Neeson	Batman Begins	0	0	0	0	0	feature	0	0	1	5	0	0	[]	0	0	1	8400	0
+7.1	1	G	1	Susan Gauthier|Bruce Graham	1997	tt0118617	0	88264	Don Bluth|Gary Goldman	Meg Ryan|John Cusack|Christopher Lloyd|Kelsey Grammer	Anastasia	0	0	1	0	0	feature	0	0	1	6	0	1	[]	1	0	0	5640	0
+8.3	0	R	0	Matt Damon|Ben Affleck	1997	tt0119217	0	622642	Gus Van Sant	Robin Williams|Matt Damon|Ben Affleck|Stellan Skarsgård	Good Will Hunting	0	0	0	0	0	feature	0	0	0	10	0	0	[]	1	0	0	7560	0
+8	1	G	1	Brad Bird|Jan Pinkava	2007	tt0382932	0	484881	Brad Bird|Jan Pinkava	Brad Garrett|Lou Romano|Patton Oswalt|Ian Holm	Ratatouille	0	0	0	0	1	feature	0	0	0	37	0	0	[]	0	0	0	6660	0
+7.1	0	R	0	David Constantine|Andrew Haigh	2015	tt3544082	0	20406	Andrew Haigh	Charlotte Rampling|Tom Courtenay|Geraldine James|Dolly Wells	45 Years	0	0	1	0	0	feature	0	0	0	11	0	0	[]	1	0	0	5700	0
+8	0	PG-13	0	Cliff Hollingsworth|Akiva Goldsman	2005	tt0352248	1	150607	Ron Howard	Russell Crowe|Renée Zellweger|Craig Bierko|Paul Giamatti	Cinderella Man	0	0	0	0	0	feature	0	0	0	4	0	0	[]	1	0	0	8640	0
+6.5	1	PG	0	Damon Lindelof|Brad Bird	2015	tt1964418	0	133929	Brad Bird	George Clooney|Britt Robertson|Hugh Laurie|Raffey Cassidy	Tomorrowland	1	0	0	0	0	feature	0	0	1	16	0	1	[]	0	0	1	7800	0
+6.7	0	PG-13	0	Evan Daugherty|Vanessa Taylor	2014	tt1840309	0	348908	Neil Burger	Shailene Woodley|Theo James|Kate Winslet|Jai Courtney	Divergent	1	0	0	0	0	feature	0	0	1	3	0	1	[]	0	0	0	8340	0
+6.9	1	TV-PG	0	Mark Burton|Billy Frolick	2005	tt0351283	0	273626	Eric Darnell|Tom McGrath	Chris Rock|Ben Stiller|David Schwimmer|Jada Pinkett Smith	Madagascar	0	0	0	0	1	feature	0	0	1	17	0	0	[]	0	0	0	5160	0
+7.3	1	PG	1	David Lindsay-Abaire|William Joyce	2012	tt1446192	0	126327	Peter Ramsey	Hugh Jackman|Alec Baldwin|Isla Fisher|Chris Pine	Rise of the Guardians	0	0	0	0	0	feature	0	0	1	9	0	0	[]	0	0	0	5820	0
+8.4	0	TV-14	1	Hayao Miyazaki	1997	tt0119698	0	229011	Hayao Miyazaki	Yôji Matsuda|Yuriko Ishida|Yûko Tanaka|Billy Crudup	Princess Mononoke	0	0	0	0	0	feature	0	0	1	7	0	0	[]	0	0	0	8040	0
+7.1	0	PG-13	0	Nancy Meyers	2015	tt2361509	0	144802	Nancy Meyers	Robert De Niro|Anne Hathaway|Rene Russo|Anders Holm	The Intern	0	0	0	0	1	feature	0	0	0	24	0	0	[]	1	0	0	7260	0
+7.5	1	TV-PG	1	J.K. Rowling|Steve Kloves	2001	tt0241527	0	459124	Chris Columbus	Daniel Radcliffe|Rupert Grint|Richard Harris|Maggie Smith	Harry Potter and the Sorcerer's Stone	0	0	0	0	0	feature	0	0	1	5	0	0	[]	0	0	0	9120	0
+6.4	0	PG-13	0	Scott Neustadter|Michael H. Weber	2015	tt3622592	0	67485	Jake Schreier	Nat Wolff|Cara Delevingne|Austin Abrams|Justice Smith	Paper Towns	0	0	1	0	0	feature	0	0	0	9	0	1	[]	1	0	0	6540	0
+7	1	PG	1	John Orloff|Emil Stern	2010	tt1219342	0	66738	Zack Snyder	Jim Sturgess|Hugo Weaving|David Wenham|Emily Barclay	Legend of the Guardians: The Owls of Ga'Hoole	0	0	0	0	0	feature	0	0	1	4	0	0	[]	0	0	1	5820	0
+8.3	0	E	1	Jeffrey Boam|George Lucas	1989	tt0097576	0	528053	Steven Spielberg	Harrison Ford|Sean Connery|Alison Doody|Denholm Elliott	Indiana Jones and the Last Crusade	0	0	0	0	0	feature	0	0	1	4	0	0	[]	0	0	1	7620	0
+6.5	1	PG	1	Linda Woolverton|Lewis Carroll	2010	tt1014759	0	313853	Tim Burton	Mia Wasikowska|Johnny Depp|Helena Bonham Carter|Anne Hathaway	Alice in Wonderland	0	0	0	0	0	feature	0	0	1	7	0	0	[]	0	0	0	6480	0
+8.2	0	PG-13	0	Gavin O'Connor|Anthony Tambakis	2011	tt1291584	0	340704	Gavin O'Connor	Tom Hardy|Nick Nolte|Joel Edgerton|Jennifer Morrison	Warrior	0	0	0	0	0	feature	0	0	0	3	0	0	[]	1	0	0	8400	0
+7.3	0	PG-13	0	Josh Campbell|Matthew Stuecken	2016	tt1179933	0	153408	Dan Trachtenberg	John Goodman|Mary Elizabeth Winstead|John Gallagher Jr.|Douglas M. Griffin	10 Cloverfield Lane	1	0	0	0	0	feature	0	1	0	12	1	1	[]	1	0	0	6240	0
+7.7	0	Not Rated	0	Carl Lund	2011	tt1683526	0	58552	Tony Kaye	Adrien Brody|Christina Hendricks|Marcia Gay Harden|Lucy Liu	Detachment	0	0	0	0	0	feature	0	0	0	5	0	0	[]	1	0	0	5880	0
+6.4	1	PG	0	Brian Lynch	2015	tt2293640	0	149443	Kyle Balda|Pierre Coffin	Sandra Bullock|Jon Hamm|Michael Keaton|Pierre Coffin	Minions	0	0	0	0	1	feature	0	0	1	28	0	0	[]	0	0	1	5460	0
+7.1	0	R	0	Paul Feig	2015	tt3079380	0	177670	Paul Feig	Melissa McCarthy|Rose Byrne|Jude Law|Jason Statham	Spy	0	1	0	0	1	feature	0	0	0	21	0	0	[]	0	0	1	7140	0
+6.5	0	R	0	Fyodor Dostoevsky|Richard Ayoade	2013	tt1825157	0	36341	Richard Ayoade	Jesse Eisenberg|Mia Wasikowska|Wallace Shawn|Noah Taylor	The Double	0	0	0	0	1	feature	0	0	0	3	1	0	[]	1	0	0	5580	0
+8.1	0	TV-MA	1	Katsuhiro Ôtomo|Izô Hashimoto	1988	tt0094625	0	109010	Katsuhiro Ôtomo	Nozomu Sasaki|Mami Koyama|Mitsuo Iwata|Tesshô Genda	Akira	1	0	0	0	0	feature	0	0	0	6	1	0	[]	1	0	1	7440	0
+8.2	0	R	1	Guillermo del Toro	2006	tt0457430	0	479049	Guillermo del Toro	Ivana Baquero|Ariadna Gil|Sergi López|Maribel Verdú	Pan's Labyrinth	0	0	0	0	0	feature	1	0	0	5	0	0	[]	1	0	0	7080	0
+8.8	0	PG-13	0	Winston Groom|Eric Roth	1994	tt0109830	0	1288740	Robert Zemeckis	Tom Hanks|Robin Wright|Gary Sinise|Sally Field	Forrest Gump	0	0	0	0	1	feature	0	0	0	15	0	0	[]	1	0	0	8520	0
+6.8	0	PG	0	Edward Kitsis|Adam Horowitz	2010	tt1104001	0	267711	Joseph Kosinski	Jeff Bridges|Garrett Hedlund|Olivia Wilde|Bruce Boxleitner	TRON: Legacy	1	0	0	0	0	feature	0	0	1	5	0	0	[]	0	0	1	7500	0
+7.9	0	PG-13	1	Fran Walsh|Philippa Boyens	2013	tt1170358	0	494536	Peter Jackson	Ian McKellen|Martin Freeman|Richard Armitage|Ken Stott	The Hobbit: The Desolation of Smaug	0	0	0	0	0	feature	0	0	1	7	0	0	[]	0	0	0	9660	0
+7	0	Unrated	1	Ana Lily Amirpour	2014	tt2326554	0	18844	Ana Lily Amirpour	Sheila Vand|Arash Marandi|Marshall Manesh|Mozhan Marnò	A Girl Walks Home Alone at Night	0	0	0	0	0	feature	0	1	0	3	0	0	[]	1	0	0	6060	0
+7.9	0	R	0	Dan Gilroy	2014	tt2872718	0	307232	Dan Gilroy	Jake Gyllenhaal|Rene Russo|Bill Paxton|Riz Ahmed	Nightcrawler	0	1	0	0	0	feature	0	0	0	10	1	0	[]	1	0	0	7020	0
+5.6	0	PG-13	0	Tim Herlihy|Timothy Dowling	2015	tt2120120	0	94327	Chris Columbus	Adam Sandler|Kevin James|Michelle Monaghan|Peter Dinklage	Pixels	1	0	0	0	1	feature	0	0	0	11	0	0	[]	0	0	1	6360	0
+7	1	PG	1	Philip LaZebnik|Nicholas Meyer	1998	tt0120794	1	92872	Brenda Chapman|Steve Hickner	Val Kilmer|Ralph Fiennes|Michelle Pfeiffer|Sandra Bullock	The Prince of Egypt	0	0	0	0	0	feature	0	0	1	3	0	0	[]	1	0	0	5940	0
+6.1	0	PG-13	0	Leigh Whannell|Leigh Whannell	2015	tt3195644	0	58170	Leigh Whannell	Dermot Mulroney|Stefanie Scott|Angus Sampson|Leigh Whannell	Insidious: Chapter 3	0	0	0	0	0	feature	0	1	0	5	1	0	[]	0	0	0	5820	0
+6.1	0	Not Rated	0	Aaron Hann|Mario Miscione	2015	tt3118452	0	15236	Aaron Hann|Mario Miscione	Michael Nardelli|Allegra Masters|Molly Jackson|Jordi Vilasuso	Circle	1	0	0	0	0	feature	0	1	0	3	1	1	[]	1	0	0	5220	0
+7.3	0	PG-13	0	Ed Solomon|Boaz Yakin	2013	tt1670345	0	469915	Louis Leterrier	Jesse Eisenberg|Common|Mark Ruffalo|Woody Harrelson	Now You See Me	0	1	0	0	0	feature	0	0	0	7	1	1	[]	0	0	0	6900	0
+7.8	0	R	0	Charles Randolph|Adam McKay	2015	tt1596363	1	211536	Adam McKay	Christian Bale|Steve Carell|Ryan Gosling|Brad Pitt	The Big Short	0	0	0	0	1	feature	0	0	0	44	0	0	[]	1	1	0	7800	0
+7.9	0	PG-13	1	Jon Spaihts|Scott Derrickson	2016	tt1211837	0	136303	Scott Derrickson	Benedict Cumberbatch|Chiwetel Ejiofor|Rachel McAdams|Benedict Wong	Doctor Strange	1	0	0	0	0	feature	0	0	1	15	0	0	[]	0	0	1	6900	0
+6.7	1	PG	1	Jonathan Aibel|Glenn Berger	2016	tt1679335	0	7140	Walt Dohrn|Mike Mitchell	Anna Kendrick|Justin Timberlake|Zooey Deschanel|Christopher Mintz-Plasse	Trolls	0	0	0	0	1	feature	0	0	1	3	0	0	[]	0	0	0	5520	0
+7.7	0	R	0	James Vanderbilt|Robert Graysmith	2007	tt0443706	0	311964	David Fincher	Jake Gyllenhaal|Robert Downey Jr.|Mark Ruffalo|Anthony Edwards	Zodiac	0	1	0	0	0	feature	0	0	0	3	1	1	[]	1	1	0	9420	0
+7.3	1	G	1	Dan Scanlon|Daniel Gerson	2013	tt1453405	0	241479	Dan Scanlon	Billy Crystal|John Goodman|Steve Buscemi|Helen Mirren	Monsters University	0	0	0	0	1	feature	0	1	1	25	0	0	[]	0	0	0	6240	0
+6.7	0	PG-13	0	Peter Craig|Danny Strong	2014	tt1951265	0	315107	Francis Lawrence	Jennifer Lawrence|Josh Hutcherson|Liam Hemsworth|Woody Harrelson	The Hunger Games: Mockingjay - Part 1	1	0	0	0	0	feature	0	0	1	7	1	0	[]	0	0	0	7380	0
+7.6	0	PG-13	0	Simon Beaufoy|Michael Arndt	2013	tt1951264	0	508190	Francis Lawrence	Jennifer Lawrence|Josh Hutcherson|Liam Hemsworth|Philip Seymour Hoffman	The Hunger Games: Catching Fire	1	0	0	0	0	feature	0	0	1	7	1	1	[]	0	0	1	8760	0
+6.6	0	PG-13	0	Peter Craig|Danny Strong	2015	tt1951266	0	181804	Francis Lawrence	Jennifer Lawrence|Josh Hutcherson|Liam Hemsworth|Woody Harrelson	The Hunger Games: Mockingjay - Part 2	1	0	0	0	0	feature	0	0	1	31	1	0	[]	0	0	1	8220	0
+6.3	0	PG-13	0	Brian Duffield|Akiva Goldsman	2015	tt2908446	0	161651	Robert Schwentke	Shailene Woodley|Ansel Elgort|Theo James|Kate Winslet	Insurgent	1	0	0	0	0	feature	0	0	1	15	1	0	[]	0	0	0	7140	0
+8.1	0	PG	0	Sylvester Stallone	1976	tt0075148	0	385892	John G. Avildsen	Sylvester Stallone|Talia Shire|Burt Young|Carl Weathers	Rocky	0	0	0	0	0	feature	0	0	0	3	0	0	[]	1	0	0	7200	0
+6.6	1	PG	1	Michael Berg|Jason Fuchs	2012	tt1667889	0	148950	Steve Martino|Mike Thurmeier	Ray Romano|Denis Leary|John Leguizamo|Aziz Ansari	Ice Age: Continental Drift	0	0	0	0	1	feature	0	0	1	8	0	0	[]	0	1	0	5280	0
+6.8	1	PG	1	Bob Peterson|Peter Sohn	2015	tt1979388	0	69893	Peter Sohn	Jeffrey Wright|Frances McDormand|Maleah Nipay-Padilla|Ryan Teeple	The Good Dinosaur	0	0	0	0	1	feature	0	0	1	33	0	0	[]	1	1	0	5580	0
+6.5	0	PG-13	0	Ed Solomon|Ed Solomon	2016	tt3110958	0	119142	Jon M. Chu	Jesse Eisenberg|Mark Ruffalo|Woody Harrelson|Dave Franco	Now You See Me 2	0	1	0	0	1	feature	0	0	1	10	1	1	[]	0	0	1	7740	0
+7.1	0	PG-13	0	Thomas Hardy|David Nicholls	2015	tt2935476	0	31707	Thomas Vinterberg	Carey Mulligan|Matthias Schoenaerts|Michael Sheen|Tom Sturridge	Far from the Madding Crowd	0	0	1	0	0	feature	0	0	0	4	0	0	[]	1	0	0	7140	0
+7.5	1	PG-13	1	Michael Goldenberg|J.K. Rowling	2007	tt0373889	0	365817	David Yates	Daniel Radcliffe|Emma Watson|Rupert Grint|Brendan Gleeson	Harry Potter and the Order of the Phoenix	0	0	0	0	0	feature	0	0	1	5	0	1	[]	0	0	0	8280	0
+8.3	0	R	0	Quentin Tarantino	2009	tt0361748	0	911090	Quentin Tarantino	Brad Pitt|Diane Kruger|Eli Roth|Mélanie Laurent	Inglourious Basterds	0	0	0	0	0	feature	1	0	1	7	0	0	[]	1	0	0	9180	0
+6.6	0	R	0	Glenn Ficarra|John Requa	2015	tt2381941	0	156332	Glenn Ficarra|John Requa	Will Smith|Margot Robbie|Rodrigo Santoro|Adrian Martinez	Focus	0	1	1	0	1	feature	0	0	0	17	0	0	[]	1	0	0	6300	0
+5.8	1	PG	1	Jason Fuchs|J.M. Barrie	2015	tt3332064	0	44006	Joe Wright	Levi Miller|Hugh Jackman|Garrett Hedlund|Rooney Mara	Pan	0	0	0	0	0	feature	0	0	1	9	0	0	[]	0	0	0	6660	0
+9	0	TV-14	1	Matt Duffer|Matt Duffer	2016	tt4574334	0	218026	Matt Duffer|Ross Duffer	Rob Morgan|Dacre Montgomery|Winona Ryder|David Harbour	Stranger Things	1	0	0	0	0	tv_series	0	1	0	4	1	1	[<Person: u'Matt Duffer' (u'nm1819972')>, <Person: u'Ross Duffer' (u'nm1819973')>]	1	0	0	3300	0
+8.4	0	R	0	Guillaume Laurant|Jean-Pierre Jeunet	2001	tt0211915	0	547691	Jean-Pierre Jeunet	Audrey Tautou|Mathieu Kassovitz|Rufus|Lorella Cravotta	Amélie	0	0	1	0	1	feature	0	0	0	4	0	0	[]	0	0	0	7320	0
+5.5	0	R	0	Eric Aronson|Kyril Bonfiglioli	2015	tt3045616	0	49166	David Koepp	Johnny Depp|Gwyneth Paltrow|Ewan McGregor|Olivia Munn	Mortdecai	0	1	1	0	1	feature	0	0	0	6	0	1	[]	0	0	1	6420	0
+7.4	0	R	0	Paolo Sorrentino	2015	tt3312830	0	46500	Paolo Sorrentino	Michael Caine|Harvey Keitel|Rachel Weisz|Jane Fonda	Youth	0	0	1	1	1	feature	0	0	0	12	0	0	[]	1	0	0	7440	0
+7	0	PG-13	0	Rosalind Wiseman|Tina Fey	2004	tt0377092	0	252132	Mark Waters	Lindsay Lohan|Jonathan Bennett|Rachel McAdams|Tina Fey	Mean Girls	0	0	0	0	1	feature	0	0	0	3	0	0	[]	0	0	0	5820	0
+6.1	1	PG	1	Mary Rodgers|Heather Hach	2003	tt0322330	0	98980	Mark Waters	Jamie Lee Curtis|Lindsay Lohan|Mark Harmon|Harold Gould	Freaky Friday	0	0	1	1	1	feature	0	0	0	3	0	0	[]	0	0	0	5820	0
+7.1	0	R	0	Joel Edgerton	2015	tt4178092	0	87888	Joel Edgerton	Jason Bateman|Rebecca Hall|Joel Edgerton|Allison Tolman	The Gift	0	0	0	0	0	feature	0	0	0	21	1	1	[]	0	0	0	6480	0
+8.1	0	R	0	George Miller|Brendan McCarthy	2015	tt1392190	0	583740	George Miller	Tom Hardy|Charlize Theron|Nicholas Hoult|Zoë Kravitz	Mad Max: Fury Road	1	0	0	0	0	feature	0	0	1	67	1	0	[]	0	0	1	7200	0
+8.2	1	PG	1	Pete Docter|Ronnie Del Carmen	2015	tt2096673	0	372928	Pete Docter|Ronnie Del Carmen	Amy Poehler|Bill Hader|Lewis Black|Mindy Kaling	Inside Out	0	0	0	0	1	feature	0	0	1	250	0	0	[]	1	0	0	5700	0
+7.6	0	16	0	Sang-ho Yeon	2016	tt5700672	0	25217	Sang-ho Yeon	Yoo Gong|Soo-an Kim|Yu-mi Jeong|Dong-seok Ma	Train to Busan	0	0	0	0	0	feature	0	1	0	4	1	0	[]	1	0	1	7080	0
+7.4	0	PG	0	Christopher Cleveland|Bettina Gilois	2015	tt2097298	1	24910	Niki Caro	Kevin Costner|Maria Bello|Ramiro Rodriguez|Carlos Pratts	McFarland, USA	0	0	0	0	0	feature	0	0	0	7	0	0	[]	1	0	0	7740	0
+7.7	0	PG-13	0	Scott Neustadter|Michael H. Weber	2009	tt1022603	0	384522	Marc Webb	Zooey Deschanel|Joseph Gordon-Levitt|Geoffrey Arend|Chloë Grace Moretz	(500) Days of Summer	0	0	1	0	1	feature	0	0	0	8	0	0	[]	1	0	0	5700	0
+7.3	0	PG-13	0	Gary Ross|Suzanne Collins	2012	tt1392170	0	713397	Gary Ross	Jennifer Lawrence|Josh Hutcherson|Liam Hemsworth|Stanley Tucci	The Hunger Games	1	0	0	0	0	feature	0	0	1	6	1	0	[]	0	0	1	8520	0
+6.7	0	PG-13	0	Alex Kurtzman|Roberto Orci	2014	tt1872181	0	328435	Marc Webb	Andrew Garfield|Emma Stone|Jamie Foxx|Paul Giamatti	The Amazing Spider-Man 2	1	0	0	0	0	feature	0	0	1	3	0	0	[]	0	0	1	8520	0
+8.4	0	PG-13	0	Eric Heisserer|Ted Chiang	2016	tt2543164	0	56902	Denis Villeneuve	Amy Adams|Jeremy Renner|Forest Whitaker|Michael Stuhlbarg	Arrival	1	0	0	0	0	feature	0	0	0	7	1	1	[]	1	0	0	6960	0
+7.1	0	R	0	Felix Herngren|Hans Ingemansson	2013	tt2113681	0	26817	Felix Herngren	Robert Gustafsson|Iwar Wiklander|David Wiberg|Mia Skäringer	The 100 Year-Old Man Who Climbed Out the Window and Disappeared	0	0	0	0	1	feature	0	0	1	4	0	0	[]	0	0	0	6840	0
+7.9	0	R	0	Troy Duffy	1999	tt0144117	0	200193	Troy Duffy	Willem Dafoe|Sean Patrick Flanery|Norman Reedus|David Della Rocco	The Boondock Saints	0	1	0	0	0	feature	0	0	0	3	1	0	[]	0	0	1	6480	0
+6.9	0	R	0	Neill Blomkamp|Terri Tatchell	2015	tt1823672	0	178506	Neill Blomkamp	Sharlto Copley|Dev Patel|Hugh Jackman|Sigourney Weaver	Chappie	1	1	0	0	0	feature	0	0	0	16	1	0	[]	1	0	1	7200	0
+7.8	0	PG-13	0	Jesse Andrews|Jesse Andrews	2015	tt2582496	0	83511	Alfonso Gomez-Rejon	Thomas Mann|RJ Cyler|Olivia Cooke|Nick Offerman	Me and Earl and the Dying Girl	0	0	0	0	1	feature	0	0	0	29	0	0	[]	1	0	0	6300	0
+8.6	0	TV-MA	0	Robert Rodat	1998	tt0120815	0	905586	Steven Spielberg	Tom Hanks|Matt Damon|Tom Sizemore|Edward Burns	Saving Private Ryan	0	0	0	0	0	feature	1	0	0	6	0	0	[]	1	0	1	10140	0
+7	0	R	0	David Leslie Johnson|Alex Mace	2009	tt1148204	0	146495	Jaume Collet-Serra	Vera Farmiga|Peter Sarsgaard|Isabelle Fuhrman|CCH Pounder	Orphan	0	0	0	0	0	feature	0	1	0	5	1	1	[]	0	0	0	7380	0
+6.7	0	R	0	Jeremy Garelick|Jay Lavender	2015	tt0884732	0	55484	Jeremy Garelick	Kevin Hart|Josh Gad|Kaley Cuoco|Affion Crockett	The Wedding Ringer	0	0	0	0	1	feature	0	0	0	5	0	0	[]	0	0	0	6060	0
+6.2	1	PG	0	Jerry Seinfeld|Spike Feresten	2007	tt0389790	0	108200	Steve Hickner|Simon J. Smith	Jerry Seinfeld|Renée Zellweger|Matthew Broderick|Patrick Warburton	Bee Movie	0	0	0	0	1	feature	0	0	1	6	0	0	[]	0	0	0	5460	0
+8.5	0	R	0	Ronald Harwood|Wladyslaw Szpilman	2002	tt0253474	1	514117	Roman Polanski	Adrien Brody|Thomas Kretschmann|Frank Finlay|Emilia Fox	The Pianist	0	0	0	0	0	feature	1	0	0	4	0	0	[]	1	1	0	9000	0
+7.1	0	R	0	P.J. Hogan|Jocelyn Moorhouse	2015	tt2910904	0	26336	Jocelyn Moorhouse	Kate Winslet|Judy Davis|Liam Hemsworth|Hugo Weaving	The Dressmaker	0	0	0	0	0	feature	0	0	0	3	0	0	[]	1	0	0	7140	0
+8.9	0	R	0	Quentin Tarantino|Roger Avary	1994	tt0110912	0	1357154	Quentin Tarantino	John Travolta|Uma Thurman|Samuel L. Jackson|Bruce Willis	Pulp Fiction	0	1	0	0	0	feature	0	0	0	9	0	0	[]	1	0	0	9240	0
+7.3	1	Approved	1	Erdman Penner|Charles Perrault	1959	tt0053285	0	102526	Clyde Geronimi	Mary Costa|Bill Shirley|Eleanor Audley|Verna Felton	Sleeping Beauty	0	0	1	0	0	feature	0	0	0	4	0	0	[]	0	0	0	4500	0
+7.6	1	TV-14	0	Mamoru Hosoda|Satoko Okudera	2009	tt1474276	0	17499	Mamoru Hosoda	Ryûnosuke Kamiki|Nanami Sakuraba|Mitsuki Tanimura|Takahiro Yokokawa	Summer Wars	1	0	1	0	1	feature	0	0	0	3	0	0	[]	0	0	1	6840	0
+6.3	0	R	0	Walter Campbell|Jonathan Glazer	2013	tt1441395	0	88802	Jonathan Glazer	Scarlett Johansson|Jeremy McWilliams|Lynsey Taylor Mackay|Dougie McConnell	Under the Skin	1	0	0	0	0	feature	0	1	0	3	1	0	[]	1	0	0	6480	0
+7.8	1	PG	1	Irena Brignull|Bob Persichetti	2015	tt1754656	0	34228	Mark Osborne	Jeff Bridges|Mackenzie Foy|Rachel McAdams|Marion Cotillard	The Little Prince	0	0	0	0	0	feature	0	0	1	21	0	0	[]	1	0	0	6480	0
+8.6	0	R	0	Christopher McQuarrie	1995	tt0114814	0	759524	Bryan Singer	Kevin Spacey|Gabriel Byrne|Chazz Palminteri|Stephen Baldwin	The Usual Suspects	0	1	0	0	0	feature	0	0	0	7	1	1	[]	1	0	0	6360	0
+8.1	0	PG	1	Danny Rubin|Harold Ramis	1993	tt0107048	0	448620	Harold Ramis	Bill Murray|Andie MacDowell|Chris Elliott|Stephen Tobolowsky	Groundhog Day	0	0	1	0	1	feature	0	0	0	4	0	0	[]	0	0	0	6060	0
+7.9	0	TV-14	1	Tim Burton|Caroline Thompson	1990	tt0099487	0	365087	Tim Burton	Johnny Depp|Winona Ryder|Dianne Wiest|Anthony Michael Hall	Edward Scissorhands	0	0	1	0	0	feature	0	0	0	4	0	0	[]	1	0	0	6300	0
+7.9	0	PG-13	0	Christopher McQuarrie|Jez Butterworth	2014	tt1631867	0	446626	Doug Liman	Tom Cruise|Emily Blunt|Bill Paxton|Brendan Gleeson	Edge of Tomorrow	1	0	0	0	0	feature	0	0	1	7	0	0	[]	0	0	1	6780	0
+7.1	1	PG	1	Peter Baynham|Sarah Smith	2011	tt1430607	0	36048	Sarah Smith|Barry Cook	James McAvoy|Jim Broadbent|Bill Nighy|Hugh Laurie	Arthur Christmas	0	0	0	0	1	feature	0	0	1	3	0	0	[]	0	0	0	5820	0
+8.5	0	TV-14	0	Dan O'Bannon|Ronald Shusett	1979	tt0078748	0	578875	Ridley Scott	Sigourney Weaver|Tom Skerritt|John Hurt|Veronica Cartwright	Alien	1	0	0	0	0	feature	0	1	0	5	0	0	[]	0	0	0	7020	0
+7.3	0	PG-13	0	Guy Ritchie|Lionel Wigram	2015	tt1638355	0	188615	Guy Ritchie	Henry Cavill|Armie Hammer|Alicia Vikander|Elizabeth Debicki	The Man from U.N.C.L.E.	0	0	0	0	1	feature	0	0	1	20	0	0	[]	0	0	1	6960	0
+7.1	0	Not Rated	0	David Wnendt|Mizzi Meyer	2015	tt4176826	0	18053	David Wnendt	Oliver Masucci|Thomas M. Köppl|Marc-Marvin Israel|David Gebigke	Look Who's Back	0	0	0	0	1	feature	0	0	0	7	0	0	[]	0	0	0	6960	0
+8	1	G	1	Ron Clements|John Musker	1992	tt0103639	0	267232	Ron Clements|John Musker	Scott Weinger|Robin Williams|Linda Larkin|Jonathan Freeman	Aladdin	0	0	1	0	1	feature	0	0	1	19	0	0	[]	0	0	0	5400	0
+6.6	1	G	1	Chris Van Allsburg|Robert Zemeckis	2004	tt0338348	0	123567	Robert Zemeckis	Tom Hanks|Chris Coppola|Michael Jeter|Leslie Zemeckis	The Polar Express	0	0	0	0	0	feature	0	0	1	6	0	0	[]	0	0	0	6000	0
+8.7	0	R	0	Lilly Wachowski|Lana Wachowski	1999	tt0133093	0	1247932	Lana Wachowski|Lilly Wachowski	Keanu Reeves|Laurence Fishburne|Carrie-Anne Moss|Hugo Weaving	The Matrix	1	0	0	0	0	feature	0	0	0	8	0	0	[]	0	0	1	8160	0
+7.8	0	R	0		2015	tt2870648	1	32946	Asif Kapadia	Amy Winehouse|Mitch Winehouse|Mark Ronson|Russell Brand	Amy	0	0	0	1	0	documentary	0	0	0	6	0	0	[]	0	0	0	7680	0
+7.1	0	R	0	Scott Neustadter|Michael H. Weber	2013	tt1714206	0	109430	James Ponsoldt	Miles Teller|Shailene Woodley|Kyle Chandler|Jennifer Jason Leigh	The Spectacular Now	0	0	1	0	1	feature	0	0	0	3	0	0	[]	1	0	0	5700	0
+7.2	1	PG	1	Jeff Stockwell|David Paterson	2007	tt0398808	0	112746	Gabor Csupo	Josh Hutcherson|AnnaSophia Robb|Zooey Deschanel|Robert Patrick	Bridge to Terabithia	0	0	0	0	0	feature	0	0	1	3	0	0	[]	1	0	0	5760	0
+8.4	0	R	0	Randall Wallace	1995	tt0112573	1	754165	Mel Gibson	Mel Gibson|Sophie Marceau|Patrick McGoohan|Angus Macfadyen	Braveheart	0	0	0	0	0	feature	1	0	0	4	0	0	[]	1	1	0	10680	0
+6.2	0	PG-13	0	M. Night Shyamalan	2015	tt3567288	0	71695	M. Night Shyamalan	Olivia DeJonge|Ed Oxenbould|Deanna Dunagan|Peter McRobbie	The Visit	0	0	0	0	0	feature	0	1	0	10	1	0	[]	0	0	0	5640	0
+7.8	1	TV-PG	0	Rich Moore|Phil Johnston	2012	tt1772341	0	278527	Rich Moore	John C. Reilly|Jack McBrayer|Jane Lynch|Sarah Silverman	Wreck-It Ralph	1	0	0	0	1	feature	0	0	1	18	0	0	[]	0	0	0	6060	0
+5.2	1	PG	1	Jon Vitti|Will McRobb	2007	tt0952640	0	58398	Tim Hill	Jason Lee|David Cross|Cameron Richardson|Jane Lynch	Alvin and the Chipmunks	0	0	0	1	1	feature	0	0	0	4	0	0	[]	0	0	0	5520	0
+5.4	0	PG-13	1	Katie Dippold|Paul Feig	2016	tt1289401	0	117602	Paul Feig	Melissa McCarthy|Kristen Wiig|Kate McKinnon|Leslie Jones	Ghostbusters	1	0	0	0	1	feature	0	0	0	3	0	0	[]	0	0	1	6960	0
+6.8	0	PG-13	0	George Wing	2004	tt0343660	0	270757	Peter Segal	Adam Sandler|Drew Barrymore|Rob Schneider|Sean Astin	50 First Dates	0	0	1	0	1	feature	0	0	0	3	0	0	[]	0	0	0	5940	0
+None	1	None	1	Adrian Molina	2017	tt2380307	0	None	Lee Unkrich|Adrian Molina	Benjamin Bratt	Coco	0	0	0	0	0	feature	0	0	1	3	0	1	[]	0	0	0	None	0
+8.2	0	R	0	Lilly Wachowski|Lana Wachowski	2005	tt0434409	0	812908	James McTeigue	Hugo Weaving|Natalie Portman|Rupert Graves|Stephen Rea	V for Vendetta	0	0	0	0	0	feature	0	0	0	7	1	0	[]	1	0	1	7920	0
+7.6	1	PG	1	Jennifer Lee|Hans Christian Andersen	2013	tt2294629	0	431393	Chris Buck|Jennifer Lee	Kristen Bell|Idina Menzel|Jonathan Groff|Josh Gad	Frozen	0	0	0	0	1	feature	0	0	1	37	0	0	[]	0	0	0	6120	0
+7.1	0	Not Rated	0	S. Craig Zahler	2015	tt2494362	0	39635	S. Craig Zahler	Kurt Russell|Patrick Wilson|Matthew Fox|Richard Jenkins	Bone Tomahawk	0	0	0	0	0	feature	0	1	1	9	0	0	[]	1	0	0	7920	1
+8.2	0	TV-PG	0	Margaret Mitchell|Sidney Howard	1939	tt0031381	0	220266	Victor Fleming	Clark Gable|Vivien Leigh|Thomas Mitchell|Barbara O'Neil	Gone with the Wind	0	0	1	0	0	feature	1	0	0	3	0	0	[]	1	1	0	14280	0
+7.7	1	TV-PG	0	Cinco Paul|Ken Daurio	2010	tt1323594	0	394813	Pierre Coffin|Chris Renaud	Steve Carell|Jason Segel|Russell Brand|Julie Andrews	Despicable Me	0	0	0	0	1	feature	0	0	1	27	0	0	[]	0	0	0	5220	0
+8.5	0	R	0	Damien Chazelle	2014	tt2582802	0	425842	Damien Chazelle	Miles Teller|J.K. Simmons|Melissa Benoist|Paul Reiser	Whiplash	0	0	0	1	0	feature	0	0	0	24	0	0	[]	1	0	0	6420	0
+8.5	0	R	0	David Franzoni|David Franzoni	2000	tt0172495	0	1007806	Ridley Scott	Russell Crowe|Joaquin Phoenix|Connie Nielsen|Oliver Reed	Gladiator	0	0	0	0	0	feature	0	0	1	4	0	0	[]	1	0	1	9300	0
+6.9	0	R	0	Mark Mallouk|Jez Butterworth	2015	tt1355683	1	125175	Scott Cooper	Johnny Depp|Benedict Cumberbatch|Dakota Johnson|Joel Edgerton	Black Mass	0	1	0	0	0	feature	0	0	0	23	0	0	[]	1	0	0	7380	0
+8.1	0	R	0	John Ridley|Solomon Northup	2013	tt2024544	1	455593	Steve McQueen	Chiwetel Ejiofor|Michael Kenneth Williams|Michael Fassbender|Brad Pitt	12 Years a Slave	0	0	0	0	0	feature	0	0	0	12	0	0	[]	1	1	0	8040	0
+7.9	0	R	0	Richard Linklater	2014	tt1065073	0	273931	Richard Linklater	Ellar Coltrane|Patricia Arquette|Ethan Hawke|Elijah Smith	Boyhood	0	0	0	0	0	feature	0	0	0	16	0	0	[]	1	0	0	9900	0
+7.5	0	Not Rated	1	Akira Toriyama|Akira Toriyama	2015	tt3819668	0	13556	Tadayoshi Yamamuro	Masako Nozawa|Ryô Horikawa|Hiromi Tsuru|Masaharu Satô	Dragon Ball Z: Resurrection 'F'	1	0	0	0	1	feature	0	0	1	4	0	0	[]	0	0	1	5580	0
+6.7	1	PG	0	Cinco Paul|Ken Daurio	2016	tt2709768	0	73313	Yarrow Cheney|Chris Renaud	Louis C.K.|Eric Stonestreet|Kevin Hart|Lake Bell	The Secret Life of Pets	0	0	0	0	1	feature	0	0	1	17	0	0	[]	0	0	0	5220	0
+7.3	1	PG	0	Alan Schoolcraft|Brent Simons	2010	tt1001526	0	176899	Tom McGrath	Will Ferrell|Jonah Hill|Brad Pitt|Tina Fey	Megamind	1	0	0	0	1	feature	0	0	0	10	0	0	[]	0	0	1	5700	0
+6.4	0	R	0	Luc Besson	2014	tt2872732	0	337122	Luc Besson	Scarlett Johansson|Morgan Freeman|Min-sik Choi|Amr Waked	Lucy	1	0	0	0	0	feature	0	0	0	8	1	0	[]	0	0	1	5340	0
+8.2	0	Not Rated	0	Adam Elliot	2009	tt0978762	0	123025	Adam Elliot	Toni Collette|Philip Seymour Hoffman|Eric Bana|Barry Humphries	Mary and Max	0	0	0	0	1	feature	0	0	0	11	0	0	[]	1	0	0	5520	0
+7.5	0	PG-13	0	Bob Kane|Heath Corson	2014	tt3139086	0	20586	Jay Oliva|Ethan Spaulding	Kevin Conroy|Neal McDonough|Hynden Walch|Matthew Gray Gubler	Batman: Assault on Arkham	1	1	0	0	1	video	0	0	1	3	1	0	[]	0	0	1	4560	0
+6.1	1	PG-13	0	Brian Burns|Sean Anders	2015	tt1528854	0	60635	Sean Anders	Will Ferrell|Mark Wahlberg|Linda Cardellini|Thomas Haden Church	Daddy's Home	0	0	0	0	1	feature	0	0	0	6	0	0	[]	0	0	0	5760	0
+8.1	0	R	0	Richard Kelly	2001	tt0246578	0	594450	Richard Kelly	Jake Gyllenhaal|Jena Malone|Mary McDonnell|Holmes Osborne	Donnie Darko	1	0	0	0	0	feature	0	0	0	4	1	0	[]	1	0	0	6780	0
+7	0	PG-13	0	Steven Knight|Stephen J. Rivele	2014	tt1596345	1	23729	Edward Zwick	Tobey Maguire|Liev Schreiber|Peter Sarsgaard|Michael Stuhlbarg	Pawn Sacrifice	0	0	0	0	0	feature	0	0	0	4	1	0	[]	1	0	0	6900	0
+6.7	0	PG-13	0	Jessica Sharzer|Jeanne Ryan	2016	tt3531824	0	44053	Henry Joost|Ariel Schulman	Emma Roberts|Dave Franco|Emily Meade|Miles Heizer	Nerve	0	1	0	0	0	feature	0	0	1	5	1	0	[]	0	0	0	5760	0
+6.8	0	R	0	Tess Morris	2015	tt3064298	0	34096	Ben Palmer	Keir Charles|Phoebe Waller-Bridge|Lake Bell|Robert Wilfort	Man Up	0	0	1	0	1	feature	0	0	0	7	0	0	[]	1	0	0	5280	0
+9	0	TV-14	1		2006	tt0877057	0	118557		Mamoru Miyano|Brad Swaile|Vincent Tong|Ryô Naitô	Death Note	0	1	0	0	0	tv_series	0	1	0	3	1	1	[]	1	0	0	1440	0
+8.8	0	TV-14	0		2015	tt5189670	0	46274		Dolores Avery|Steven Avery|Ken Kratz|Brendan Dassey	Making a Murderer	0	1	0	0	0	tv_series	0	0	0	3	0	0	[]	0	0	0	3600	0
+8.1	0	PG-13	0	Michael Crichton|Michael Crichton	1993	tt0107290	0	631670	Steven Spielberg	Sam Neill|Laura Dern|Jeff Goldblum|Richard Attenborough	Jurassic Park	1	0	0	0	0	feature	0	0	1	4	1	0	[]	0	0	0	7620	0
+6.8	0	PG-13	0	Chris Terrio|David S. Goyer	2016	tt2975590	0	421888	Zack Snyder	Ben Affleck|Henry Cavill|Amy Adams|Jesse Eisenberg	Batman v Superman: Dawn of Justice	1	0	0	0	0	feature	0	0	1	12	0	0	[]	0	0	1	9060	0
+6.5	0	R	1	Keith Bunin|Joe Hill	2013	tt1528071	0	57247	Alexandre Aja	Daniel Radcliffe|Juno Temple|Max Minghella|Joe Anderson	Horns	0	0	0	0	0	feature	0	1	0	4	1	0	[]	1	0	0	7200	0
+6.9	0	R	0	Gary Ross|Leonard Hartman	2016	tt1124037	1	19119	Gary Ross	Matthew McConaughey|Gugu Mbatha-Raw|Mahershala Ali|Keri Russell	Free State of Jones	0	0	0	0	0	feature	1	0	0	3	0	0	[]	1	1	1	8340	0
+8.2	1	PG	1	Mamoru Hosoda|Mamoru Hosoda	2012	tt2140203	0	20095	Mamoru Hosoda	Aoi Miyazaki|Takao Ohsawa|Haru Kuroki|Yukito Nishii	Wolf Children	0	0	0	0	0	feature	0	0	0	3	0	0	[]	1	0	0	7020	0
+7	1	PG	1	Linda Woolverton|Charles Perrault	2014	tt1587310	0	258966	Robert Stromberg	Angelina Jolie|Elle Fanning|Sharlto Copley|Lesley Manville	Maleficent	0	0	1	0	0	feature	0	0	1	13	0	0	[]	0	0	1	5820	0
+6	1	PG	1	Dr. Seuss|Jeffrey Price	2000	tt0170016	0	144139	Ron Howard	Jim Carrey|Taylor Momsen|Kelley|Jeffrey Tambor	How the Grinch Stole Christmas	0	0	0	0	1	feature	0	0	0	3	0	0	[]	0	0	0	6240	0
+7.3	0	R	0	Fede Alvarez|Rodo Sayagues	2016	tt4160708	0	69452	Fede Alvarez	Stephen Lang|Jane Levy|Dylan Minnette|Daniel Zovatto	Don't Breathe	0	1	0	0	0	feature	0	1	0	8	1	0	[]	0	0	0	5280	0
+6	1	PG	1	Glenn Berger|Jonathan Aibel	2015	tt2279373	0	35452	Paul Tibbitt|Mike Mitchell	Tom Kenny|Antonio Banderas|Bill Fagerbakke|Clancy Brown	The SpongeBob Movie: Sponge Out of Water	0	0	0	0	1	feature	0	0	1	7	0	0	[]	0	0	0	5520	0
+7.4	0	PG-13	0	Edgar Wright|Joe Cornish	2015	tt0478970	0	335340	Peyton Reed	Paul Rudd|Michael Douglas|Corey Stoll|Evangeline Lilly	Ant-Man	1	0	0	0	1	feature	0	0	1	35	0	0	[]	0	0	1	7020	0
+7.6	0	R	0	Pedro Almodóvar|Agustín Almodóvar	2011	tt1189073	0	104236	Pedro Almodóvar	Antonio Banderas|Elena Anaya|Jan Cornet|Marisa Paredes	The Skin I Live In	0	1	0	0	0	feature	0	0	0	3	1	0	[]	1	0	0	7200	0
+7.4	0	PG	0	Robert Zemeckis|Christopher Browne	2015	tt3488710	1	84751	Robert Zemeckis	Joseph Gordon-Levitt|Charlotte Le Bon|Guillaume Baillargeon|Émilie Leclerc	The Walk	0	0	0	0	0	feature	0	0	1	20	1	0	[]	1	0	0	7380	0
+6.3	1	PG	1	Linda Woolverton|Lewis Carroll	2016	tt2567026	0	40137	James Bobin	Mia Wasikowska|Johnny Depp|Helena Bonham Carter|Anne Hathaway	Alice Through the Looking Glass	0	0	0	0	0	feature	0	0	1	6	0	0	[]	0	0	0	6780	0
+8.1	1	TV-PG	1	Hayao Miyazaki	1986	tt0092067	0	102915	Hayao Miyazaki	Anna Paquin|Keiko Yokozawa|Mayumi Tanaka|James Van Der Beek	Castle in the Sky	0	0	0	0	0	feature	0	0	1	4	0	0	[]	0	0	0	7500	0
+6.7	1	TV-PG	0	Etan Cohen|Eric Darnell	2008	tt0479952	0	149893	Eric Darnell|Tom McGrath	Ben Stiller|Chris Rock|David Schwimmer|Jada Pinkett Smith	Madagascar: Escape 2 Africa	0	0	0	0	1	feature	0	0	1	9	0	0	[]	0	0	1	5340	0
+8.5	0	Approved	0	Joseph Stefano|Robert Bloch	1960	tt0054215	0	434154	Alfred Hitchcock	Anthony Perkins|Janet Leigh|Vera Miles|John Gavin	Psycho	0	0	0	0	0	feature	0	1	0	6	1	1	[]	0	0	0	6540	0
+7.8	0	PG-13	0	Peter Hedges|Peter Hedges	1993	tt0108550	0	174954	Lasse Hallström	Johnny Depp|Leonardo DiCaprio|Juliette Lewis|Mary Steenburgen	What's Eating Gilbert Grape	0	0	0	0	0	feature	0	0	0	4	0	0	[]	1	0	0	7080	0
+8.2	1	PG	1	William Davies|Dean DeBlois	2010	tt0892769	0	499392	Dean DeBlois|Chris Sanders	Jay Baruchel|Gerard Butler|Christopher Mintz-Plasse|Craig Ferguson	How to Train Your Dragon	0	0	0	0	1	feature	0	0	1	32	0	0	[]	0	0	1	5880	0
+7.8	0	PG-13	0	Christopher Markus|Stephen McFeely	2014	tt1843866	0	513736	Anthony Russo|Joe Russo	Chris Evans|Samuel L. Jackson|Scarlett Johansson|Robert Redford	Captain America: The Winter Soldier	1	0	0	0	0	feature	0	0	1	9	0	0	[]	0	0	1	8160	0
+8.1	0	R	0	Josh Singer|Tom McCarthy	2015	tt1895587	1	225403	Tom McCarthy	Mark Ruffalo|Michael Keaton|Rachel McAdams|Liev Schreiber	Spotlight	0	1	0	0	0	feature	0	0	0	43	0	0	[]	1	1	0	7680	0
+7.3	0	R	0	John Gatins	2012	tt1907668	0	268531	Robert Zemeckis	Denzel Washington|Nadine Velazquez|Don Cheadle|John Goodman	Flight	0	0	0	0	0	feature	0	0	0	3	1	0	[]	1	0	0	8280	0
+7.7	0	R	0	Annie Proulx|Larry McMurtry	2005	tt0388795	0	264033	Ang Lee	Jake Gyllenhaal|Heath Ledger|Michelle Williams|Randy Quaid	Brokeback Mountain	0	0	1	0	0	feature	0	0	0	3	0	0	[]	1	0	0	8040	0
+8.6	0	PG-13	0	Vincenzo Cerami|Roberto Benigni	1997	tt0118799	0	433944	Roberto Benigni	Roberto Benigni|Nicoletta Braschi|Giorgio Cantarini|Giustino Durano	Life Is Beautiful	0	0	0	0	1	feature	1	0	0	4	0	0	[]	1	0	0	6960	0
+7.9	0	PG-13	0	Jeremy Leven|Jan Sardi	2004	tt0332280	0	405043	Nick Cassavetes	Gena Rowlands|James Garner|Rachel McAdams|Ryan Gosling	The Notebook	0	0	1	0	0	feature	0	0	0	4	0	0	[]	1	0	0	7380	0
+6.4	1	PG	1	Robert Ben Garant|Thomas Lennon	2006	tt0477347	0	240385	Shawn Levy	Ben Stiller|Carla Gugino|Ricky Gervais|Dick Van Dyke	Night at the Museum	0	0	0	0	1	feature	0	0	1	3	0	0	[]	0	0	0	6480	0
+8.7	0	PG	1	George Lucas	1977	tt0076759	0	932511	George Lucas	Mark Hamill|Harrison Ford|Carrie Fisher|Alec Guinness	Star Wars: Episode IV - A New Hope	1	0	0	0	0	feature	0	0	1	10	0	0	[]	0	0	1	7260	0
+8.1	0	R	0	Joel Coen|Ethan Coen	2007	tt0477348	0	629720	Ethan Coen|Joel Coen	Tommy Lee Jones|Javier Bardem|Josh Brolin|Woody Harrelson	No Country for Old Men	0	1	0	0	0	feature	0	0	0	7	1	0	[]	1	0	0	7320	0
+7.3	0	R	0	Jason Hall|Chris Kyle	2014	tt2179136	1	335128	Clint Eastwood	Bradley Cooper|Sienna Miller|Kyle Gallner|Cole Konis	American Sniper	0	0	0	0	0	feature	1	0	0	7	1	0	[]	1	1	1	7980	0
+6.1	0	PG-13	0	Carlton Cuse|Andre Fabrizio	2015	tt2126355	0	153126	Brad Peyton	Dwayne Johnson|Carla Gugino|Alexandra Daddario|Colton Haynes	San Andreas	0	0	0	0	0	feature	0	0	1	9	1	0	[]	1	0	1	6840	0
+7	0	PG-13	0	Rick Jaffa|Amanda Silver	2015	tt0369610	0	432015	Colin Trevorrow	Chris Pratt|Bryce Dallas Howard|Ty Simpkins|Judy Greer	Jurassic World	1	0	0	0	0	feature	0	0	1	34	0	0	[]	0	0	1	7440	0
+6.8	0	PG-13	0	Noah Oppenheim|Grant Pierce Myers	2014	tt1790864	0	320533	Wes Ball	Dylan O'Brien|Kaya Scodelario|Will Poulter|Thomas Brodie-Sangster	The Maze Runner	1	0	0	0	0	feature	0	0	0	6	1	1	[]	0	0	1	6780	0
+7.2	0	PG-13	0	Chris Morgan|Gary Scott Thompson	2015	tt2820852	0	285452	James Wan	Vin Diesel|Paul Walker|Dwayne Johnson|Jason Statham	Furious 7	0	1	0	0	0	feature	0	0	0	23	1	0	[]	0	0	1	8220	0
+7.5	0	PG-13	1	Michael Bacall|Edgar Wright	2010	tt0446029	0	280227	Edgar Wright	Michael Cera|Mary Elizabeth Winstead|Kieran Culkin|Alison Pill	Scott Pilgrim vs. the World	0	0	1	0	1	feature	0	0	0	4	0	0	[]	0	0	1	6720	0
+7.4	0	PG-13	0	Leslie Dixon|Alan Glynn	2011	tt1219289	0	428188	Neil Burger	Bradley Cooper|Anna Friel|Abbie Cornish|Robert De Niro	Limitless	1	0	0	0	0	feature	0	0	0	5	1	1	[]	0	0	0	6300	0
+7.6	0	PG-13	0	Matt Charman|Ethan Coen	2015	tt3682448	0	195221	Steven Spielberg	Tom Hanks|Mark Rylance|Alan Alda|Amy Ryan	Bridge of Spies	0	0	0	0	0	feature	0	0	0	46	1	0	[]	1	1	0	8520	0
+7.1	0	PG-13	0	William Nicholson|Simon Beaufoy	2015	tt2719848	1	143525	Baltasar Kormákur	Jason Clarke|Ang Phula Sherpa|Thomas M. Wright|Martin Henderson	Everest	0	0	0	0	0	feature	0	0	1	22	1	0	[]	1	1	0	7260	0
+8	0	R	0	Mark L. Smith|Alejandro G. Iñárritu	2015	tt1663202	0	449972	Alejandro G. Iñárritu	Leonardo DiCaprio|Tom Hardy|Will Poulter|Domhnall Gleeson	The Revenant	0	0	0	0	0	feature	0	0	1	73	1	0	[]	1	0	0	9360	1
+8.5	0	PG	0	Robert Zemeckis|Bob Gale	1985	tt0088763	0	753189	Robert Zemeckis	Michael J. Fox|Christopher Lloyd|Lea Thompson|Crispin Glover	Back to the Future	1	0	0	0	1	feature	0	0	1	7	0	0	[]	0	0	0	6960	0
+7.1	0	PG-13	1	David S. Goyer|David S. Goyer	2013	tt0770828	0	561193	Zack Snyder	Henry Cavill|Amy Adams|Michael Shannon|Diane Lane	Man of Steel	1	0	0	0	0	feature	0	0	1	6	0	0	[]	0	0	1	8580	0
+7.7	0	R	0	Yasutaka Tsutsui|Seishi Minakami	2006	tt0851578	0	45895	Satoshi Kon	Megumi Hayashibara|Tôru Emori|Katsunosuke Hori|Tôru Furuya	Paprika	1	1	0	0	0	feature	0	1	1	3	1	1	[]	0	0	0	5400	0
+7.9	0	R	0	Richard Linklater|Julie Delpy	2013	tt2209418	0	98755	Richard Linklater	Ethan Hawke|Julie Delpy|Seamus Davey-Fitzpatrick|Ariane Labed	Before Midnight	0	0	1	0	0	feature	0	0	0	3	0	0	[]	1	0	0	6540	0
+8.6	0	TV-14	0	David McKenna	1998	tt0120586	0	801513	Tony Kaye	Edward Norton|Edward Furlong|Beverly D'Angelo|Jennifer Lien	American History X	0	1	0	0	0	feature	0	0	0	4	0	0	[]	1	0	0	6060	0
+7.5	1	PG	1	John Logan|Brian Selznick	2011	tt0970179	0	249917	Martin Scorsese	Asa Butterfield|Chloë Grace Moretz|Christopher Lee|Ben Kingsley	Hugo	0	0	1	0	0	feature	0	0	1	3	0	1	[]	1	0	0	7560	0
+9.2	1	TV-Y7	1	Michael Dante DiMartino|Bryan Konietzko	2005	tt0417299	0	138031		Dee Bradley Baker|Zach Tyler|Mae Whitman|Jack De Sena	Avatar: The Last Airbender	0	0	0	0	0	tv_series	0	0	1	4	0	1	[<Person: u'Michael Dante DiMartino' (u'nm0227204')>, <Person: u'Bryan Konietzko' (u'nm1665983')>]	0	0	1	1380	0
+8.9	1	TV-Y7	1	Alex Hirsch	2012	tt1865718	0	26630		Jason Ritter|Kristen Schaal|Alex Hirsch|Linda Cardellini	Gravity Falls	1	0	0	0	1	tv_series	0	0	1	5	0	1	[<Person: u'Alex Hirsch' (u'nm3229215')>]	0	0	0	1380	0
+8	0	PG-13	0	Steve Conrad	2006	tt0454921	1	347095	Gabriele Muccino	Will Smith|Thandie Newton|Jaden Smith|Brian Howe	The Pursuit of Happyness	0	0	0	0	0	feature	0	0	0	6	0	0	[]	1	0	0	7020	0
+5.5	1	TV-PG	1	J. David Stem|David N. Weiss	2011	tt0472181	0	67776	Raja Gosnell	Hank Azaria|Katy Perry|Jonathan Winters|Neil Patrick Harris	The Smurfs	0	0	0	0	1	feature	0	0	1	4	0	0	[]	0	0	0	6180	0
+7.8	0	R	0	Michael Arndt	2006	tt0449059	0	362577	Jonathan Dayton|Valerie Faris	Steve Carell|Toni Collette|Greg Kinnear|Abigail Breslin	Little Miss Sunshine	0	0	0	0	1	feature	0	0	0	4	0	0	[]	1	0	0	6060	0
+7	1	PG-13	1	Ransom Riggs|Jane Goldman	2016	tt1935859	0	40027	Tim Burton	Eva Green|Asa Butterfield|Samuel L. Jackson|Judi Dench	Miss Peregrine's Home for Peculiar Children	0	0	0	0	0	feature	0	0	1	3	0	0	[]	1	0	0	7620	0
+7.7	1	TV-14	1	Henry Selick|Neil Gaiman	2009	tt0327597	0	149149	Henry Selick	Dakota Fanning|Teri Hatcher|John Hodgman|Jennifer Saunders	Coraline	0	0	0	0	0	feature	0	0	0	8	0	0	[]	0	0	0	6000	0
+5.7	0	R	0	Nelson Greaves	2014	tt3713166	0	47034	Levan Gabriadze	Heather Sossaman|Matthew Bohrer|Courtney Halverson|Shelley Hennig	Unfriended	0	0	0	0	0	feature	0	1	0	4	0	0	[]	0	0	0	4980	0
+6.7	1	PG	1	James V. Hart|William Joyce	2013	tt0848537	0	87105	Chris Wedge	Amanda Seyfried|Josh Hutcherson|Beyoncé Knowles|Colin Farrell	Epic	0	0	0	0	0	feature	0	0	1	6	0	0	[]	0	0	0	6120	0
+8.5	0	PG-13	0	Jonathan Nolan|Christopher Nolan	2012	tt1345836	0	1172952	Christopher Nolan	Christian Bale|Tom Hardy|Anne Hathaway|Gary Oldman	The Dark Knight Rises	0	0	0	0	0	feature	0	0	0	10	1	0	[]	0	0	1	9840	0
+8.6	0	PG-13	0	Jonathan Nolan|Christopher Nolan	2014	tt0816692	0	970339	Christopher Nolan	Matthew McConaughey|Anne Hathaway|Jessica Chastain|Mackenzie Foy	Interstellar	1	0	0	0	0	feature	0	0	1	30	0	0	[]	1	0	0	10140	0
+8	0	PG-13	0	Simon Kinberg|Jane Goldman	2014	tt1877832	0	526566	Bryan Singer	Patrick Stewart|Ian McKellen|Hugh Jackman|James McAvoy	X-Men: Days of Future Past	1	0	0	0	0	feature	0	0	1	9	1	0	[]	0	0	1	7920	0
+5.3	0	PG-13	0	Kurt Wimmer|Rick King	2015	tt2058673	0	39187	Ericson Core	Edgar Ramírez|Luke Bracey|Ray Winstone|Teresa Palmer	Point Break	0	1	0	0	0	feature	0	0	0	4	1	0	[]	0	0	1	6840	0
+8	0	R	0	David Seidler	2010	tt1504320	1	516404	Tom Hooper	Colin Firth|Geoffrey Rush|Helena Bonham Carter|Derek Jacobi	The King's Speech	0	0	0	0	0	feature	0	0	0	4	0	0	[]	1	1	0	7080	0
+None	1	None	0		2017	tt3606752	0	None	Brian Fee	Owen Wilson	Cars 3	0	0	0	0	1	feature	0	0	1	4	0	0	[]	0	0	0	None	0
+None	1	None	0	Brad Bird	2018	tt3606756	0	None	Brad Bird	Sarah Vowell|Raymond Ochoa	The Incredibles 2	1	0	0	0	1	feature	0	0	1	3	0	0	[]	0	0	1	None	0
+7.5	0	PG-13	0	Joss Whedon|Stan Lee	2015	tt2395427	0	483346	Joss Whedon	Robert Downey Jr.|Chris Evans|Mark Ruffalo|Chris Hemsworth	Avengers: Age of Ultron	1	0	0	0	0	feature	0	0	1	41	0	0	[]	0	0	1	8460	0
+7.2	1	PG	1	Chris Sanders|Chris Sanders	2002	tt0275847	0	120652	Dean DeBlois|Chris Sanders	Daveigh Chase|Chris Sanders|Tia Carrere|David Ogden Stiers	Lilo & Stitch	1	0	0	0	1	feature	0	0	1	7	0	0	[]	1	0	0	5100	0
+8.1	0	R	0	Stefan Zweig|Wes Anderson	2014	tt2278388	0	496009	Wes Anderson	Ralph Fiennes|F. Murray Abraham|Mathieu Amalric|Adrien Brody	The Grand Budapest Hotel	0	0	0	0	1	feature	0	0	1	10	0	0	[]	1	0	0	5940	0
+8.7	0	R	0	Nicholas Pileggi|Nicholas Pileggi	1990	tt0099685	1	747102	Martin Scorsese	Robert De Niro|Ray Liotta|Joe Pesci|Lorraine Bracco	Goodfellas	0	1	0	0	0	feature	0	0	0	5	0	0	[]	1	0	0	8760	0
+8.9	0	Approved	0	Luciano Vincenzoni|Sergio Leone	1966	tt0060196	0	515724	Sergio Leone	Clint Eastwood|Eli Wallach|Lee Van Cleef|Aldo Giuffrè	The Good, the Bad and the Ugly	0	0	0	0	0	feature	0	0	0	4	0	0	[]	0	0	0	9660	1
+6.5	0	R	0	Jonathan Levine|Kyle Hunter	2015	tt3530002	0	36536	Jonathan Levine	Joseph Gordon-Levitt|Seth Rogen|Jillian Bell|Lizzy Caplan	The Night Before	0	0	0	0	1	feature	0	0	0	3	0	0	[]	0	0	0	6060	0
+9	0	R	0	Francis Ford Coppola|Mario Puzo	1974	tt0071562	0	812113	Francis Ford Coppola	Al Pacino|Robert De Niro|Robert Duvall|Diane Keaton	The Godfather: Part II	0	1	0	0	0	feature	0	0	0	6	0	0	[]	1	0	0	12120	0
+6.7	0	PG-13	0	Peter Chiarelli	2009	tt1041829	0	232815	Anne Fletcher	Sandra Bullock|Ryan Reynolds|Mary Steenburgen|Craig T. Nelson	The Proposal	0	0	1	0	1	feature	0	0	0	3	0	0	[]	1	0	0	6480	0
+7.6	0	PG-13	0	Kristine Johnson|Jessie Nelson	2001	tt0277027	0	123710	Jessie Nelson	Sean Penn|Michelle Pfeiffer|Dakota Fanning|Dianne Wiest	I Am Sam	0	0	0	0	0	feature	0	0	0	4	0	0	[]	1	0	0	7920	0
+8.2	0	R	0	Roderick Thorp|Jeb Stuart	1988	tt0095016	0	605707	John McTiernan	Bruce Willis|Alan Rickman|Bonnie Bedelia|Reginald VelJohnson	Die Hard	0	0	0	0	0	feature	0	0	0	4	1	0	[]	0	0	1	7860	0
+7.8	0	PG-13	1	Eric Roth|Eric Roth	2008	tt0421715	0	468552	David Fincher	Brad Pitt|Cate Blanchett|Tilda Swinton|Julia Ormond	The Curious Case of Benjamin Button	0	0	1	0	0	feature	0	0	0	6	0	0	[]	1	0	0	9960	0
+7.8	0	PG-13	0	Ashley Miller|Zack Stentz	2011	tt1270798	0	529215	Matthew Vaughn	James McAvoy|Michael Fassbender|Jennifer Lawrence|Kevin Bacon	X-Men: First Class	1	0	0	0	0	feature	0	0	1	4	0	0	[]	0	0	1	7920	0
+7.3	0	R	0	Guy Hibbert	2015	tt2057392	0	46089	Gavin Hood	Helen Mirren|Aaron Paul|Alan Rickman|Barkhad Abdi	Eye in the Sky	0	0	0	0	0	feature	1	0	0	4	1	0	[]	1	0	0	6120	0
+7	0	PG-13	1	Guillermo del Toro|Guillermo del Toro	2008	tt0411477	0	211377	Guillermo del Toro	Ron Perlman|Selma Blair|Doug Jones|John Alexander	Hellboy II: The Golden Army	1	0	0	0	0	feature	0	1	1	3	0	0	[]	0	0	1	7200	0
+9.5	0	TV-MA	1	David Benioff|D.B. Weiss	2011	tt0944947	0	1082541		Emilia Clarke|Peter Dinklage|Kit Harington|Lena Headey	Game of Thrones	0	0	1	0	0	tv_series	0	0	1	4	0	0	[]	1	0	0	3360	0
+7.6	1	PG	1	Justin Marks|Rudyard Kipling	2016	tt3040964	0	155588	Jon Favreau	Neel Sethi|Bill Murray|Ben Kingsley|Idris Elba	The Jungle Book	0	0	0	0	0	feature	0	0	1	13	0	0	[]	1	0	0	6360	0
+7.3	1	G	1	Steve Loter|Tom Rogers	2014	tt3120408	0	5146	Steve Loter	Ginnifer Goodwin|Mae Whitman|Rosario Dawson|Lucy Liu	Tinker Bell and the Legend of the NeverBeast	0	0	0	0	0	video	0	0	1	3	0	0	[]	0	0	0	4560	0
+7	1	TV-G	0	Carlos Saldanha|Earl Richey Jones	2011	tt1436562	0	168398	Carlos Saldanha	Jesse Eisenberg|Anne Hathaway|George Lopez|Karen Disher	Rio	0	0	0	0	1	feature	0	0	1	8	0	0	[]	0	0	0	5760	0
+8.9	0	R	0	Thomas Keneally|Steven Zaillian	1993	tt0108052	1	887704	Steven Spielberg	Liam Neeson|Ralph Fiennes|Ben Kingsley|Caroline Goodall	Schindler's List	0	0	0	0	0	feature	0	0	0	10	0	0	[]	1	1	0	11700	0
+8.3	0	Not Rated	0	Harper Lee|Horton Foote	1962	tt0056592	0	220867	Robert Mulligan	Gregory Peck|John Megna|Frank Overton|Rosemary Murphy	To Kill a Mockingbird	0	1	0	0	0	feature	0	0	0	3	0	0	[]	1	0	0	7740	0
+8.1	0	R	0	Laeta Kalogridis|Dennis Lehane	2010	tt1130884	0	810664	Martin Scorsese	Leonardo DiCaprio|Emily Mortimer|Mark Ruffalo|Ben Kingsley	Shutter Island	0	0	0	0	0	feature	0	0	0	10	1	1	[]	0	0	0	8280	0
+6.9	0	PG-13	0	Charles Leavitt|Charles Leavitt	2015	tt1390411	1	81024	Ron Howard	Chris Hemsworth|Cillian Murphy|Brendan Gleeson|Ben Whishaw	In the Heart of the Sea	0	0	0	0	0	feature	0	0	1	11	1	0	[]	1	1	1	7320	0
+8	1	PG	0	Brad Bird	2004	tt0317705	0	489646	Brad Bird	Craig T. Nelson|Samuel L. Jackson|Holly Hunter|Jason Lee	The Incredibles	0	0	0	0	0	feature	0	0	1	35	0	0	[]	0	0	1	6900	0
+7.3	0	R	0	Justin Haythe|Richard Yates	2008	tt0959337	0	155247	Sam Mendes	Leonardo DiCaprio|Kate Winslet|Christopher Fitzgerald|Jonathan Roumie	Revolutionary Road	0	0	1	0	0	feature	0	0	0	3	0	0	[]	1	0	0	7140	0
+8.1	0	PG-13	1	James Krieg|Bob Kane	2013	tt2820466	0	27318	Jay Oliva	Justin Chambers|C. Thomas Howell|Michael B. Jordan|Kevin McKidd	Justice League: The Flashpoint Paradox	1	0	0	0	0	video	0	0	1	3	0	0	[]	0	0	1	4500	0
+6.8	0	R	0	Wentworth Miller	2013	tt1682180	0	86331	Chan-wook Park	Mia Wasikowska|Nicole Kidman|Matthew Goode|Dermot Mulroney	Stoker	0	0	0	0	0	feature	0	0	0	3	1	0	[]	1	0	0	5940	0
+6.3	1	PG	0	Ron Mita|Jim McClain	2005	tt0358082	0	105253	Chris Wedge|Carlos Saldanha	Ewan McGregor|Halle Berry|Mel Brooks|Robin Williams	Robots	1	0	0	0	1	feature	0	0	1	4	0	0	[]	0	0	0	5460	0
+7	0	PG-13	0	James Vanderbilt|Alvin Sargent	2012	tt0948470	0	459617	Marc Webb	Andrew Garfield|Emma Stone|Rhys Ifans|Irrfan Khan	The Amazing Spider-Man	0	0	0	0	0	feature	0	0	1	3	0	0	[]	0	0	1	8160	0
+7.4	1	PG	1	Mark Burton|Richard Starzak	2015	tt2872750	0	25349	Mark Burton|Richard Starzak	Justin Fletcher|John Sparkes|Omid Djalili|Richard Webber	Shaun the Sheep Movie	0	0	0	0	1	feature	0	0	1	15	0	0	[]	0	0	0	5100	0
+6	0	Not Rated	0	Gaspar Noé	2015	tt3774694	0	20404	Gaspar Noé	Aomi Muyock|Karl Glusman|Klara Kristin|Juan Saavedra	Love	0	0	1	0	0	feature	0	0	0	7	0	0	[]	1	0	0	8100	0
+7.7	1	PG-13	1	Steve Kloves|J.K. Rowling	2010	tt0926084	0	338312	David Yates	Daniel Radcliffe|Emma Watson|Rupert Grint|Bill Nighy	Harry Potter and the Deathly Hallows: Part 1	0	0	0	0	0	feature	0	0	1	5	0	1	[]	0	0	0	8760	0
+7.3	1	G	1	Chris Williams|Mark Dindal	2000	tt0120917	0	131715	Mark Dindal	David Spade|John Goodman|Eartha Kitt|Patrick Warburton	The Emperor's New Groove	0	0	0	0	1	feature	0	0	1	8	0	0	[]	0	0	0	4680	0
+6.5	0	PG	1	George Lucas	1999	tt0120915	0	545456	George Lucas	Ewan McGregor|Liam Neeson|Natalie Portman|Jake Lloyd	Star Wars: Episode I - The Phantom Menace	1	0	0	0	0	feature	0	0	1	4	0	0	[]	0	0	1	8160	0
+6.2	1	PG	1	David Guion|Michael Handelman	2014	tt2692250	0	70006	Shawn Levy	Ben Stiller|Robin Williams|Owen Wilson|Dick Van Dyke	Night at the Museum 3	0	0	0	0	1	feature	0	0	1	3	0	0	[]	0	0	0	5880	0
+8.8	0	PG-13	1	J.R.R. Tolkien|Fran Walsh	2001	tt0120737	0	1267112	Peter Jackson	Elijah Wood|Ian McKellen|Orlando Bloom|Sean Bean	The Lord of the Rings: The Fellowship of the Ring	0	0	0	0	0	feature	0	0	1	10	0	0	[]	1	0	0	10680	0
+8.2	0	R	0	Guy Ritchie	1998	tt0120735	0	424081	Guy Ritchie	Jason Flemyng|Dexter Fletcher|Nick Moran|Jason Statham	Lock, Stock and Two Smoking Barrels	0	1	0	0	1	feature	0	0	0	3	0	0	[]	0	0	0	6420	0
+6.9	1	TV-PG	1	Peter Gaulke|Gerry Swallow	2006	tt0438097	0	198787	Carlos Saldanha	Ray Romano|John Leguizamo|Denis Leary|Seann William Scott	Ice Age: The Meltdown	0	0	0	0	1	feature	0	0	1	11	0	0	[]	0	1	1	5460	0
+7.2	0	R	0	Derek Kolstad	2014	tt2911666	0	265746	Chad Stahelski	Keanu Reeves|Michael Nyqvist|Alfie Allen|Willem Dafoe	John Wick	0	1	0	0	0	feature	0	0	0	5	1	0	[]	0	0	1	6060	0
+7.7	0	R	0	Jane Goldman|Matthew Vaughn	2014	tt2802144	0	412604	Matthew Vaughn	Colin Firth|Taron Egerton|Samuel L. Jackson|Michael Caine	Kingsman: The Secret Service	0	1	0	0	1	feature	0	0	1	24	1	0	[]	0	0	1	7740	0
+8.1	0	R	0	Damián Szifrón	2014	tt3011894	0	97496	Damián Szifrón	Darío Grandinetti|María Marull|Mónica Villa|Rita Cortese	Wild Tales	0	0	0	0	1	feature	0	0	0	5	1	0	[]	1	0	0	7320	0
+7.9	0	R	0	Quentin Tarantino	2015	tt3460252	0	299434	Quentin Tarantino	Samuel L. Jackson|Kurt Russell|Jennifer Jason Leigh|Walton Goggins	The Hateful Eight	0	1	0	0	0	feature	0	0	0	50	1	1	[]	1	0	0	10020	1
+7.8	0	PG-13	0	Roberto Orci|Alex Kurtzman	2013	tt1408101	0	405636	J.J. Abrams	Chris Pine|Zachary Quinto|Zoe Saldana|Benedict Cumberbatch	Star Trek Into Darkness	1	0	0	0	0	feature	0	0	1	3	0	0	[]	0	0	1	7920	0
+7.9	0	PG-13	0	Tony Gilroy|W. Blake Herron	2002	tt0258463	0	419516	Doug Liman	Franka Potente|Matt Damon|Chris Cooper|Clive Owen	The Bourne Identity	0	0	0	0	0	feature	0	0	0	3	1	1	[]	0	0	1	7140	0
+8.5	0	PG	0	Giuseppe Tornatore|Giuseppe Tornatore	1988	tt0095765	0	157302	Giuseppe Tornatore	Philippe Noiret|Enzo Cannavale|Antonella Attili|Isa Danieli	Cinema Paradiso	0	0	0	0	0	feature	0	0	0	3	0	0	[]	1	0	0	9300	0
+6	0	PG-13	1	Cory Goodman|Matt Sazama	2015	tt1618442	0	64405	Breck Eisner	Vin Diesel|Rose Leslie|Elijah Wood|Ólafur Darri Ólafsson	The Last Witch Hunter	0	0	0	0	0	feature	0	0	1	4	0	0	[]	0	0	1	6360	0
+8.6	1	TV-Y7	1	Michael Dante DiMartino|Bryan Konietzko	2012	tt1695360	0	67993		Janet Varney|P.J. Byrne|David Faustino|J.K. Simmons	The Legend of Korra	1	0	0	0	0	tv_series	0	0	1	4	0	0	[<Person: u'Michael Dante DiMartino' (u'nm0227204')>, <Person: u'Bryan Konietzko' (u'nm1665983')>]	1	0	1	1380	0
+8.2	0	6	0	Mark Monroe	2015	tt1618448	0	4781	Louie Psihoyos	Elon Musk|Joel Sartore|Louie Psihoyos|Charles Hambleton	Racing Extinction	0	0	0	0	0	documentary	0	0	1	3	1	0	[]	0	0	1	5400	0
+8.9	0	Approved	0	Reginald Rose|Reginald Rose	1957	tt0050083	0	462753	Sidney Lumet	Henry Fonda|Lee J. Cobb|Martin Balsam|John Fiedler	12 Angry Men	0	1	0	0	0	feature	0	0	0	7	0	0	[]	1	0	0	5760	0
+8.7	1	TV-PG	1	Pendleton Ward	2010	tt1305826	0	50066		John DiMaggio|Jeremy Shada|Tom Kenny|Hynden Walch	Adventure Time	1	0	0	0	1	tv_series	0	0	1	3	0	0	[<Person: u'Pendleton Ward' (u'nm2216378')>]	0	0	0	660	0
+7.1	0	PG-13	0	Brian Aldiss|Ian Watson	2001	tt0212720	0	242735	Steven Spielberg	Haley Joel Osment|Jude Law|Frances O'Connor|Sam Robards	A.I. Artificial Intelligence	1	0	0	0	0	feature	0	0	1	4	0	0	[]	1	0	0	8760	0
+7.3	1	PG	0	Jonathan Aibel|Glenn Berger	2011	tt1302011	0	188151	Jennifer Yuh Nelson	Jack Black|Angelina Jolie|Jackie Chan|Dustin Hoffman	Kung Fu Panda 2	0	0	0	0	1	feature	0	0	1	15	0	0	[]	0	0	1	5400	0
+7.1	0	R	0	Irvine Welsh|Jon S. Baird	2013	tt1450321	0	76029	Jon S. Baird	James McAvoy|Jamie Bell|Eddie Marsan|Imogen Poots	Filth	0	1	0	0	1	feature	0	0	0	3	0	0	[]	1	0	0	5820	0
+6.9	0	PG-13	0	Abi Morgan	2015	tt3077214	1	23577	Sarah Gavron	Carey Mulligan|Anne-Marie Duff|Helena Bonham Carter|Meryl Streep	Suffragette	0	0	0	0	0	feature	0	0	0	9	0	0	[]	1	1	0	6360	0
+7.7	0	R	0	Chris Terrio|Tony Mendez	2012	tt1024648	1	462010	Ben Affleck	Ben Affleck|Bryan Cranston|John Goodman|Alan Arkin	Argo	0	0	0	0	0	feature	0	0	0	5	1	0	[]	1	1	0	7200	0
+7.4	1	PG	0	Hergé|Steven Moffat	2011	tt0983193	0	179993	Steven Spielberg	Jamie Bell|Andy Serkis|Daniel Craig|Simon Pegg	The Adventures of Tintin	0	0	0	0	0	feature	0	0	1	7	0	1	[]	0	0	1	6420	0
+8.2	1	G	0	Andrew Stanton|Andrew Stanton	2003	tt0266543	0	713828	Andrew Stanton|Lee Unkrich	Albert Brooks|Ellen DeGeneres|Alexander Gould|Willem Dafoe	Finding Nemo	0	0	0	0	1	feature	0	0	1	53	0	0	[]	0	0	0	6000	0
+7.5	0	R	0	David Mitchell|Lana Wachowski	2012	tt1371111	0	289921	Tom Tykwer|Lana Wachowski	Tom Hanks|Halle Berry|Hugh Grant|Hugo Weaving	Cloud Atlas	1	0	0	0	0	feature	0	0	0	4	0	0	[]	1	0	0	10320	0
+8.1	1	TV-PG	1	Pete Docter|Jill Culton	2001	tt0198781	0	603100	Pete Docter|David Silverman	Billy Crystal|John Goodman|Mary Gibbs|Steve Buscemi	Monsters, Inc.	0	0	0	0	1	feature	0	1	1	47	0	0	[]	0	0	0	5520	0
+8.1	0	R	0	Peter Morgan	2013	tt1979320	1	322822	Ron Howard	Daniel Brühl|Chris Hemsworth|Olivia Wilde|Alexandra Maria Lara	Rush	0	0	0	0	0	feature	0	0	0	3	0	0	[]	1	0	1	7380	0
+8.4	0	PG-13	0	Rajkumar Hirani|Abhijat Joshi	2009	tt1187043	0	218439	Rajkumar Hirani	Aamir Khan|Madhavan|Mona Singh|Sharman Joshi	3 Idiots	0	0	0	0	1	feature	0	0	0	4	0	0	[]	1	0	0	10200	0
+6.3	0	PG-13	0	Jamie Linden|Nicholas Sparks	2010	tt0989757	0	107565	Lasse Hallström	Channing Tatum|Amanda Seyfried|Richard Jenkins|Henry Thomas	Dear John	0	0	1	0	0	feature	1	0	0	3	0	0	[]	1	0	0	6480	0
+7.5	0	PG-13	0	Nick Hornby|Colm Tóibín	2015	tt2381111	0	83974	John Crowley	Saoirse Ronan|Emory Cohen|Domhnall Gleeson|Jim Broadbent	Brooklyn	0	0	1	0	0	feature	0	0	0	24	0	0	[]	1	0	0	7020	0
+8.7	0	R	0	Lawrence Hauben|Bo Goldman	1975	tt0073486	0	695909	Milos Forman	Jack Nicholson|Louise Fletcher|Michael Berryman|Peter Brocco	One Flew Over the Cuckoo's Nest	0	0	0	0	0	feature	0	0	0	5	0	0	[]	1	0	0	7980	0
+7.7	0	PG-13	1	Woody Allen	2011	tt1605783	0	307816	Woody Allen	Owen Wilson|Rachel McAdams|Kathy Bates|Kurt Fuller	Midnight in Paris	0	0	1	0	1	feature	0	0	0	8	0	0	[]	0	0	0	5640	0
+4.4	1	TV-PG	1	Jonathan Aibel|Glenn Berger	2011	tt1615918	0	23341	Mike Mitchell	Justin Long|Jesse McCartney|Jason Lee|David Cross	Alvin and the Chipmunks: Chipwrecked	0	0	0	1	1	feature	0	0	1	3	0	0	[]	0	0	0	5220	0
+7.9	0	R	0	Jonathan Herman|Andrea Berloff	2015	tt1398426	1	128606	F. Gary Gray	O'Shea Jackson Jr.|Corey Hawkins|Jason Mitchell|Neil Brown Jr.	Straight Outta Compton	0	1	0	1	0	feature	0	0	0	28	0	0	[]	1	1	0	8820	0
+6.8	0	R	0	Ilya Naishuller|Will Stewart	2015	tt3072482	0	49975	Ilya Naishuller	Sharlto Copley|Tim Roth|Haley Bennett|Danila Kozlovsky	Hardcore Henry	1	0	0	0	0	feature	0	0	1	5	1	0	[]	0	0	1	5760	0
+8.3	1	G	1	John Lasseter|Andrew Stanton	2010	tt0435761	0	559756	Lee Unkrich	Tom Hanks|Tim Allen|Joan Cusack|Ned Beatty	Toy Story 3	0	0	0	0	1	feature	0	0	1	45	0	0	[]	0	0	0	6180	0
+8.7	0	R	0	Paulo Lins|Bráulio Mantovani	2002	tt0317248	0	545623	Fernando Meirelles|Kátia Lund	Alexandre Rodrigues|Matheus Nachtergaele|Leandro Firmino|Phellipe Haagensen	City of God	0	1	0	0	0	feature	0	0	0	4	0	0	[]	1	0	0	7800	0
+7.2	1	G	0	Tab Murphy|Bob Tzudiker	1999	tt0120855	0	148167	Chris Buck|Kevin Lima	Tony Goldwyn|Minnie Driver|Brian Blessed|Glenn Close	Tarzan	0	0	1	1	0	feature	0	0	1	10	0	0	[]	0	0	0	5280	0
+6.2	0	PG-13	1	Todd Casey|Michael Dougherty	2015	tt3850590	0	34534	Michael Dougherty	Adam Scott|Toni Collette|David Koechner|Allison Tolman	Krampus	0	0	0	0	1	feature	0	1	0	3	0	0	[]	0	0	0	5880	0
+7.1	0	R	0	Scott Z. Burns	2013	tt2053463	0	150770	Steven Soderbergh	Rooney Mara|Channing Tatum|Jude Law|Catherine Zeta-Jones	Side Effects	0	1	0	0	0	feature	0	0	0	4	1	0	[]	1	0	0	6360	0
+7.3	1	Approved	0	Ward Greene|Erdman Penner	1955	tt0048280	0	87650	Clyde Geronimi|Wilfred Jackson	Barbara Luddy|Larry Roberts|Peggy Lee|Bill Thompson	Lady and the Tramp	0	0	1	0	1	feature	0	0	1	3	0	0	[]	1	0	0	4560	0
+6.6	0	R	0	Brad Ingelsby	2015	tt2199571	0	78829	Jaume Collet-Serra	Liam Neeson|Ed Harris|Joel Kinnaman|Vincent D'Onofrio	Run All Night	0	1	0	0	0	feature	0	0	0	4	1	0	[]	1	0	1	6840	0
+6.9	0	R	0	Tim Talbott|Philip Zimbardo	2015	tt0420293	1	18185	Kyle Patrick Alvarez	Ezra Miller|Tye Sheridan|Billy Crudup|Olivia Thirlby	The Stanford Prison Experiment	0	0	0	0	0	feature	0	0	0	7	1	0	[]	1	1	0	7320	0
+7	1	PG	1	Chris Weitz	2015	tt1661199	0	108259	Kenneth Branagh	Lily James|Cate Blanchett|Richard Madden|Helena Bonham Carter	Cinderella	0	0	1	0	0	feature	0	0	0	23	0	0	[]	1	0	0	6300	0
+8.5	0	PG	0	Lawrence Kasdan|George Lucas	1981	tt0082971	0	676266	Steven Spielberg	Harrison Ford|Karen Allen|Paul Freeman|John Rhys-Davies	Raiders of the Lost Ark	0	0	0	0	0	feature	0	0	1	5	0	0	[]	0	0	1	6900	0
+8.2	0	Unrated	0	Buster Keaton|Clyde Bruckman	1926	tt0017925	0	55083	Clyde Bruckman|Buster Keaton	Buster Keaton|Marion Mack|Glen Cavender|Jim Farley	The General	0	0	0	0	1	feature	1	0	1	3	0	0	[]	1	0	1	4500	1
+7.6	0	PG-13	0	William Nicholson|Alain Boublil	2012	tt1707386	0	248415	Tom Hooper	Hugh Jackman|Russell Crowe|Anne Hathaway|Amanda Seyfried	Les Misérables	0	0	1	0	0	feature	0	0	0	8	0	0	[]	1	0	0	9480	0
+8.5	0	PG-13	0	Ron Fricke|Mark Magidson	2011	tt0770802	0	23483	Ron Fricke	Balinese Tari Legong Dancers|Ni Made Megahadi Pratiwi|Puti Sri Candra Dewi|Putu Dinda Pratika	Samsara	0	0	0	1	0	documentary	0	0	0	3	0	0	[]	0	0	0	6120	0
+7	1	G	0	Peter Lord|Nick Park	2000	tt0120630	0	142988	Peter Lord|Nick Park	Mel Gibson|Julia Sawalha|Phil Daniels|Lynn Ferguson	Chicken Run	0	0	0	0	1	feature	0	0	1	4	0	0	[]	1	0	0	5040	0
+6.8	1	G	1	Tab Murphy|Lorne Cameron	2003	tt0328880	0	72337	Aaron Blaise|Robert Walker	Joaquin Phoenix|Jeremy Suarez|Rick Moranis|Jason Raize	Brother Bear	0	0	0	0	0	feature	0	0	1	8	0	0	[]	0	0	0	5100	0
+8	1	PG	0	Tim McCanlies|Brad Bird	1999	tt0129167	0	131568	Brad Bird	Eli Marienthal|Harry Connick Jr.|Jennifer Aniston|Vin Diesel	The Iron Giant	1	0	0	0	1	feature	0	1	1	4	0	0	[]	1	0	1	5160	0
+6.3	0	R	0	Amy Schumer	2015	tt3152624	0	99582	Judd Apatow	Amy Schumer|Bill Hader|Brie Larson|Colin Quinn	Trainwreck	0	0	1	0	1	feature	0	0	0	18	0	0	[]	1	0	0	7500	0
+8	1	G	1	Linda Woolverton|Brenda Chapman	1991	tt0101414	0	316297	Gary Trousdale|Kirk Wise	Paige O'Hara|Robby Benson|Jesse Corti|Rex Everhart	Beauty and the Beast	0	0	1	0	0	feature	0	0	0	21	0	0	[]	0	0	0	5040	0
+7.4	1	TV-PG	1	J.K. Rowling|Steve Kloves	2002	tt0295297	0	399107	Chris Columbus	Daniel Radcliffe|Rupert Grint|Emma Watson|Richard Harris	Harry Potter and the Chamber of Secrets	0	0	0	0	0	feature	0	0	1	5	0	1	[]	0	0	0	9660	0
+9.1	0	TV-MA	0	Nic Pizzolatto	2014	tt2356777	0	339312		Vince Vaughn|Colin Farrell|Rachel McAdams|Taylor Kitsch	True Detective	0	1	0	0	0	tv_series	0	0	0	4	1	1	[<Person: u'Nic Pizzolatto' (u'nm4446305')>]	1	0	0	3300	0
