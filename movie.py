@@ -33,6 +33,7 @@ class Movie:
     self.votes = movie.votes
     self.certification = movie.certification
     self.action = 0
+    self.animation = 0
     self.comedy = 0
     self.horror = 0
     self.adventure = 0
@@ -85,3 +86,5 @@ class Movie:
         self.family = 1
       elif g.lower() == 'music':
         self.music = 1
+      elif g.lower() == 'animation':
+        self.animation = 1
