@@ -8,7 +8,7 @@ import pandas as pd
 from movie import Movie
 import urllib2
 
-movie_id = 'tt0110912'
+movie_id = 'tt0822832'
 
 # Scraping
 file_name = scraper.Scrape(movie_id)
@@ -17,7 +17,8 @@ file_name = scraper.Scrape(movie_id)
 # Writing
 print "\nStarted at",datetime.datetime.now()
 
-columns = ['rating','family','certification','fantasy','writers_summary','year','id','biography','votes','directors_summary','cast_summary','title','sci_fi','crime','romance','music','comedy','type','war','horror','adventure','freq','thriller','mystery','creators','drama','history','action','runtime','western']
+columns = ['rating', 'family', 'certification', 'fantasy', 'writers_summary', 'year', 'id', 'biography', 'votes', 'directors_summary', 'cast_summary', 'title', 'sci_fi', 'crime', 'romance', 'animation', 'music', 'comedy', 'type', 'war', 'horror', 'adventure', 'freq', 'thriller', 'mystery', 'creators', 'drama', 'history', 'action', 'runtime', 'western']
+
 path = os.path.join(os.getcwd(), "data", "{0}_workfile.tsv".format(movie_id))
 f = open(path, 'w')
 f.write('\t'.join(x for x in columns) + '\n')

@@ -22,7 +22,10 @@ def Calculate(movie_id):
   df = df.sort_values(by='freq', ascending=False)
   df[['freq','rating','votes','year','runtime']] = df[['freq','rating','votes','year','runtime']].apply(pd.to_numeric, errors='coerce')
 
+  print df.head(10)
+
   target_movie = df[:1]
+  print target_movie
 
   adjusters = ['year','rating','votes','runtime','freq']
   for col in df.columns:
@@ -74,4 +77,4 @@ def Calculate(movie_id):
 
 
 
-# Calculate('tt2096673')
+Calculate('tt0822832')
